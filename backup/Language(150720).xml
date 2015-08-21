@@ -1,0 +1,6398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Language>
+    <login>
+        <BTN_START>
+            <Korean>시작</Korean>
+            <English>START</English>
+            <Chinese>开始</Chinese>
+        </BTN_START>
+        <BTN_EXIT>
+            <Korean>종료</Korean>
+            <English>EXIT</English>
+            <Chinese>退出</Chinese>
+        </BTN_EXIT>
+        <BTN_BASEINFO>
+            <Korean>매장정보설정</Korean>
+            <English>BASE INFO</English>
+            <Chinese>店铺信息设置</Chinese>
+        </BTN_BASEINFO>
+        <BTN_DEVSET>
+            <Korean>장치세부설정</Korean>
+            <English>DEVICE SETTING</English>
+            <Chinese>设备详细设置</Chinese>
+        </BTN_DEVSET>
+        <L1>
+            <Korean>새로운 업데이트 항목이 있습니다.(</Korean>
+            <English>new updates are available.(</English>
+            <Chinese>有可更新的内容</Chinese>
+        </L1>
+        <L2>
+            <Korean>업데이트 하시겠습니까?</Korean>
+            <English>update now?</English>
+            <Chinese>可以立刻更新吗？</Chinese>
+        </L2>
+        <L3>
+            <Korean>장치 설정 파일이 존재하지 않습니다.</Korean>
+            <English>device setting file not exists</English>
+            <Chinese>设备环境设置文件不存在</Chinese>
+        </L3>
+        <L4>
+            <Korean>장치 연결 설정을 해주셔야 합니다.</Korean>
+            <English>please set up the device connectingl</English>
+            <Chinese>请设置设备连接</Chinese>
+        </L4>
+        <L5>
+            <Korean>비밀번호가 일치하지 않습니다.</Korean>
+            <English>invalid password</English>
+            <Chinese>密码不正确</Chinese>
+        </L5>
+        <L6>
+            <Korean>아이디와 비밀번호를 입력해주세요.</Korean>
+            <English/>
+            <Chinese/>
+        </L6>
+        <L7>
+            <Korean>아이디</Korean>
+            <English/>
+            <Chinese/>
+        </L7>
+        <L8>
+            <Korean>이 름</Korean>
+            <English/>
+            <Chinese/>
+        </L8>
+        <L9>
+            <Korean>비밀번호</Korean>
+            <English/>
+            <Chinese/>
+        </L9>
+    </login>
+    <button>
+        <BTN_ADD>
+            <Korean>추가</Korean>
+            <English> Add</English>
+            <Chinese>追加</Chinese>
+        </BTN_ADD>
+        <BTN_CANCEL>
+            <Korean>취소</Korean>
+            <English>Cancel</English>
+            <Chinese>取消</Chinese>
+        </BTN_CANCEL>
+        <BTN_CLOSE>
+            <Korean>닫기</Korean>
+            <English>Close</English>
+            <Chinese>关闭</Chinese>
+        </BTN_CLOSE>
+        <BTN_DELETE>
+            <Korean>삭제</Korean>
+            <English>Delete</English>
+            <Chinese>删除</Chinese>
+        </BTN_DELETE>
+        <BTN_ENTER>
+            <Korean>입력</Korean>
+            <English>Enter</English>
+            <Chinese>输入</Chinese>
+        </BTN_ENTER>
+        <BTN_NEW>
+            <Korean>신규</Korean>
+            <English>New</English>
+            <Chinese>新加</Chinese>
+        </BTN_NEW>
+        <BTN_NEXT>
+            <Korean>다음</Korean>
+            <English>Next</English>
+            <Chinese>下一步</Chinese>
+        </BTN_NEXT>
+        <BTN_OK>
+            <Korean>확인</Korean>
+            <English>Ok</English>
+            <Chinese>确认</Chinese>
+        </BTN_OK>
+        <BTN_PREV>
+            <Korean>이전</Korean>
+            <English>Prev</English>
+            <Chinese>上一步</Chinese>
+        </BTN_PREV>
+        <BTN_MOD>
+            <Korean>수정</Korean>
+            <English/>
+            <Chinese/>
+        </BTN_MOD>
+        <BTN_SAVE>
+            <Korean>저장</Korean>
+            <English>Save</English>
+            <Chinese>保存</Chinese>
+        </BTN_SAVE>
+        <BTN_SEARCH>
+            <Korean>검색</Korean>
+            <English>Search</English>
+            <Chinese>检索</Chinese>
+        </BTN_SEARCH>
+        <BTN_SELECT>
+            <Korean>선택</Korean>
+            <English>Select</English>
+            <Chinese>选择</Chinese>
+        </BTN_SELECT>
+        <BTN_SELECT_ALL>
+            <Korean>전체선택</Korean>
+            <English>SelectAll</English>
+            <Chinese>全选</Chinese>
+        </BTN_SELECT_ALL>
+        <BTN_CONNECT>
+            <Korean>연결</Korean>
+            <English>Connect</English>
+            <Chinese>连接</Chinese>
+        </BTN_CONNECT>
+        <BTN_OPEN>
+            <Korean>열기</Korean>
+            <English>Open</English>
+            <Chinese>打开</Chinese>
+        </BTN_OPEN>
+        <BTN_DISPLAY>
+            <Korean>화면출력</Korean>
+            <English>DISPLAY</English>
+            <Chinese>画面显示</Chinese>
+        </BTN_DISPLAY>
+        <BTN_PRINT>
+            <Korean>인쇄</Korean>
+            <English>Print</English>
+            <Chinese>印刷</Chinese>
+        </BTN_PRINT>
+        <BTN_REQUEST>
+            <Korean>서명요청</Korean>
+            <English>Sign Request</English>
+            <Chinese>请求输入签署</Chinese>
+        </BTN_REQUEST>
+        <BTN_CONFIRM>
+            <Korean>서명확인</Korean>
+            <English>Sign Confirm</English>
+            <Chinese>确认签名</Chinese>
+        </BTN_CONFIRM>
+        <BTN_SEND>
+            <Korean>발주전송</Korean>
+            <English>Send Order</English>
+            <Chinese>发出订单传送</Chinese>
+        </BTN_SEND>
+        <BTN_TOTAL>
+            <Korean>원</Korean>
+            <English>$</English>
+            <Chinese>元</Chinese>
+        </BTN_TOTAL>
+        <BTN_SAVE_ORDER>
+            <Korean>발주저장</Korean>
+            <English>Save Order</English>
+            <Chinese>保存订单</Chinese>
+        </BTN_SAVE_ORDER>
+        <BTN_CONFIRM_ORDER>
+            <Korean>발주확정</Korean>
+            <English>Confirm Order</English>
+            <Chinese>确定订单</Chinese>
+        </BTN_CONFIRM_ORDER>
+        <BTN_HISTORY>
+            <Korean>발주이력</Korean>
+            <English>Order History</English>
+            <Chinese>订单履历</Chinese>
+        </BTN_HISTORY>
+        <BTN_SEARCH_CODE>
+            <Korean>코드검색</Korean>
+            <English>Search Code</English>
+            <Chinese>检索代码</Chinese>
+        </BTN_SEARCH_CODE>
+        <BTN_SORTING_HIGHPRICE>
+            <Korean>높은 가격순</Korean>
+            <English>Sorting HighPrice</English>
+            <Chinese>高价序</Chinese>
+        </BTN_SORTING_HIGHPRICE>
+        <BTN_SORTING_LOWPRICE>
+            <Korean>낮은 가격순</Korean>
+            <English>Sorting LowPrice</English>
+            <Chinese>低价序</Chinese>
+        </BTN_SORTING_LOWPRICE>
+        <BTN_SORTING_HIGHNAME>
+            <Korean>높은 이름순</Korean>
+            <English>Sorting Name</English>
+            <Chinese>高价序</Chinese>
+        </BTN_SORTING_HIGHNAME>
+        <BTN_SORTING_LOWNAME>
+            <Korean>낮은 이름순</Korean>
+            <English>Sorting Name</English>
+            <Chinese>低价序</Chinese>
+        </BTN_SORTING_LOWNAME>
+        <BTN_SORTING_USERDEFINE>
+            <Korean>사용자 정의</Korean>
+            <English/>
+            <Chinese/>
+        </BTN_SORTING_USERDEFINE>
+        <BTN_HOLDING>
+            <Korean>보류</Korean>
+            <English>Holding</English>
+            <Chinese>保留</Chinese>
+        </BTN_HOLDING>
+        <BTN_HOLDING_CALL>
+            <Korean>보류호출</Korean>
+            <English>Call Holding</English>
+            <Chinese>保持呼叫</Chinese>
+        </BTN_HOLDING_CALL>
+        <BTN_DELIVERY>
+            <Korean>배달</Korean>
+            <English>Delivery</English>
+            <Chinese>配送</Chinese>
+        </BTN_DELIVERY>
+        <BTN_DELIVERY2>
+            <Korean>포장/배달</Korean>
+            <English/>
+            <Chinese/>
+        </BTN_DELIVERY2>
+        <BTN_DELIVERY_CANCEL>
+            <Korean>포장취소</Korean>
+            <English/>
+            <Chinese/>
+        </BTN_DELIVERY_CANCEL>
+        <BTN_PAYMENT>
+            <Korean>지불</Korean>
+            <English/>
+            <Chinese/>
+        </BTN_PAYMENT>
+        <BTN_PREV_TRANS>
+            <Korean>직전거래</Korean>
+            <English>PrevTransaction</English>
+            <Chinese>前一步交易</Chinese>
+        </BTN_PREV_TRANS>
+        <BTN_DIRECT_REFUND>
+            <Korean>직접등록환불</Korean>
+            <English>DirectRefund</English>
+            <Chinese>手动退钱</Chinese>
+        </BTN_DIRECT_REFUND>
+        <BTN_REFUND>
+            <Korean>환불</Korean>
+            <English>Refund</English>
+            <Chinese>退钱</Chinese>
+        </BTN_REFUND>
+        <BTN_REFUND_RELOAD>
+            <Korean>환불 후 재등록</Korean>
+            <English>Reentrance</English>
+            <Chinese>退钱后继续结帐</Chinese>
+        </BTN_REFUND_RELOAD>
+        <BTN_REPRINT>
+            <Korean>영수증 재출력</Korean>
+            <English>ReprintReceipt</English>
+            <Chinese>重印收据</Chinese>
+        </BTN_REPRINT>
+        <BTN_PAYMENT_LIST>
+            <Korean>지불내역</Korean>
+            <English>Payment List</English>
+            <Chinese>付款单</Chinese>
+        </BTN_PAYMENT_LIST>
+        <BTN_PRODUCT_LIST>
+            <Korean>상품내역</Korean>
+            <English>Product List</English>
+            <Chinese>商品明细</Chinese>
+        </BTN_PRODUCT_LIST>
+        <BTN_MODIFY>
+            <Korean>선택삭제</Korean>
+            <English>Modify</English>
+            <Chinese>修改</Chinese>
+        </BTN_MODIFY>
+        <BTN_ORDER>
+            <Korean>주문</Korean>
+            <English>Order</English>
+            <Chinese>订购</Chinese>
+        </BTN_ORDER>
+        <BTN_PERIOD>
+            <Korean>정산일자</Korean>
+            <English>Settlement Date</English>
+            <Chinese>结清日期</Chinese>
+        </BTN_PERIOD>
+        <BTN_USER_TYPE>
+            <Korean>캐셔</Korean>
+            <English>Cashier</English>
+            <Chinese>收银员</Chinese>
+        </BTN_USER_TYPE>
+        <BTN_RETRY>
+            <Korean>재시도</Korean>
+            <English>Retry</English>
+            <Chinese>重试</Chinese>
+        </BTN_RETRY>
+        <BTN_RECEIPT_PRINT>
+            <Korean>영수증 발행</Korean>
+            <English/>
+            <Chinese/>
+        </BTN_RECEIPT_PRINT>
+    </button>
+    <devicemanager>
+        <label1>
+            <Korean>디바이스</Korean>
+            <English>Device</English>
+            <Chinese>设备</Chinese>
+        </label1>
+        <label2>
+            <Korean>포트</Korean>
+            <English>Port</English>
+            <Chinese>端口</Chinese>
+        </label2>
+        <label3>
+            <Korean>전송속도</Korean>
+            <English>Transmission Speed</English>
+            <Chinese>传输速度</Chinese>
+        </label3>
+        <label4>
+            <Korean>주소</Korean>
+            <English>Address</English>
+            <Chinese>地址</Chinese>
+        </label4>
+        <label5>
+            <Korean>디바이스 설정 정보가 저장되었습니다.</Korean>
+            <English>saved device setting information</English>
+            <Chinese>设备环境设置保存成功了</Chinese>
+        </label5>
+        <label6>
+            <Korean>연결 장치를 선택해주셔야합니다.</Korean>
+            <English>select connecting device</English>
+            <Chinese>请选择设备</Chinese>
+        </label6>
+        <label7>
+            <Korean>이미지</Korean>
+            <English>Image</English>
+            <Chinese>图像</Chinese>
+        </label7>
+        <devicemanagerform>
+            <Korean>장치세부설정</Korean>
+            <English>Device Manager</English>
+            <Chinese>设备详细设置</Chinese>
+        </devicemanagerform>
+        <label8>
+            <Korean>더 이상 등록할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label8>
+        <label9>
+            <Korean>확인</Korean>
+            <English/>
+            <Chinese/>
+        </label9>
+        <label10>
+            <Korean>동일한 PRINTER 아이디가 존재합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label10>
+        <label11>
+            <Korean>동일한 PRINTER IP가 존재합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label11>
+        <label12>
+            <Korean>동일한 PRINTER 포트가 존재합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label12>
+        <label13>
+            <Korean>&lt;서브프린터(이더넷)&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label13>
+        <label14>
+            <Korean>&lt;서브프린터(시리얼)&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label14>
+        <label15>
+            <Korean>고객번호입력</Korean>
+            <English/>
+            <Chinese/>
+        </label15>
+    </devicemanager>
+    <popupcard>
+        <rdo_auto>
+            <Korean>자동승인</Korean>
+            <English>Auto Approval</English>
+            <Chinese>自动批准</Chinese>
+        </rdo_auto>
+        <rdo_manual>
+            <Korean>외부 단말 승인</Korean>
+            <English>Manual Approval</English>
+            <Chinese>手动批准</Chinese>
+        </rdo_manual>
+        <lbl_1>
+            <Korean>카드번호</Korean>
+            <English>Card No.</English>
+            <Chinese>卡号</Chinese>
+        </lbl_1>
+        <lbl_2>
+            <Korean>결제금액</Korean>
+            <English>Payment</English>
+            <Chinese>付款金额</Chinese>
+        </lbl_2>
+        <lbl_3>
+            <Korean>유효기간</Korean>
+            <English>Valid Date</English>
+            <Chinese>有效期间</Chinese>
+        </lbl_3>
+        <lbl_4>
+            <Korean>할부개월</Korean>
+            <English>Installment</English>
+            <Chinese>分期付款个月</Chinese>
+        </lbl_4>
+        <lbl_5>
+            <Korean>승인번호</Korean>
+            <English>Approval No.</English>
+            <Chinese>批准号</Chinese>
+        </lbl_5>
+        <lbl_6>
+            <Korean>원거래일자</Korean>
+            <English>Date of Payment</English>
+            <Chinese>原始交易日期</Chinese>
+        </lbl_6>
+        <L1>
+            <Korean>유효하지 않은 정보가 있습니다.</Korean>
+            <English>invalid information</English>
+            <Chinese>有无效信息。</Chinese>
+        </L1>
+        <L1_1>
+            <Korean>확인 후 다시 시도하여 주시기 바랍니다.</Korean>
+            <English>please check and retry</English>
+            <Chinese>请再确认后进行</Chinese>
+        </L1_1>
+        <L1_2>
+            <Korean>카드정보가 없습니다.</Korean>
+            <English>no card information</English>
+            <Chinese>信用卡信息不存在</Chinese>
+        </L1_2>
+        <L2>
+            <Korean>카드 거래 요청 중...</Korean>
+            <English>request card transaction...</English>
+            <Chinese>正在请求信用卡交易中。。。</Chinese>
+        </L2>
+        <L2_1>
+            <Korean>현금영수증 거래 요청중...</Korean>
+            <English>request cash receipt...</English>
+            <Chinese>正在请求现金单据交易中。。。</Chinese>
+        </L2_1>
+        <L3>
+            <Korean>] 거래가 실패하였습니다.</Korean>
+            <English>] failing transaction</English>
+            <Chinese>交易失败了</Chinese>
+        </L3>
+        <L4>
+            <Korean>] 장애로 거래가 취소되었습니다. 다시 시도하여 주시기 바랍니다.</Korean>
+            <English>] canceling transaction. please retry.</English>
+            <Chinese>因障碍遭遇交易取消。请重试。</Chinese>
+        </L4>
+        <L5>
+            <Korean>] 장애로 거래가 실패하였습니다. VAN 또는 카드사에 전화 바랍니다.</Korean>
+            <English>] failing transaction. please call to VAN or card company.</English>
+            <Chinese>因障碍遭遇交易失败。请联系到VAN或者信用卡公司。</Chinese>
+        </L5>
+        <L6>
+            <Korean>사인 데이터의 용량이 초과되었습니다.</Korean>
+            <English>sign data limit exceeded</English>
+            <Chinese>签署数据超了限量</Chinese>
+        </L6>
+        <L7>
+            <Korean>네트워크 오류로 인하여 처리하지 못하였습니다.</Korean>
+            <English>failed at processing on network error</English>
+            <Chinese>因网络问题，遇到处理失败。</Chinese>
+        </L7>
+        <L8>
+            <Korean>거래가 취소되었습니다.</Korean>
+            <English>canceling transaction</English>
+            <Chinese>交易取消了</Chinese>
+        </L8>
+        <L9>
+            <Korean>로그파일 생성 실패.</Korean>
+            <English>failing log-file creation</English>
+            <Chinese>记录文件生成失败</Chinese>
+        </L9>
+        <L10>
+            <Korean>통신 중 에러발생.</Korean>
+            <English>caused communication problems</English>
+            <Chinese>通讯中发生错误</Chinese>
+        </L10>
+        <L11>
+            <Korean>거래완료 상황에서 장애 발생.</Korean>
+            <English>error appears on finishing transaction</English>
+            <Chinese>在交易完成的阶段中，发生障碍。</Chinese>
+        </L11>
+        <L12>
+            <Korean>망 장애로 거래가 실패하였습니다. VAN 또는 카드사에 전화 바랍니다.</Korean>
+            <English>failing transaction. please call to VAN or card company</English>
+            <Chinese>因网络障碍遇到交易失败。请联系到VAN或者信用卡公司。</Chinese>
+        </L12>
+        <L13>
+            <Korean>설정에서 결제모듈이 선택되지 않았습니다</Korean>
+            <English>pay module not selected.</English>
+            <Chinese>在环境设置里，未选了付款模块</Chinese>
+        </L13>
+        <L13_1>
+            <Korean>설정 후 다시 결제바랍니다. (예: KSNET</Korean>
+            <English>KISVAN 등) </English>
+            <Chinese> please retry after setting</Chinese>
+        </L13_1>
+        <L14>
+            <Korean>거래가 실패하였습니다.</Korean>
+            <English>failing transaction</English>
+            <Chinese>交易失败了。</Chinese>
+        </L14>
+        <L15>
+            <Korean>OK 캐쉬백 조회 중...</Korean>
+            <English>inquire Cashbag...</English>
+            <Chinese>正在查询OK cashbag中。。。</Chinese>
+        </L15>
+        <L16>
+            <Korean>OK 캐쉬백 사용</Korean>
+            <English>using cahsback</English>
+            <Chinese>使用OK Cashbag</Chinese>
+        </L16>
+        <L17>
+            <Korean>OK 캐쉬백 적립</Korean>
+            <English>saving Cashbag</English>
+            <Chinese>积存OK Cashbag积分</Chinese>
+        </L17>
+        <L18>
+            <Korean>넘어가기</Korean>
+            <English>next</English>
+            <Chinese>下一步</Chinese>
+        </L18>
+        <L19>
+            <Korean>OK 캐쉬백 사용거래 중...</Korean>
+            <English>using Cashbag transaction...</English>
+            <Chinese>正在请求OK Cashbag使用。。。</Chinese>
+        </L19>
+        <L20>
+            <Korean>OK 캐쉬백 적립거래 중...</Korean>
+            <English>saving Cashbag transaction...</English>
+            <Chinese>正在请求OK Cashbag积存。。。</Chinese>
+        </L20>
+        <L21>
+            <Korean>상품권 인증이 실패하였습니다.</Korean>
+            <English>failed voucher confirmation</English>
+            <Chinese>请求购物券批准。批准失败了。</Chinese>
+        </L21>
+        <L22>
+            <Korean>원승인번호</Korean>
+            <English/>
+            <Chinese/>
+        </L22>
+    </popupcard>
+    <popupcardreceipt>
+        <label1>
+            <Korean>현금결제금액</Korean>
+            <English>Cash Payment</English>
+            <Chinese>现金付款金额</Chinese>
+        </label1>
+        <label2>
+            <Korean>원</Korean>
+            <English>$</English>
+            <Chinese>元</Chinese>
+        </label2>
+        <label3>
+            <Korean>연락처</Korean>
+            <English>Phone NO.</English>
+            <Chinese>联络</Chinese>
+        </label3>
+        <label4>
+            <Korean>카드</Korean>
+            <English>Card</English>
+            <Chinese>信用卡</Chinese>
+        </label4>
+        <rdo1>
+            <Korean>현금영수증</Korean>
+            <English>Receipt</English>
+            <Chinese>现金单据</Chinese>
+        </rdo1>
+        <rdo2>
+            <Korean>지출증빙</Korean>
+            <English>Refer</English>
+            <Chinese>支出证明</Chinese>
+        </rdo2>
+        <rdo3>
+            <Korean>자진발급</Korean>
+            <English>Self</English>
+            <Chinese/>
+        </rdo3>
+        <rdo4>
+            <Korean>넘어가기</Korean>
+            <English>None</English>
+            <Chinese>无需证明</Chinese>
+        </rdo4>
+    </popupcardreceipt>
+    <popupcashbag>
+        <label1>
+            <Korean>카드번호</Korean>
+            <English>Card NO.</English>
+            <Chinese>卡号</Chinese>
+        </label1>
+        <label2>
+            <Korean>가용포인트</Korean>
+            <English>Total Point</English>
+            <Chinese>可用积分</Chinese>
+        </label2>
+        <label3>
+            <Korean>사용포인트</Korean>
+            <English>Use Point</English>
+            <Chinese>使用积分</Chinese>
+        </label3>
+        <label4>
+            <Korean>비밀번호</Korean>
+            <English>Password</English>
+            <Chinese>密码</Chinese>
+        </label4>
+    </popupcashbag>
+    <popupvoucher>
+        <label1>
+            <Korean>상품권번호</Korean>
+            <English>Voucher NO.</English>
+            <Chinese>购物券号码</Chinese>
+        </label1>
+        <label2>
+            <Korean>상품권명</Korean>
+            <English>Voucher Name</English>
+            <Chinese>购物券名</Chinese>
+        </label2>
+        <label3>
+            <Korean>상품권금액</Korean>
+            <English>Voucher Amt.</English>
+            <Chinese>购物券金额</Chinese>
+        </label3>
+        <label4>
+            <Korean>사용가능금액</Korean>
+            <English>Vaild Amt.</English>
+            <Chinese>可使用的金额</Chinese>
+        </label4>
+        <label5>
+            <Korean>사용금액</Korean>
+            <English>Used Amt.</English>
+            <Chinese>使用的金额</Chinese>
+        </label5>
+        <label6>
+            <Korean>전자상품권 교환권</Korean>
+            <English>Voucher Exchange</English>
+            <Chinese>购物券交换</Chinese>
+        </label6>
+        <label7>
+            <Korean>전자상품권 금액권</Korean>
+            <English>Voucher Price</English>
+            <Chinese>购物券</Chinese>
+        </label7>
+        <BTN_TRADE>
+            <Korean>교환</Korean>
+            <English>Exchange</English>
+            <Chinese>交换</Chinese>
+        </BTN_TRADE>
+        <label8>
+            <Korean>교환상품</Korean>
+            <English/>
+            <Chinese/>
+        </label8>
+    </popupvoucher>
+    <popupmccoupon>
+        <label1>
+            <Korean>상품권번호</Korean>
+            <English>Voucher NO.</English>
+            <Chinese>购物券号码</Chinese>
+        </label1>
+        <label2>
+            <Korean>상품권명</Korean>
+            <English>Voucher Name</English>
+            <Chinese>购物券名</Chinese>
+        </label2>
+        <label3>
+            <Korean>상품권금액</Korean>
+            <English>Voucher Amt.</English>
+            <Chinese>购物券金额</Chinese>
+        </label3>
+        <label4>
+            <Korean>상품권사용액</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+        <label5>
+            <Korean>상품권조회</Korean>
+            <English/>
+            <Chinese/>
+        </label5>
+    </popupmccoupon>
+    <popuppoint>
+        <label1>
+            <Korean>카드번호</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>가용포인트</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>사용포인트</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>비밀번호</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+    </popuppoint>
+    <rmpos_address>
+        <label1>
+            <Korean>주소입력</Korean>
+            <English>Insert Address</English>
+            <Chinese>输入地址</Chinese>
+        </label1>
+    </rmpos_address>
+    <rmpos_baseinfo>
+        <label1>
+            <Korean>매장정보설정</Korean>
+            <English>Co. Information Setting</English>
+            <Chinese>店铺信息设置</Chinese>
+        </label1>
+        <label2>
+            <Korean>회사코드</Korean>
+            <English>Company Code</English>
+            <Chinese>公司代码</Chinese>
+        </label2>
+        <label3>
+            <Korean>매장코드</Korean>
+            <English>Store Code</English>
+            <Chinese>店铺代码</Chinese>
+        </label3>
+        <label4>
+            <Korean>포스번호</Korean>
+            <English>Pos Number</English>
+            <Chinese>POS号</Chinese>
+        </label4>
+        <label5>
+            <Korean>VAN번호</Korean>
+            <English>Van Number</English>
+            <Chinese>VAN号</Chinese>
+        </label5>
+        <label6>
+            <Korean>VAN서비스</Korean>
+            <English>Van Service</English>
+            <Chinese>VAN服务</Chinese>
+        </label6>
+        <label7>
+            <Korean>운영타입</Korean>
+            <English>*****</English>
+            <Chinese>*****</Chinese>
+        </label7>
+        <label8>
+            <Korean>지원모드</Korean>
+            <English>*****</English>
+            <Chinese>*****</Chinese>
+        </label8>
+        <sales_type_prepay>
+            <Korean>선불제</Korean>
+            <English>*****</English>
+            <Chinese>*****</Chinese>
+        </sales_type_prepay>
+        <sales_type_furpay>
+            <Korean>후불제</Korean>
+            <English>*****</English>
+            <Chinese>*****</Chinese>
+        </sales_type_furpay>
+        <sales_supp_eatout>
+            <Korean>외식</Korean>
+            <English>*****</English>
+            <Chinese>*****</Chinese>
+        </sales_supp_eatout>
+        <sales_supp_circur>
+            <Korean>유통</Korean>
+            <English>*****</English>
+            <Chinese>*****</Chinese>
+        </sales_supp_circur>
+        <outmsg1>
+            <Korean>입력되지 않은 정보가 있습니다.</Korean>
+            <English>more information required</English>
+            <Chinese>未输入的信息还存在</Chinese>
+        </outmsg1>
+        <outmsg2>
+            <Korean>암호를 입력하여 주십시오.</Korean>
+            <English>*****</English>
+            <Chinese>*****</Chinese>
+        </outmsg2>
+    </rmpos_baseinfo>
+    <rmpos_beeper>
+        <label1>
+            <Korean>호출기 번호</Korean>
+            <English>Beeper No.</English>
+            <Chinese>呼叫器号</Chinese>
+        </label1>
+        <label2>
+            <Korean>호출기 번호입력</Korean>
+            <English>Enter Beeper No.</English>
+            <Chinese>输入呼叫器号</Chinese>
+        </label2>
+    </rmpos_beeper>
+    <rmpos_calendar>
+        <label1>
+            <Korean>시작일</Korean>
+            <English>Start Date</English>
+            <Chinese>开始日</Chinese>
+        </label1>
+        <label2>
+            <Korean>년</Korean>
+            <English>year</English>
+            <Chinese>年</Chinese>
+        </label2>
+        <label3>
+            <Korean>월</Korean>
+            <English>month</English>
+            <Chinese>月</Chinese>
+        </label3>
+        <label4>
+            <Korean>일</Korean>
+            <English>date</English>
+            <Chinese>日</Chinese>
+        </label4>
+        <label5>
+            <Korean>종료일</Korean>
+            <English>End Date</English>
+            <Chinese>结束日</Chinese>
+        </label5>
+        <label6>
+            <Korean>년</Korean>
+            <English>year</English>
+            <Chinese>年</Chinese>
+        </label6>
+        <label7>
+            <Korean>월</Korean>
+            <English>month</English>
+            <Chinese>月</Chinese>
+        </label7>
+        <label8>
+            <Korean>일</Korean>
+            <English>date</English>
+            <Chinese>日</Chinese>
+        </label8>
+        <label9>
+            <Korean>기간선택</Korean>
+            <English>Select Date</English>
+            <Chinese>日</Chinese>
+        </label9>
+    </rmpos_calendar>
+    <rmpos_cashflow>
+        <label1>
+            <Korean>검색일자</Korean>
+            <English>Search Date</English>
+            <Chinese>0年0月0日</Chinese>
+        </label1>
+        <label2>
+            <Korean>현금</Korean>
+            <English>Cash</English>
+            <Chinese>现金</Chinese>
+        </label2>
+        <label3>
+            <Korean>원</Korean>
+            <English>$</English>
+            <Chinese>元</Chinese>
+        </label3>
+        <label4>
+            <Korean>상품권</Korean>
+            <English>Coupon</English>
+            <Chinese>购物券</Chinese>
+        </label4>
+        <label5>
+            <Korean>매</Korean>
+            <English>psc</English>
+            <Chinese>张数</Chinese>
+        </label5>
+        <label6>
+            <Korean>원</Korean>
+            <English>$</English>
+            <Chinese>元</Chinese>
+        </label6>
+        <label7>
+            <Korean>총액</Korean>
+            <English>Total</English>
+            <Chinese>总额</Chinese>
+        </label7>
+        <label8>
+            <Korean>원</Korean>
+            <English>$</English>
+            <Chinese>元</Chinese>
+        </label8>
+        <label9>
+            <Korean>취소할 항목이 선택되지 않았습니다.</Korean>
+            <English>no item selected to cancel</English>
+            <Chinese>还没选择了要取消的项目。</Chinese>
+        </label9>
+        <label10>
+            <Korean>취소 항목은 취소 할 수 없습니다.</Korean>
+            <English>failed at canceling</English>
+            <Chinese>对于已取消的项目，不可再次取消。</Chinese>
+        </label10>
+        <label11>
+            <Korean>입출금 등록</Korean>
+            <English>Deposit and Withdraw</English>
+            <Chinese/>
+        </label11>
+        <IN>
+            <Korean>입금</Korean>
+            <English>Deposit</English>
+            <Chinese>存款</Chinese>
+        </IN>
+        <OUT>
+            <Korean>출금</Korean>
+            <English>Withdraw</English>
+            <Chinese>提取</Chinese>
+        </OUT>
+        <lbl1>
+            <Korean>일련번호</Korean>
+            <English>Serial Number</English>
+            <Chinese>序列号</Chinese>
+        </lbl1>
+        <lbl2>
+            <Korean>등록시간</Korean>
+            <English>Enroll time</English>
+            <Chinese>注册时间</Chinese>
+        </lbl2>
+        <lbl3>
+            <Korean>현금</Korean>
+            <English>Cash</English>
+            <Chinese>现金</Chinese>
+        </lbl3>
+        <lbl4>
+            <Korean>상품권 금액</Korean>
+            <English>Voucher Amt.</English>
+            <Chinese>购物券金额</Chinese>
+        </lbl4>
+        <lbl5>
+            <Korean>상품권 매수</Korean>
+            <English>Voucher Qt.</English>
+            <Chinese>购物券张数</Chinese>
+        </lbl5>
+        <lbl6>
+            <Korean>구분</Korean>
+            <English>Section</English>
+            <Chinese>区分</Chinese>
+        </lbl6>
+        <lbl7>
+            <Korean>비고</Korean>
+            <English>Note</English>
+            <Chinese>备注</Chinese>
+        </lbl7>
+        <key1>
+            <Korean>현금</Korean>
+            <English>Cash</English>
+            <Chinese>现金</Chinese>
+        </key1>
+        <key2>
+            <Korean>상품권 수</Korean>
+            <English>Voucher Qt.</English>
+            <Chinese>购物券数</Chinese>
+        </key2>
+        <key3>
+            <Korean>상품권 금액</Korean>
+            <English>Voucher Amount</English>
+            <Chinese>购物券金额</Chinese>
+        </key3>
+    </rmpos_cashflow>
+    <rmpos_collection>
+        <label1>
+            <Korean>주문수</Korean>
+            <English>Order No.</English>
+            <Chinese>订购数</Chinese>
+        </label1>
+        <label2>
+            <Korean>날짜</Korean>
+            <English>Date</English>
+            <Chinese>日期</Chinese>
+        </label2>
+        <label3>
+            <Korean>고객</Korean>
+            <English>Customer</English>
+            <Chinese>顾客</Chinese>
+        </label3>
+        <label4>
+            <Korean>총금액</Korean>
+            <English>Total Amt.</English>
+            <Chinese>总金额</Chinese>
+        </label4>
+        <label5>
+            <Korean>0건</Korean>
+            <English>0ea.</English>
+            <Chinese>0件</Chinese>
+        </label5>
+        <label6>
+            <Korean>0원</Korean>
+            <English>0$</English>
+            <Chinese>0元</Chinese>
+        </label6>
+        <label7>
+            <Korean>모든회원</Korean>
+            <English>Members</English>
+            <Chinese>所有的会员</Chinese>
+        </label7>
+        <label8>
+            <Korean>회원검색</Korean>
+            <English>Search</English>
+            <Chinese>检索会员</Chinese>
+        </label8>
+        <label9>
+            <Korean>외상수금인 1회 1회원만 가능합니다.</Korean>
+            <English>collecting credit is allowing only once per a member</English>
+            <Chinese>关于收款赊账，每个会员只允许一次。</Chinese>
+        </label9>
+        <reset>
+            <Korean>선택 취소</Korean>
+            <English>Clear All</English>
+            <Chinese>取消全选</Chinese>
+        </reset>
+        <ON>
+            <Korean>주문 번호</Korean>
+            <English>Order No.</English>
+            <Chinese>订购号码</Chinese>
+        </ON>
+        <CN>
+            <Korean>회원 번호</Korean>
+            <English>Cust. No.</English>
+            <Chinese>会员号码</Chinese>
+        </CN>
+        <S>
+            <Korean>원</Korean>
+            <English>$</English>
+            <Chinese>元</Chinese>
+        </S>
+        <T>
+            <Korean>총</Korean>
+            <English>Total</English>
+            <Chinese>总</Chinese>
+        </T>
+        <E>
+            <Korean>개</Korean>
+            <English>ea.</English>
+            <Chinese>个</Chinese>
+        </E>
+    </rmpos_collection>
+    <rmpos_customer_class>
+        <label1>
+            <Korean>객층 정보 선택</Korean>
+            <English>Customer Class</English>
+            <Chinese>会员等级</Chinese>
+        </label1>
+        <label2>
+            <Korean>성별</Korean>
+            <English>Sex</English>
+            <Chinese>性别</Chinese>
+        </label2>
+        <label3>
+            <Korean>연령</Korean>
+            <English>Ages</English>
+            <Chinese>年龄</Chinese>
+        </label3>
+        <label4>
+            <Korean>인원</Korean>
+            <English>Number</English>
+            <Chinese>人数</Chinese>
+        </label4>
+        <label5>
+            <Korean>유형</Korean>
+            <English>Type</English>
+            <Chinese>类型</Chinese>
+        </label5>
+        <btn1>
+            <Korean>회원</Korean>
+            <English>Member</English>
+            <Chinese>会员</Chinese>
+        </btn1>
+        <btn2>
+            <Korean>남성</Korean>
+            <English>Male</English>
+            <Chinese>男性</Chinese>
+        </btn2>
+        <btn3>
+            <Korean>여성</Korean>
+            <English>Female</English>
+            <Chinese>女性</Chinese>
+        </btn3>
+        <btn4>
+            <Korean>10대</Korean>
+            <English>Teen</English>
+            <Chinese>10岁代</Chinese>
+        </btn4>
+        <btn5>
+            <Korean>20대</Korean>
+            <English>Twenties</English>
+            <Chinese>20岁代</Chinese>
+        </btn5>
+        <btn6>
+            <Korean>30대</Korean>
+            <English>Thirties</English>
+            <Chinese>30岁代</Chinese>
+        </btn6>
+        <btn7>
+            <Korean>40대</Korean>
+            <English>Forties</English>
+            <Chinese>40岁代</Chinese>
+        </btn7>
+        <btn8>
+            <Korean>50대</Korean>
+            <English>Fifties</English>
+            <Chinese>50岁代</Chinese>
+        </btn8>
+        <btn9>
+            <Korean>60대</Korean>
+            <English>Sixties</English>
+            <Chinese>60岁代</Chinese>
+        </btn9>
+        <btn10>
+            <Korean>혼자</Korean>
+            <English>Alone</English>
+            <Chinese>自己</Chinese>
+        </btn10>
+        <btn11>
+            <Korean>친구</Korean>
+            <English>Friends</English>
+            <Chinese>朋友</Chinese>
+        </btn11>
+        <btn12>
+            <Korean>연인</Korean>
+            <English>Couple</English>
+            <Chinese>情人</Chinese>
+        </btn12>
+        <btn13>
+            <Korean>가족</Korean>
+            <English>Family</English>
+            <Chinese>家人</Chinese>
+        </btn13>
+        <btn14>
+            <Korean>모임</Korean>
+            <English>Meeting</English>
+            <Chinese>聚会</Chinese>
+        </btn14>
+    </rmpos_customer_class>
+    <rmpos_customer_info>
+        <label1>
+            <Korean>회원 조회</Korean>
+            <English>Check Members</English>
+            <Chinese>查询会员</Chinese>
+        </label1>
+        <label2>
+            <Korean>회원</Korean>
+            <English>Member</English>
+            <Chinese>会员</Chinese>
+        </label2>
+        <label3>
+            <Korean>회원번호</Korean>
+            <English>No.</English>
+            <Chinese>会员号码</Chinese>
+        </label3>
+        <label4>
+            <Korean>이름</Korean>
+            <English>Name</English>
+            <Chinese>名字</Chinese>
+        </label4>
+        <label5>
+            <Korean>성별</Korean>
+            <English>Sex</English>
+            <Chinese>性别</Chinese>
+        </label5>
+        <label6>
+            <Korean>생일</Korean>
+            <English>D.of Birth</English>
+            <Chinese>生日</Chinese>
+        </label6>
+        <label7>
+            <Korean>고객번호</Korean>
+            <English>Phone</English>
+            <Chinese>电话</Chinese>
+        </label7>
+        <label8>
+            <Korean>카드번호</Korean>
+            <English>Card No.</English>
+            <Chinese>卡号</Chinese>
+        </label8>
+        <label9>
+            <Korean>포인트</Korean>
+            <English>Point</English>
+            <Chinese>积分</Chinese>
+        </label9>
+        <label10>
+            <Korean>주소</Korean>
+            <English>Address</English>
+            <Chinese>地址</Chinese>
+        </label10>
+        <label11>
+            <Korean>고객번호</Korean>
+            <English>Telephone</English>
+            <Chinese>电话号码</Chinese>
+        </label11>
+        <L1>
+            <Korean>신규회원 등록에 실패하였습다.</Korean>
+            <English>failing on registering new member</English>
+            <Chinese>新增会员新增失败了。</Chinese>
+        </L1>
+        <L2>
+            <Korean>주소등록에 실패하였습니다.</Korean>
+            <English>failing on registering address</English>
+            <Chinese>注册地址注册失败了</Chinese>
+        </L2>
+        <L3>
+            <Korean>삭제할 주소를 선택하여 주십시오</Korean>
+            <English>select address to delete</English>
+            <Chinese>请选择要删除的地址。</Chinese>
+        </L3>
+        <L4>
+            <Korean>주소 삭제에 실패하였습니다.</Korean>
+            <English>failing on deleting address</English>
+            <Chinese>删除地址删除失败了。</Chinese>
+        </L4>
+        <L5>
+            <Korean>고객번호 등록에 실패하였습니다.</Korean>
+            <English>failing on registering phone No.</English>
+            <Chinese>注册电话号注册失败了</Chinese>
+        </L5>
+        <L6>
+            <Korean>삭제할 고객번호를 선택하여 주십시오</Korean>
+            <English>select phone No. to delete</English>
+            <Chinese>请选择要注册的电话号。</Chinese>
+        </L6>
+        <L7>
+            <Korean>고객번호 삭제에 실패하였습니다.</Korean>
+            <English>failing on deleting phone No.</English>
+            <Chinese>删除电话号删除失败了</Chinese>
+        </L7>
+        <L8>
+            <Korean>선택한 회원이 없습니다.</Korean>
+            <English>no member selected</English>
+            <Chinese>未选择了会员</Chinese>
+        </L8>
+        <L9>
+            <Korean>고객번호는 4자리 이상 입력하여 주십시오</Korean>
+            <English>phone digits must have more than 4 numbers</English>
+            <Chinese>请输入4位以上的电话号码。</Chinese>
+        </L9>
+        <L10>
+            <Korean>고객번호 : </Korean>
+            <English>phone No.</English>
+            <Chinese>电话号 ：</Chinese>
+        </L10>
+        <L11>
+            <Korean>핸드폰 : </Korean>
+            <English>cell phone</English>
+            <Chinese>手机号 ：</Chinese>
+        </L11>
+        <L12>
+            <Korean>남성</Korean>
+            <English>male</English>
+            <Chinese>男性</Chinese>
+        </L12>
+        <L13>
+            <Korean>여성</Korean>
+            <English>female</English>
+            <Chinese>女性</Chinese>
+        </L13>
+        <L14>
+            <Korean>알수없음</Korean>
+            <English>unknown</English>
+            <Chinese>未知</Chinese>
+        </L14>
+    </rmpos_customer_info>
+    <rmpos_delivery_pay_method>
+        <label1>
+            <Korean>지불 수단</Korean>
+            <English>Payment Method</English>
+            <Chinese>付款手段</Chinese>
+        </label1>
+        <label2>
+            <Korean>현금</Korean>
+            <English>Cash</English>
+            <Chinese>现金</Chinese>
+        </label2>
+        <label3>
+            <Korean>카드</Korean>
+            <English>Card</English>
+            <Chinese>卡</Chinese>
+        </label3>
+    </rmpos_delivery_pay_method>
+    <devicecheck>
+        <network>
+            <Korean>네트워크 상태 확인</Korean>
+            <English>checking network status</English>
+            <Chinese>检查网络状态</Chinese>
+        </network>
+        <configuration>
+            <Korean>포스 환경 확인</Korean>
+            <English>checking pos configuration</English>
+            <Chinese>检查POS环境设定</Chinese>
+        </configuration>
+        <global_values>
+            <Korean>전역 변수 확인</Korean>
+            <English>check global variables</English>
+            <Chinese>检查全局变量</Chinese>
+        </global_values>
+        <db_manager>
+            <Korean>데이터베이스 연결 상태 확인</Korean>
+            <English>checking connection to database</English>
+            <Chinese>检查数据库连接状态</Chinese>
+        </db_manager>
+        <time_syncronizing>
+            <Korean>서버와 시간 동기화</Korean>
+            <English>syncronize time with server</English>
+            <Chinese>与服务器时间同步</Chinese>
+        </time_syncronizing>
+        <get_client_info>
+            <Korean>클라이언트 정보 수신</Korean>
+            <English>get clients information</English>
+            <Chinese>收到客户端信息</Chinese>
+        </get_client_info>
+        <receive_product_info>
+            <Korean>상품 정보 수신</Korean>
+            <English>get product information</English>
+            <Chinese>收到商品信息</Chinese>
+        </receive_product_info>
+        <receive_shop_info>
+            <Korean>매장 정보 수신</Korean>
+            <English>get shop information</English>
+            <Chinese>收到店铺信息</Chinese>
+        </receive_shop_info>
+        <receive_classification_info>
+            <Korean>상품 카테고리 수신</Korean>
+            <English>get classification of goods</English>
+            <Chinese>收到商品目录</Chinese>
+        </receive_classification_info>
+        <receive_cashier_info>
+            <Korean>판매자 정보 수신</Korean>
+            <English>get cashier information</English>
+            <Chinese>收到收银员信息</Chinese>
+        </receive_cashier_info>
+        <check_device_connection>
+            <Korean>디바이스 연결 상태 확인</Korean>
+            <English>checking connection to devices</English>
+            <Chinese>检查设备连接状态</Chinese>
+        </check_device_connection>
+        <L1>
+            <Korean>네트워크 설정을 확인하시기 바랍니다.</Korean>
+            <English>check for network setting</English>
+            <Chinese>请检查网络环境设置</Chinese>
+        </L1>
+        <L2>
+            <Korean>환경 설정 파일이 존재하지 않아 정보를 초기화합니다.</Korean>
+            <English>reset information</English>
+            <Chinese>环境设置文件不存在。进行初始化。</Chinese>
+        </L2>
+        <L3>
+            <Korean>데이터베이스 연결이 실패하였습니다.</Korean>
+            <English>failed at connecting database</English>
+            <Chinese>连接数据库连接失败了</Chinese>
+        </L3>
+        <L4>
+            <Korean>서버와 연결되지 않았습니다.</Korean>
+            <English>server not connected</English>
+            <Chinese>无法连接到服务器</Chinese>
+        </L4>
+        <L5>
+            <Korean>상품마스터 수신이 실패하였습니다.</Korean>
+            <English>failed at receiving product master</English>
+            <Chinese>受信商品Master受信失败了。</Chinese>
+        </L5>
+        <L6>
+            <Korean>매장 정보 수신이 실패하였습니다.</Korean>
+            <English>failed at receiving store information</English>
+            <Chinese>受信店铺信息受信失败了</Chinese>
+        </L6>
+        <L7>
+            <Korean>카테고리 정보 수신이 실패하였습니다.</Korean>
+            <English>failed at receiving category information</English>
+            <Chinese>受信目录信息受信失败了</Chinese>
+        </L7>
+        <L8>
+            <Korean>기초코드 정보 수신이 실패하였습니다.</Korean>
+            <English>failed at receiving data information</English>
+            <Chinese>受信基础代码信息受信失败了</Chinese>
+        </L8>
+        <L9>
+            <Korean>사용자 정보 수신이 실패하였습니다.</Korean>
+            <English>failed at receiving user information</English>
+            <Chinese>受信用户信息受信失败了</Chinese>
+        </L9>
+        <L10>
+            <Korean>연결이 실패 하였습니다. 장치 설정을 확인바랍니다.</Korean>
+            <English>connection failed. check for device setting</English>
+            <Chinese>连接失败了， 请确认设备环境设置。</Chinese>
+        </L10>
+        <L11>
+            <Korean>장치 설정 파일이 존재하지 않습니다.</Korean>
+            <English>device setting file not exists</English>
+            <Chinese>设备环境设置文件不存在。</Chinese>
+        </L11>
+        <system_checking>
+            <Korean>시스템 확인</Korean>
+            <English/>
+            <Chinese/>
+        </system_checking>
+        <L12>
+            <Korean>사용자 정보 수정</Korean>
+            <English/>
+            <Chinese/>
+        </L12>
+        <L13>
+            <Korean>테이블 거래 정보 정리</Korean>
+            <English/>
+            <Chinese/>
+        </L13>
+        <L14>
+            <Korean>카드거래 추가 정보 등록</Korean>
+            <English/>
+            <Chinese/>
+        </L14>
+        <L15>
+            <Korean>거래테이블 추가 정보 등록</Korean>
+            <English/>
+            <Chinese/>
+        </L15>
+        <L16>
+            <Korean>테이블 추가 정보 등록</Korean>
+            <English/>
+            <Chinese/>
+        </L16>
+        <L17>
+            <Korean>정산채번 데이터 정보 등록</Korean>
+            <English/>
+            <Chinese/>
+        </L17>
+        <L18>
+            <Korean>후불제 선결제 확인 정보 등록</Korean>
+            <English/>
+            <Chinese/>
+        </L18>
+        <L19>
+            <Korean>POS 프린터 리스트 정보 등록</Korean>
+            <English/>
+            <Chinese/>
+        </L19>
+        <L20>
+            <Korean>선불포인트 할인 데이터 적용</Korean>
+            <English/>
+            <Chinese/>
+        </L20>
+        <L21>
+            <Korean>테이블 정보 수신</Korean>
+            <English/>
+            <Chinese/>
+        </L21>
+        <L22>
+            <Korean>거래 정리</Korean>
+            <English/>
+            <Chinese/>
+        </L22>
+        <L23>
+            <Korean>비정상 거래 취소처리</Korean>
+            <English/>
+            <Chinese/>
+        </L23>
+        <L24>
+            <Korean>POS API DAEMON 서버 실행</Korean>
+            <English/>
+            <Chinese/>
+        </L24>
+        <L25>
+            <Korean>RMPosLoader 갱신</Korean>
+            <English/>
+            <Chinese/>
+        </L25>
+        <L26>
+            <Korean>Log 정리</Korean>
+            <English/>
+            <Chinese/>
+        </L26>
+        <L27>
+            <Korean>1. POS 기기 IP 정보</Korean>
+            <English/>
+            <Chinese/>
+        </L27>
+        <L28>
+            <Korean>13. 테이블 거래 정보 정리</Korean>
+            <English/>
+            <Chinese/>
+        </L28>
+    </devicecheck>
+    <rmpos_dualdisplay>
+        <label1>
+            <Korean>총 계 :</Korean>
+            <English>Total :</English>
+            <Chinese>总计 ：</Chinese>
+        </label1>
+        <label2>
+            <Korean>지불금액 :</Korean>
+            <English>Paid Out :</English>
+            <Chinese>付款金额</Chinese>
+        </label2>
+        <label3>
+            <Korean>남은 금액 :</Korean>
+            <English>Unpaid :</English>
+            <Chinese>余额</Chinese>
+        </label3>
+        <label4>
+            <Korean>상품명</Korean>
+            <English>Name</English>
+            <Chinese>商品名</Chinese>
+        </label4>
+        <label5>
+            <Korean>수량</Korean>
+            <English>Qt.</English>
+            <Chinese>数量</Chinese>
+        </label5>
+        <label6>
+            <Korean>가격</Korean>
+            <English>Price</English>
+            <Chinese>价格</Chinese>
+        </label6>
+    </rmpos_dualdisplay>
+    <rmpos_holding>
+        <label1>
+            <Korean>(보류)</Korean>
+            <English>(Defer)</English>
+            <Chinese>保留</Chinese>
+        </label1>
+        <label2>
+            <Korean>원</Korean>
+            <English>$ </English>
+            <Chinese>元</Chinese>
+        </label2>
+        <label3>
+            <Korean>캐셔 :</Korean>
+            <English>Cashier :</English>
+            <Chinese>收银员</Chinese>
+        </label3>
+        <label4>
+            <Korean>총 </Korean>
+            <English>Total </English>
+            <Chinese>总</Chinese>
+        </label4>
+        <label5>
+            <Korean>개</Korean>
+            <English> pcs</English>
+            <Chinese>个</Chinese>
+        </label5>
+    </rmpos_holding>
+    <rmpos_indicator>
+        <label1>
+            <Korean>알림</Korean>
+            <English>Showing Information</English>
+            <Chinese>公告</Chinese>
+        </label1>
+        <label2>
+            <Korean>경고</Korean>
+            <English>Warning</English>
+            <Chinese>警告</Chinese>
+        </label2>
+        <label3>
+            <Korean>에러</Korean>
+            <English>Error</English>
+            <Chinese>错误</Chinese>
+        </label3>
+        <label4>
+            <Korean>처리중</Korean>
+            <English>Progressing</English>
+            <Chinese>处理中</Chinese>
+        </label4>
+        <label5>
+            <Korean>입력</Korean>
+            <English>Enter</English>
+            <Chinese>输入</Chinese>
+        </label5>
+        <label6>
+            <Korean>정보</Korean>
+            <English>Information</English>
+            <Chinese>信息</Chinese>
+        </label6>
+        <label7>
+            <Korean>&lt;주소입력&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label7>
+        <label8>
+            <Korean>회원 주소를 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label8>
+        <label9>
+            <Korean>시스템 종료</Korean>
+            <English/>
+            <Chinese/>
+        </label9>
+        <label10>
+            <Korean>시스템을 종료하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </label10>
+        <label11>
+            <Korean>POS번호는 숫자만 입력 가능 합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label11>
+        <label12>
+            <Korean>POS번호는 1~99까지 입력 가능 합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label12>
+        <label13>
+            <Korean>POS기본 정보 등록에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label13>
+        <label14>
+            <Korean>관리자에게 문의하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label14>
+        <label15>
+            <Korean>날짜에 0을 입력할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label15>
+        <label16>
+            <Korean>다시 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label16>
+        <label17>
+            <Korean>멤버쉽 검색 키워드를 입력해 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label17>
+        <label18>
+            <Korean>입력하신 검색정보로 정보조회를 할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label18>
+        <label19>
+            <Korean>입력하신 고객번호로 정보조회를 할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label19>
+        <label20>
+            <Korean>선택된 회원 정보가 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label20>
+        <label21>
+            <Korean>먼저 수금 대상 회원을 조회하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label21>
+        <label22>
+            <Korean>등록된 회원조회에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label22>
+        <label23>
+            <Korean>다시 시도하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label23>
+        <label24>
+            <Korean>수금 금액을 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label24>
+        <label25>
+            <Korean>외상 수금 정보 저장에 실패 하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label25>
+        <label26>
+            <Korean>선결제 포인트 구매 정보 등록에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label26>
+        <label27>
+            <Korean>먼저 주소를 등록하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label27>
+        <label28>
+            <Korean>&lt;전화번호입력&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label28>
+        <label29>
+            <Korean>전화번호를 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label29>
+        <label30>
+            <Korean>회원정보를 변경하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label30>
+        <label31>
+            <Korean>회원정보 변경에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label31>
+        <label32>
+            <Korean>먼저 신규등록을 진행하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label32>
+        <label33>
+            <Korean>고객번호를 다시 확인하시고 재시도 해주세요.</Korean>
+            <English/>
+            <Chinese/>
+        </label33>
+        <label34>
+            <Korean>데이터베이스 파일을 찾을 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label34>
+        <label35>
+            <Korean>현재 시간 정보를 사용합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label35>
+        <label36>
+            <Korean>상품마스터에 제품 표시 순서등록에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label36>
+        <label37>
+            <Korean>마지막 판매일의 상품 마스터 정보를 사용합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label37>
+        <label38>
+            <Korean>카테고리뷰 수정에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label38>
+        <label39>
+            <Korean>프로그램을 다시 실행하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label39>
+        <label40>
+            <Korean>마지막 판매일의 상품 카테고리 정보를 사용합니다.</Korean>
+            <English>. </English>
+            <Chinese/>
+        </label40>
+        <label41>
+            <Korean>마지막 판매일의 매장 정보를 사용합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label41>
+        <label42>
+            <Korean>POS사용자 정보 편집에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label42>
+        <label43>
+            <Korean>마지막 판매일의 사용자 정보를 사용합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label43>
+        <label44>
+            <Korean>신용카드 정보처리 테이블 수정에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label44>
+        <label45>
+            <Korean>거래데이터 테이블 추가정보 구성에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label45>
+        <label46>
+            <Korean>테이블 추가정보 구성에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label46>
+        <label47>
+            <Korean>거래번호 채번 구성에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label47>
+        <label48>
+            <Korean>배달카드결제 채번 구성에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label48>
+        <label49>
+            <Korean>BEEPER 채번 구성에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label49>
+        <label50>
+            <Korean>임시거래번호 채번 구성에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label50>
+        <label51>
+            <Korean>정산 채번 구성에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label51>
+        <label52>
+            <Korean>주문번호 채번 구성에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label52>
+        <label53>
+            <Korean>임시거래 테이블 선결제정보 구성에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label53>
+        <label54>
+            <Korean>거래 테이블 선결제정보 구성에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label54>
+        <label55>
+            <Korean>선결제 현금 수금 정보 구성에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label55>
+        <label56>
+            <Korean>선결제 카드 수금 정보 구성에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label56>
+        <label57>
+            <Korean>선불포인트 할인 데이터 정보 편집에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label57>
+        <label58>
+            <Korean>최신 상품 및 테이블 정보를 적용하려면 거래중인 </Korean>
+            <English/>
+            <Chinese/>
+        </label58>
+        <label59>
+            <Korean>테이블을 모두 결제 후 프로그램을 재시작 해주세요.</Korean>
+            <English/>
+            <Chinese/>
+        </label59>
+        <label60>
+            <Korean>테이블마스터 수신에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label60>
+        <label61>
+            <Korean>거래정보 등록에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label61>
+        <label62>
+            <Korean>&lt;확인&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label62>
+        <label63>
+            <Korean>바코드 또는 상품명을 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label63>
+        <label64>
+            <Korean>ㅋ</Korean>
+            <English/>
+            <Chinese/>
+        </label64>
+        <label65>
+            <Korean>영수증 알림 메세지를 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label65>
+        <label66>
+            <Korean>잘못된 입력값입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label66>
+        <label67>
+            <Korean>0~100사이의 숫자를 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label67>
+        <label68>
+            <Korean>Token을 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label68>
+        <label69>
+            <Korean>&lt;지역등록&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label69>
+        <label70>
+            <Korean>지역명을 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label70>
+        <label71>
+            <Korean>테이블 수를 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label71>
+        <label72>
+            <Korean>테이블 표시항목을 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label72>
+        <label73>
+            <Korean>지역명은 10자 이상 등록할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label73>
+        <label74>
+            <Korean>사용자 배열은 별도의 에디터로 편집하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label74>
+        <label75>
+            <Korean>테이블 등록</Korean>
+            <English/>
+            <Chinese/>
+        </label75>
+        <label76>
+            <Korean>테이블명 또는 좌석수를 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label76>
+        <label77>
+            <Korean>테이블명은 10자 이상 등록할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label77>
+        <label78>
+            <Korean>거래등록에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label78>
+        <label79>
+            <Korean>거래취소에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label79>
+        <label80>
+            <Korean>주문 정보 등록에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label80>
+        <label81>
+            <Korean>상품 수량을 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label81>
+        <label82>
+            <Korean>주문완료 상품은 수량을 증가할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label82>
+        <label83>
+            <Korean>상품을 추가 등록하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label83>
+        <label84>
+            <Korean>서비스된 상품은 지정할인 할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label84>
+        <label85>
+            <Korean>이미 일괄할인이 반영되어 있습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label85>
+        <label86>
+            <Korean>일괄할인을 '0'으로 변경하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label86>
+        <label87>
+            <Korean>정율할인이 반영되어 있습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label87>
+        <label88>
+            <Korean>할인 내용을 변경하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </label88>
+        <label89>
+            <Korean>이미 주문취소된 상품은 다시 취소할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label89>
+        <label90>
+            <Korean>모든 거래를 취소하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </label90>
+        <label91>
+            <Korean>이미 주문변경 내용이 있습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label91>
+        <label92>
+            <Korean>주문완료 처리하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label92>
+        <label93>
+            <Korean>이미 지정취소된 상품 입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label93>
+        <label94>
+            <Korean>새로 상품을 등록하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label94>
+        <label95>
+            <Korean>모든 상품을 지정취소 할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label95>
+        <label96>
+            <Korean>일괄취소로 거래를 종료하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label96>
+        <label97>
+            <Korean>이미 결제완료된 상품 입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label97>
+        <label98>
+            <Korean>결제완료된 상품은 취소할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label98>
+        <label99>
+            <Korean>발주전송</Korean>
+            <English/>
+            <Chinese/>
+        </label99>
+        <label100>
+            <Korean>거래번호를 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label100>
+        <label101>
+            <Korean>데이터베이스 업그레이드가 필요합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label101>
+        <label102>
+            <Korean>POS 시스템이 다시 실행 됩니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label102>
+        <label103>
+            <Korean>암호를 입력하세요.</Korean>
+            <English/>
+            <Chinese/>
+        </label103>
+        <label104>
+            <Korean>관리자 인증에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label104>
+        <label105>
+            <Korean>비밀번호를 확인하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label105>
+        <label106>
+            <Korean>교환권을 등록할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label106>
+        <label107>
+            <Korean>지불취소 후 등록하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label107>
+        <label108>
+            <Korean>대기모드에서만 출력가능 합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label108>
+        <label109>
+            <Korean>거래를 주문완료 또는 지불처리하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label109>
+        <label110>
+            <Korean>거래가 존재하지 않습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label110>
+        <label111>
+            <Korean>거래 내용을 확인하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label111>
+        <label112>
+            <Korean>2건 이상의 결제 수단이 존재합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label112>
+        <label113>
+            <Korean>영수증을 분리하여 출력 하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </label113>
+        <label114>
+            <Korean>고객정보 조회에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label114>
+        <label115>
+            <Korean>더이상 상품을 등록할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label115>
+        <label116>
+            <Korean>고객정보를 확인하시고 재시도 해주세요.</Korean>
+            <English/>
+            <Chinese/>
+        </label116>
+        <label117>
+            <Korean>조회된 회원을 선택하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label117>
+        <label118>
+            <Korean>&lt;고객정보조회&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label118>
+        <label119>
+            <Korean>고객 정보를 조회하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label119>
+        <label120>
+            <Korean>포인트를 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label120>
+        <label121>
+            <Korean>카드번호 변경</Korean>
+            <English/>
+            <Chinese/>
+        </label121>
+        <label122>
+            <Korean>신규 카드번호를 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label122>
+        <label123>
+            <Korean>&lt;카드번호변경&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label123>
+        <label124>
+            <Korean>카드번호가</Korean>
+            <English/>
+            <Chinese/>
+        </label124>
+        <label125>
+            <Korean>로 변경되었습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label125>
+        <label126>
+            <Korean>테이블 상태 확인에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label126>
+        <label127>
+            <Korean>거래중인 테이블은 수정할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label127>
+        <label128>
+            <Korean>&lt;회원명 입력&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label128>
+        <label129>
+            <Korean>회원 이름을 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label129>
+        <label130>
+            <Korean>회원 이름이 너무커서 입력할수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label130>
+        <label131>
+            <Korean>&lt;전화번호 입력&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label131>
+        <label132>
+            <Korean>전화번호를 올바르게 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label132>
+        <label133>
+            <Korean>잔여포인트에 잘못된 값을 입력하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label133>
+        <label134>
+            <Korean>잔여포인트를 올바르게 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label134>
+        <label135>
+            <Korean>잘못된 생년월일 정보 입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label135>
+        <label136>
+            <Korean>확인 후 다시 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label136>
+        <label137>
+            <Korean>신규회원 등록에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label137>
+        <label138>
+            <Korean>&lt;포인트 적립 실패&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label138>
+        <label139>
+            <Korean>&lt;신규회원등록&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label139>
+        <label140>
+            <Korean>발주가능 시간이 아니거나</Korean>
+            <English>여신한도초과 입니다.</English>
+            <Chinese/>
+        </label140>
+        <label141>
+            <Korean>발주 확정 요청에 실패 하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label141>
+        <label142>
+            <Korean>다시 시도하여 문의하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label142>
+        <label143>
+            <Korean>입력단위가 너무커서 표현할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label143>
+        <label144>
+            <Korean>발주리스트 수신에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label144>
+        <label145>
+            <Korean>삭제할 발주 항목이 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label145>
+        <label146>
+            <Korean>발주상품 정보 수신에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label146>
+        <label147>
+            <Korean>&lt;발주확인&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label147>
+        <label148>
+            <Korean>발주 불가능한 상품 입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label148>
+        <label149>
+            <Korean>외상 처리를 할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label149>
+        <label150>
+            <Korean>현금 결제를 할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label150>
+        <label151>
+            <Korean>처리할 수 없는 금액 입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label151>
+        <label152>
+            <Korean>금액을 확인하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label152>
+        <label153>
+            <Korean>결제 금액에 마이너스를 입력할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label153>
+        <label154>
+            <Korean>상품권 결제를 할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label154>
+        <label155>
+            <Korean>지불할 금액을 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label155>
+        <label156>
+            <Korean>OK캐쉬백 결제를 할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label156>
+        <label157>
+            <Korean>포인트 결제 서비스를 지원하지 않습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label157>
+        <label158>
+            <Korean>설정 상태를 확인하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label158>
+        <label159>
+            <Korean>이미 포인트 결제를 하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label159>
+        <label160>
+            <Korean>포인트는 중복 결제할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label160>
+        <label161>
+            <Korean>포인트 결제를 할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label161>
+        <label162>
+            <Korean>POINT 사용에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label162>
+        <label163>
+            <Korean>포인트 적립에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label163>
+        <label164>
+            <Korean>미적립포인트 기능으로 적립하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label164>
+        <label165>
+            <Korean>지불정보 로드에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label165>
+        <label166>
+            <Korean>거래번호를 이용하여 포인트를 적립하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label166>
+        <label167>
+            <Korean>상품권 결제가 적용되어 있습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label167>
+        <label168>
+            <Korean>취소가 불가하니 결제 후 환불해 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label168>
+        <label169>
+            <Korean>카드결제가 적용되어 있습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label169>
+        <label170>
+            <Korean>포인트결제가 적용되어 있습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label170>
+        <label171>
+            <Korean>외상 수금 취소 저장에 실패 하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label171>
+        <label172>
+            <Korean>거래정보 복원에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label172>
+        <label173>
+            <Korean>결제취소</Korean>
+            <English/>
+            <Chinese/>
+        </label173>
+        <label174>
+            <Korean>결제 취소하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </label174>
+        <label175>
+            <Korean>상품검색</Korean>
+            <English/>
+            <Chinese/>
+        </label175>
+        <label176>
+            <Korean>해당 바코드 상품이 존재하지 않습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label176>
+        <label177>
+            <Korean>서비스된 상품은 정율할인 할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label177>
+        <label178>
+            <Korean>금액할인이 반영되어 있습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label178>
+        <label179>
+            <Korean>환불모드에서는 보류 기능을 사용할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label179>
+        <label180>
+            <Korean>보류할 내용이 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label180>
+        <label181>
+            <Korean>먼저 상품을 등록하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label181>
+        <label182>
+            <Korean>호출할 보류 내용이 존재하지 않습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label182>
+        <label183>
+            <Korean>직접등록환불 처리를 진행하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </label183>
+        <label184>
+            <Korean>이미 환불된 거래입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label184>
+        <label185>
+            <Korean>환불거래를 다시 시도하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label185>
+        <label186>
+            <Korean>선결제 구매 포인트 환불을 할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label186>
+        <label187>
+            <Korean>포인트 사용취소에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label187>
+        <label188>
+            <Korean>포인트 적용 취소에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label188>
+        <label189>
+            <Korean>선결제 포인트 환불에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label189>
+        <label190>
+            <Korean>포인트 환불 및 사용 취소에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label190>
+        <label191>
+            <Korean>간이 영수증 출력은 현금</Korean>
+            <English>카드만 지원합니다.</English>
+            <Chinese/>
+        </label191>
+        <label192>
+            <Korean>서버와의 통신에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label192>
+        <label193>
+            <Korean>잠시 후 다시 시도하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label193>
+        <label194>
+            <Korean>현금영수증 승인 요청에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label194>
+        <label195>
+            <Korean>정보확인 후 다시 시도하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label195>
+        <label196>
+            <Korean>현금영수증 승인정보 저장에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label196>
+        <label197>
+            <Korean>현금영수증 승인처리에 성공하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label197>
+        <label198>
+            <Korean>영수증을 출력 하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </label198>
+        <label199>
+            <Korean>현금영수증 승인정보 서버 저장에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label199>
+        <label200>
+            <Korean>승인처리에 성공하였지만 서버 반영에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label200>
+        <label201>
+            <Korean>중간정산 주문 정보 등록에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label201>
+        <label202>
+            <Korean>영수증 번호를 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label202>
+        <label203>
+            <Korean>해당 거래가 존재하지 않습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label203>
+        <label204>
+            <Korean>거래번호를 확인하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label204>
+        <label205>
+            <Korean>포인트 적립이 불가능한 거래입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label205>
+        <label206>
+            <Korean>이미 포인트가 적립되었거나 환불된 거래 입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label206>
+        <label207>
+            <Korean>님의 포인트 적립이 완료 되었습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label207>
+        <label208>
+            <Korean>가용포인트는</Korean>
+            <English/>
+            <Chinese/>
+        </label208>
+        <label209>
+            <Korean>pt 입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label209>
+        <label210>
+            <Korean>개의 상품을 검색하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label210>
+        <label211>
+            <Korean>카드내역 출력에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label211>
+        <label212>
+            <Korean>판매자</Korean>
+            <English/>
+            <Chinese/>
+        </label212>
+        <label213>
+            <Korean>마감정산을 진행하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </label213>
+        <label214>
+            <Korean>정산 가능한 거래가 존재하지 않습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label214>
+        <label215>
+            <Korean>매출 또는 판매자 아이디를 확인하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label215>
+        <label216>
+            <Korean>해당 상품을 더이상 취소할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label216>
+        <label217>
+            <Korean>더이상 등록할 수 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label217>
+        <label218>
+            <Korean>동일한 그룹명이 존재합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label218>
+        <label219>
+            <Korean>다른 그룹명을 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label219>
+        <label220>
+            <Korean>&lt;지역추가&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label220>
+        <label221>
+            <Korean>등록과 함께</Korean>
+            <English/>
+            <Chinese/>
+        </label221>
+        <label222>
+            <Korean>개의 테이블을</Korean>
+            <English/>
+            <Chinese/>
+        </label222>
+        <label223>
+            <Korean>등록하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label223>
+        <label224>
+            <Korean>그룹에 동일한 지역명이 존재합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label224>
+        <label225>
+            <Korean>다른 지역명을 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label225>
+        <label226>
+            <Korean>먼저 지역을 등록 또는 선택하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label226>
+        <label227>
+            <Korean>그룹에 동일한 테이블명이 존재합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label227>
+        <label228>
+            <Korean>다른 테이블명을 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label228>
+        <label229>
+            <Korean>테이블 선택</Korean>
+            <English/>
+            <Chinese/>
+        </label229>
+        <label230>
+            <Korean>먼저 수정할 테이블을 선택하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label230>
+        <label231>
+            <Korean>모든 테이블을 비활성화하시면 그룹이 삭제됩니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label231>
+        <label232>
+            <Korean>해당 그룹을 삭제하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </label232>
+        <label233>
+            <Korean>먼저 테이블을 편집하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label233>
+        <label234>
+            <Korean>먼저 대상 테이블을 선택하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label234>
+        <label235>
+            <Korean>거래중인 테이블이 아닙니다.\n주문 상태를 확인하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label235>
+        <label236>
+            <Korean>거래중인 테이블이 존재하지 않습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label236>
+        <label237>
+            <Korean>다른 POS에서 이미 주문중 입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label237>
+        <label238>
+            <Korean>계속 진행 하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </label238>
+        <label239>
+            <Korean>거래중인 테이블이 아닙니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label239>
+        <label240>
+            <Korean>&lt;테이블 관리&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label240>
+        <label241>
+            <Korean>대상 테이블을 선택하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label241>
+        <label242>
+            <Korean>테이블을 이동 하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </label242>
+        <label243>
+            <Korean>테이블을 합치기 하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </label243>
+        <label244>
+            <Korean>테이블 이동에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label244>
+        <label245>
+            <Korean>해당 테이블에 이미 거래가 존재합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label245>
+        <label246>
+            <Korean>테이블 합치기를 선택하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label246>
+        <label247>
+            <Korean>일괄할인율이 초기화 됩니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label247>
+        <label248>
+            <Korean>테이블 합치기에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label248>
+        <label249>
+            <Korean>선결제 포인트 구매 정보 등록에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label249>
+        <label250>
+            <Korean>잘못된 카드번호 입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label250>
+        <label251>
+            <Korean>카드를 다시 읽혀 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label251>
+        <label252>
+            <Korean>카드를 리더기에 읽혀 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label252>
+        <label253>
+            <Korean>신용카드 결제가 불가능한 금액 입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label253>
+        <label254>
+            <Korean>결제 금액을 확인하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label254>
+        <label255>
+            <Korean>승인번호 입력이 누락 되었습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label255>
+        <label256>
+            <Korean>승인번호 확인 후 다시 시도하여 주시기 바랍니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label256>
+        <label257>
+            <Korean>거래날짜 입력이 누락 되었습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label257>
+        <label258>
+            <Korean>거래날짜 확인 후 다시 시도하여 주시기 바랍니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label258>
+        <label259>
+            <Korean>카드환불을 취소 하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </label259>
+        <label260>
+            <Korean>확인을 누르시면 카드사에 전화취소 하셔야 합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label260>
+        <label261>
+            <Korean>이미 사용된 상품권 입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label261>
+        <label262>
+            <Korean>상품권이 존재하지 않습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label262>
+        <label263>
+            <Korean>상품권의 유효기간을 확인하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label263>
+        <label264>
+            <Korean>서버로부터 응답을 받지 못했습니다.\n본사에 문의하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label264>
+        <label265>
+            <Korean>&lt;금액입력오류&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label265>
+        <label266>
+            <Korean>상품권 사용 금액을 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label266>
+        <label267>
+            <Korean>&lt;포인트입력오류&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label267>
+        <label268>
+            <Korean>사용할 포인트를 입력하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label268>
+        <label269>
+            <Korean>해당 상품권 상품은 이미 등록되었습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label269>
+        <label270>
+            <Korean>상품권을 확인하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label270>
+        <label271>
+            <Korean>전자상품권 금액권만 사용가능합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label271>
+        <label272>
+            <Korean>사용할 수 없는 상품입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label272>
+        <label273>
+            <Korean>전자상품권 교환권만 사용가능합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label273>
+        <label274>
+            <Korean>사용할 수 없는 상품이 있습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label274>
+        <label275>
+            <Korean>회원정보를 다시 확인하시고 재시도 해주세요.</Korean>
+            <English/>
+            <Chinese/>
+        </label275>
+        <label276>
+            <Korean>상품카테고리 제품 표시 순서등록에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label276>
+        <label277>
+            <Korean>마지막 판매일의 카테고리 정보를 사용 합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label277>
+        <label278>
+            <Korean>발주번호 요청에 실패 하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label278>
+        <label279>
+            <Korean>마지막 판매일의 테이블 마스터 정보를 사용 합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label279>
+        <label280>
+            <Korean>처리 안된 항목이 존재 합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label280>
+        <label281>
+            <Korean>주문 내역을 확인하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label281>
+        <label282>
+            <Korean>더치페이 주문 정보 등록에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label282>
+        <label283>
+            <Korean>사용자는 이미 마감 되었습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label283>
+        <label284>
+            <Korean>다른 아이디로 로그인하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label284>
+        <label285>
+            <Korean>서버로부터 회원정보 조회에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label285>
+        <label286>
+            <Korean>님의 가용포인트는 '0' 입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label286>
+        <label287>
+            <Korean>환불할 포인트 잔액이 부족 합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label287>
+        <label288>
+            <Korean>주문내용이 존재하지 않습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label288>
+        <label289>
+            <Korean>&lt;테이블 이동&gt;</Korean>
+            <English/>
+            <Chinese/>
+        </label289>
+        <label290>
+            <Korean>카드승인이 2건 이상 존재합니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label290>
+        <label291>
+            <Korean>판매상품 품목별 집계내역을 출력 하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </label291>
+    </rmpos_indicator>
+    <rmpos_main>
+        <btn1>
+            <Korean>메뉴</Korean>
+            <English>Menu</English>
+            <Chinese>菜单</Chinese>
+        </btn1>
+        <btn2>
+            <Korean>판매</Korean>
+            <English>Sale</English>
+            <Chinese>销售</Chinese>
+        </btn2>
+        <btn3>
+            <Korean>환경설정</Korean>
+            <English>Configuration</English>
+            <Chinese>环境设置</Chinese>
+        </btn3>
+        <btn4>
+            <Korean>입출금</Korean>
+            <English>D/W</English>
+            <Chinese>存款提取</Chinese>
+        </btn4>
+        <btn5>
+            <Korean>거래확인</Korean>
+            <English>C/Transaction</English>
+            <Chinese>交易确认</Chinese>
+        </btn5>
+        <btn6>
+            <Korean>발주</Korean>
+            <English>Order</English>
+            <Chinese>发出订单</Chinese>
+        </btn6>
+        <btn7>
+            <Korean>정산</Korean>
+            <English>Settlement</English>
+            <Chinese>结算</Chinese>
+        </btn7>
+        <btn8>
+            <Korean>외상수금</Korean>
+            <English>Bill-collecting</English>
+            <Chinese>收款赊账</Chinese>
+        </btn8>
+        <btn9>
+            <Korean>영업정보</Korean>
+            <English>Buss. Info</English>
+            <Chinese>营业信息</Chinese>
+        </btn9>
+        <btn10>
+            <Korean>영업일지</Korean>
+            <English>Buss. Record</English>
+            <Chinese>营业日志</Chinese>
+        </btn10>
+        <btn11>
+            <Korean>공지사항</Korean>
+            <English>Notice</English>
+            <Chinese>公告事项</Chinese>
+        </btn11>
+        <btn12>
+            <Korean>로그아웃</Korean>
+            <English>Log Out</English>
+            <Chinese>注销</Chinese>
+        </btn12>
+        <btn13>
+            <Korean>전자상품권 교환권</Korean>
+            <English>E-Voucher</English>
+            <Chinese>电子购物券</Chinese>
+        </btn13>
+        <btn14>
+            <Korean>공타</Korean>
+            <English>Drawer</English>
+            <Chinese>抽屉</Chinese>
+        </btn14>
+        <btn15>
+            <Korean>회원조회</Korean>
+            <English>Members</English>
+            <Chinese>查询会员</Chinese>
+        </btn15>
+        <btn16>
+            <Korean>전화관리</Korean>
+            <English>Telephone</English>
+            <Chinese>电话号</Chinese>
+        </btn16>
+        <btn17>
+            <Korean>객층정보</Korean>
+            <English>Customer Info</English>
+            <Chinese>层次信息</Chinese>
+        </btn17>
+        <btn18>
+            <Korean>테이블관리</Korean>
+            <English>Table Management</English>
+            <Chinese>테이블관리</Chinese>
+        </btn18>
+        <label1>
+            <Korean>발생 :</Korean>
+            <English>Tran : </English>
+            <Chinese>发生件 ：</Chinese>
+        </label1>
+        <label2>
+            <Korean>송신 :</Korean>
+            <English>Upload : </English>
+            <Chinese>传输件 ：</Chinese>
+        </label2>
+        <L1>
+            <Korean>판매대기</Korean>
+            <English>sales waiting</English>
+            <Chinese>销售待机</Chinese>
+        </L1>
+        <L2>
+            <Korean>정상판매</Korean>
+            <English>open for sales</English>
+            <Chinese>正常销售</Chinese>
+        </L2>
+        <L3>
+            <Korean>배달판매</Korean>
+            <English>delivery sales</English>
+            <Chinese>配送销售</Chinese>
+        </L3>
+        <L4>
+            <Korean>환불판매</Korean>
+            <English>refund sales</English>
+            <Chinese>退钱销售</Chinese>
+        </L4>
+        <L5>
+            <Korean>외상판매</Korean>
+            <English>credit sales</English>
+            <Chinese>赊账销售</Chinese>
+        </L5>
+        <L6>
+            <Korean>직접환불</Korean>
+            <English>direct refund</English>
+            <Chinese>手动退钱</Chinese>
+        </L6>
+        <L7>
+            <Korean>배달지불</Korean>
+            <English>delivery pay</English>
+            <Chinese>配送结帐</Chinese>
+        </L7>
+        <L8>
+            <Korean>정상지불</Korean>
+            <English>normal pay</English>
+            <Chinese>正常付款</Chinese>
+        </L8>
+        <L9>
+            <Korean>환불지불</Korean>
+            <English>refund pay</English>
+            <Chinese>退钱付款</Chinese>
+        </L9>
+        <L10>
+            <Korean>보류확인</Korean>
+            <English>check holding</English>
+            <Chinese>检查保留</Chinese>
+        </L10>
+        <L11>
+            <Korean>외상수금</Korean>
+            <English>collect bill</English>
+            <Chinese>收款赊账</Chinese>
+        </L11>
+        <L12>
+            <Korean>거래검색</Korean>
+            <English>search transaction</English>
+            <Chinese>查询交易</Chinese>
+        </L12>
+        <L13>
+            <Korean>발주작성</Korean>
+            <English>create order</English>
+            <Chinese>写作订单</Chinese>
+        </L13>
+        <L14>
+            <Korean>발주전송</Korean>
+            <English>send order</English>
+            <Chinese>传输订单</Chinese>
+        </L14>
+        <L15>
+            <Korean>발주이력</Korean>
+            <English>order history</English>
+            <Chinese>订单履历</Chinese>
+        </L15>
+        <L16>
+            <Korean>시재등록</Korean>
+            <English>vault</English>
+            <Chinese>登录实有现金</Chinese>
+        </L16>
+        <L17>
+            <Korean>정산확인</Korean>
+            <English>check settlement</English>
+            <Chinese>检查结算明细</Chinese>
+        </L17>
+        <L18>
+            <Korean>환경설정</Korean>
+            <English>configuration</English>
+            <Chinese>环境设置</Chinese>
+        </L18>
+        <L19>
+            <Korean>입출금</Korean>
+            <English>D/W</English>
+            <Chinese>存款提取</Chinese>
+        </L19>
+        <L20>
+            <Korean>영업정보</Korean>
+            <English>business info.</English>
+            <Chinese>营业信息</Chinese>
+        </L20>
+        <L21>
+            <Korean>보류거래가 있습니다.</Korean>
+            <English>transaction is holding</English>
+            <Chinese>所保留的交易存在</Chinese>
+        </L21>
+        <L22>
+            <Korean>보류거래를 먼저 처리하고 정산하여 주십시오.</Korean>
+            <English>settle account after holding transaction</English>
+            <Chinese>先处理保留交易之后，请再进行结算</Chinese>
+        </L22>
+        <L23>
+            <Korean>BULLETIN은 지원하지 않습니다.</Korean>
+            <English>not supporting BULLETIN</English>
+            <Chinese>BULLETIN不支持。</Chinese>
+        </L23>
+        <L24>
+            <Korean>공지사항</Korean>
+            <English>Notice</English>
+            <Chinese>营业信息</Chinese>
+        </L24>
+        <L25>
+            <Korean>영업일지</Korean>
+            <English>Bussiness Record</English>
+            <Chinese>营业信息</Chinese>
+        </L25>
+        <L26>
+            <Korean>테이블관리</Korean>
+            <English>Table Manage</English>
+            <Chinese>餐桌管理</Chinese>
+        </L26>
+        <L27>
+            <Korean>TAKEOUT</Korean>
+            <English>TAKEOUT</English>
+            <Chinese>TAKEOUT</Chinese>
+        </L27>
+        <L28>
+            <Korean>더치페이</Korean>
+            <English>DUTCHPAY</English>
+            <Chinese>DUTCHPAY</Chinese>
+        </L28>
+        <L29>
+            <Korean>중간정산</Korean>
+            <English>PREPAY</English>
+            <Chinese>PREPAY</Chinese>
+        </L29>
+        <btn19>
+            <Korean>확인</Korean>
+            <English/>
+            <Chinese/>
+        </btn19>
+        <btn20>
+            <Korean>미적립</Korean>
+            <English/>
+            <Chinese/>
+        </btn20>
+        <btn21>
+            <Korean>포인트처리</Korean>
+            <English/>
+            <Chinese/>
+        </btn21>
+        <L30>
+            <Korean>테이블</Korean>
+            <English/>
+            <Chinese/>
+        </L30>
+        <L31>
+            <Korean>주문합계</Korean>
+            <English/>
+            <Chinese/>
+        </L31>
+        <L32>
+            <Korean>신규주문</Korean>
+            <English/>
+            <Chinese/>
+        </L32>
+        <L33>
+            <Korean>신규 주문 요청이 수신되었습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </L33>
+        <L34>
+            <Korean>이름</Korean>
+            <English/>
+            <Chinese/>
+        </L34>
+        <L35>
+            <Korean>전화번호</Korean>
+            <English/>
+            <Chinese/>
+        </L35>
+        <L36>
+            <Korean>주소</Korean>
+            <English/>
+            <Chinese/>
+        </L36>
+    </rmpos_main>
+    <rmpos_mccoupon_exchange>
+        <label1>
+            <Korean>상품권 거스름돈</Korean>
+            <English>Voucher Change</English>
+            <Chinese>购物券零钱</Chinese>
+        </label1>
+        <label2>
+            <Korean>현금</Korean>
+            <English>Cash</English>
+            <Chinese>现金</Chinese>
+        </label2>
+        <label3>
+            <Korean>상품권</Korean>
+            <English>Voucher</English>
+            <Chinese>购物券</Chinese>
+        </label3>
+    </rmpos_mccoupon_exchange>
+    <rmpos_new_customer>
+        <label1>
+            <Korean>신규회원</Korean>
+            <English>New Member</English>
+            <Chinese>新加会员</Chinese>
+        </label1>
+        <label2>
+            <Korean>이름</Korean>
+            <English>Name</English>
+            <Chinese>名字</Chinese>
+        </label2>
+        <label3>
+            <Korean>생일</Korean>
+            <English>D. of Birth</English>
+            <Chinese>生日</Chinese>
+        </label3>
+        <label4>
+            <Korean>년</Korean>
+            <English>Y</English>
+            <Chinese>年</Chinese>
+        </label4>
+        <label5>
+            <Korean>월</Korean>
+            <English>M</English>
+            <Chinese>月</Chinese>
+        </label5>
+        <label6>
+            <Korean>일</Korean>
+            <English>D</English>
+            <Chinese>日</Chinese>
+        </label6>
+        <label7>
+            <Korean>성별</Korean>
+            <English>Sex</English>
+            <Chinese>性别</Chinese>
+        </label7>
+        <label8>
+            <Korean>전화번호</Korean>
+            <English>Telephone</English>
+            <Chinese>电话号</Chinese>
+        </label8>
+        <label9>
+            <Korean>주소</Korean>
+            <English>Address</English>
+            <Chinese>地址</Chinese>
+        </label9>
+        <label10>
+            <Korean>카드번호</Korean>
+            <English>Card No.</English>
+            <Chinese>卡号</Chinese>
+        </label10>
+        <btn1>
+            <Korean>남성</Korean>
+            <English>Male</English>
+            <Chinese>男性</Chinese>
+        </btn1>
+        <btn2>
+            <Korean>여성</Korean>
+            <English>Female</English>
+            <Chinese>女性</Chinese>
+        </btn2>
+    </rmpos_new_customer>
+    <rmpos_official_info>
+        <label1>
+            <Korean>판매일자</Korean>
+            <English>Date of Sales</English>
+            <Chinese>销售日期</Chinese>
+        </label1>
+        <label2>
+            <Korean>총매출</Korean>
+            <English>Total Sales</English>
+            <Chinese>总销售</Chinese>
+        </label2>
+        <label3>
+            <Korean>에누리</Korean>
+            <English>Sales Allowance</English>
+            <Chinese>折扣</Chinese>
+        </label3>
+        <label4>
+            <Korean>순매출</Korean>
+            <English>Net Sales</English>
+            <Chinese>纯销售</Chinese>
+        </label4>
+        <label5>
+            <Korean>현금결제</Korean>
+            <English>Cash</English>
+            <Chinese>现金付款</Chinese>
+        </label5>
+        <label6>
+            <Korean>카드결제</Korean>
+            <English>Card</English>
+            <Chinese>信用卡付款</Chinese>
+        </label6>
+        <label7>
+            <Korean>포인트결제</Korean>
+            <English>Point</English>
+            <Chinese>Cashbag付款</Chinese>
+        </label7>
+        <label8>
+            <Korean>상품권결제</Korean>
+            <English>Voucher</English>
+            <Chinese>购物券付款</Chinese>
+        </label8>
+        <label9>
+            <Korean>전자상품권결제</Korean>
+            <English>E/Voucher</English>
+            <Chinese>电子购物券付款</Chinese>
+        </label9>
+        <label10>
+            <Korean>구분</Korean>
+            <English>Section</English>
+            <Chinese>区分</Chinese>
+        </label10>
+        <label11>
+            <Korean>합계</Korean>
+            <English>Total</English>
+            <Chinese>合计</Chinese>
+        </label11>
+        <label12>
+            <Korean>환불</Korean>
+            <English>Refund</English>
+            <Chinese>退钱</Chinese>
+        </label12>
+        <label13>
+            <Korean>정상</Korean>
+            <English>Sale</English>
+            <Chinese>正常</Chinese>
+        </label13>
+        <label14>
+            <Korean>사용자 선택</Korean>
+            <English>Select User</English>
+            <Chinese/>
+        </label14>
+        <label15>
+            <Korean>외상결제</Korean>
+            <English/>
+            <Chinese/>
+        </label15>
+    </rmpos_official_info>
+    <rmpos_order_info>
+        <label1>
+            <Korean>발주 수량</Korean>
+            <English>Order Quantity</English>
+            <Chinese>订购数量</Chinese>
+        </label1>
+        <label2>
+            <Korean>상품명</Korean>
+            <English>Product Name</English>
+            <Chinese>商品名</Chinese>
+        </label2>
+        <label3>
+            <Korean>분류</Korean>
+            <English>Category</English>
+            <Chinese>分类</Chinese>
+        </label3>
+        <label4>
+            <Korean>최근 발주</Korean>
+            <English>Recent Order</English>
+            <Chinese>最近订单</Chinese>
+        </label4>
+        <label5>
+            <Korean>재고</Korean>
+            <English>Stock</English>
+            <Chinese>库存</Chinese>
+        </label5>
+        <label6>
+            <Korean>용량</Korean>
+            <English>Capacity</English>
+            <Chinese>容量</Chinese>
+        </label6>
+        <label7>
+            <Korean>규격</Korean>
+            <English>Size</English>
+            <Chinese>规格</Chinese>
+        </label7>
+        <label8>
+            <Korean>발주단위</Korean>
+            <English>Measure</English>
+            <Chinese>最小单位</Chinese>
+        </label8>
+        <label9>
+            <Korean>단위입수</Korean>
+            <English>Unit</English>
+            <Chinese>订购单位</Chinese>
+        </label9>
+        <label10>
+            <Korean>가격</Korean>
+            <English>Price</English>
+            <Chinese>价格</Chinese>
+        </label10>
+        <label11>
+            <Korean>수량</Korean>
+            <English>Quantity</English>
+            <Chinese>数量</Chinese>
+        </label11>
+        <label12>
+            <Korean>합계</Korean>
+            <English>Total</English>
+            <Chinese>合计</Chinese>
+        </label12>
+    </rmpos_order_info>
+    <keypad>
+        <label1>
+            <Korean>전화번호</Korean>
+            <English>Telephone</English>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>카드번호</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>외상수금</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>현금결제시 포인트 적립율</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+        <label5>
+            <Korean>카드결제시 포인트 적립율</Korean>
+            <English/>
+            <Chinese/>
+        </label5>
+        <label6>
+            <Korean>선입금 포인트 사용시 할인율</Korean>
+            <English/>
+            <Chinese/>
+        </label6>
+        <label7>
+            <Korean>테이블수</Korean>
+            <English/>
+            <Chinese/>
+        </label7>
+        <label8>
+            <Korean>테이블 표시항목</Korean>
+            <English/>
+            <Chinese/>
+        </label8>
+        <label9>
+            <Korean>좌석수</Korean>
+            <English/>
+            <Chinese/>
+        </label9>
+        <label10>
+            <Korean>서비스 수량입력</Korean>
+            <English/>
+            <Chinese/>
+        </label10>
+        <label11>
+            <Korean>취소 수량입력</Korean>
+            <English/>
+            <Chinese/>
+        </label11>
+        <label12>
+            <Korean>적용포인트</Korean>
+            <English/>
+            <Chinese/>
+        </label12>
+        <label13>
+            <Korean>금액할인</Korean>
+            <English/>
+            <Chinese/>
+        </label13>
+        <label14>
+            <Korean>정율할인</Korean>
+            <English/>
+            <Chinese/>
+        </label14>
+        <label15>
+            <Korean>증정 수량입력</Korean>
+            <English/>
+            <Chinese/>
+        </label15>
+        <label16>
+            <Korean>거래번호</Korean>
+            <English/>
+            <Chinese/>
+        </label16>
+        <label17>
+            <Korean>barcode</Korean>
+            <English/>
+            <Chinese/>
+        </label17>
+        <label18>
+            <Korean>선결제 적립 포인트</Korean>
+            <English/>
+            <Chinese/>
+        </label18>
+        <label19>
+            <Korean>사용포인트</Korean>
+            <English/>
+            <Chinese/>
+        </label19>
+        <label20>
+            <Korean>더치페이 인원수</Korean>
+            <English/>
+            <Chinese/>
+        </label20>
+        <label21>
+            <Korean>지정할인</Korean>
+            <English/>
+            <Chinese/>
+        </label21>
+    </keypad>
+    <keypadtitle>
+        <label1>
+            <Korean>수량</Korean>
+            <English>Quantity</English>
+            <Chinese>数量</Chinese>
+        </label1>
+        <label2>
+            <Korean>현금결제</Korean>
+            <English>Pay Cash</English>
+            <Chinese>现金付款</Chinese>
+        </label2>
+        <label3>
+            <Korean>상품권결제</Korean>
+            <English>Pay Voucher</English>
+            <Chinese>购物券付款</Chinese>
+        </label3>
+        <label4>
+            <Korean>카드결제</Korean>
+            <English>Pay Card</English>
+            <Chinese>信用卡付款</Chinese>
+        </label4>
+        <label5>
+            <Korean>전자상품권 결제</Korean>
+            <English>Pay E/Voucher</English>
+            <Chinese>电子购物券付款</Chinese>
+        </label5>
+        <label6>
+            <Korean>거스름돈 현금</Korean>
+            <English>Cash Change</English>
+            <Chinese>现金零钱</Chinese>
+        </label6>
+        <label7>
+            <Korean>상품권 조회</Korean>
+            <English>Voucher Confirm</English>
+            <Chinese>购物券查询</Chinese>
+        </label7>
+        <label8>
+            <Korean>포인트결제</Korean>
+            <English/>
+            <Chinese/>
+        </label8>
+        <label9>
+            <Korean>외상결제</Korean>
+            <English/>
+            <Chinese/>
+        </label9>
+        <outcash>
+            <Korean>출금</Korean>
+            <English>Out Cash</English>
+            <Chinese>提取</Chinese>
+        </outcash>
+    </keypadtitle>
+    <category_item>
+        <label1>
+            <Korean>하위선택</Korean>
+            <English>Select Menu</English>
+            <Chinese>可选的菜单</Chinese>
+        </label1>
+        <label2>
+            <Korean>발주내역</Korean>
+            <English>Order List</English>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>보류내역</Korean>
+            <English>Holding List</English>
+            <Chinese/>
+        </label3>
+    </category_item>
+    <rmpos_payment>
+        <btn1>
+            <Korean>총금액</Korean>
+            <English>Total</English>
+            <Chinese>总金额</Chinese>
+        </btn1>
+        <btn2>
+            <Korean>지불금액</Korean>
+            <English>Paid</English>
+            <Chinese>付款金额</Chinese>
+        </btn2>
+        <btn3>
+            <Korean>남은돈</Korean>
+            <English>Remaining</English>
+            <Chinese>余额</Chinese>
+        </btn3>
+        <btn4>
+            <Korean>외상</Korean>
+            <English>Credit</English>
+            <Chinese>赊账</Chinese>
+        </btn4>
+        <btn5>
+            <Korean>현금</Korean>
+            <English>Cash</English>
+            <Chinese>现金</Chinese>
+        </btn5>
+        <btn6>
+            <Korean>상품권</Korean>
+            <English>Voucher</English>
+            <Chinese>购物券</Chinese>
+        </btn6>
+        <btn7>
+            <Korean>OK 캐쉬백</Korean>
+            <English>Cash bag</English>
+            <Chinese>OK Cashbag</Chinese>
+        </btn7>
+        <btn8>
+            <Korean>카드</Korean>
+            <English>Card</English>
+            <Chinese>卡</Chinese>
+        </btn8>
+        <btn9>
+            <Korean>전자상품권 금액권</Korean>
+            <English>E/Voucher</English>
+            <Chinese>电子购物券</Chinese>
+        </btn9>
+        <btn10>
+            <Korean>거스름돈</Korean>
+            <English>Change</English>
+            <Chinese>零钱</Chinese>
+        </btn10>
+        <btn11>
+            <Korean>고객포인트</Korean>
+            <English/>
+            <Chinese/>
+        </btn11>
+        <label1>
+            <Korean>지불 내역이 있어 외상 할 수 없습니다.</Korean>
+            <English>Not accepted payment with credit</English>
+            <Chinese>有付款内容，所以不可使用赊账。</Chinese>
+        </label1>
+        <label2>
+            <Korean>거래 취소 또는 환불 후 다시 진행하여 주세요</Korean>
+            <English>Try again after payment cancellation or refund</English>
+            <Chinese>交易取消或者退钱之后，请再次进行</Chinese>
+        </label2>
+        <label3>
+            <Korean>남은 금액이 없습니다.</Korean>
+            <English>No Change</English>
+            <Chinese>没有余额</Chinese>
+        </label3>
+        <label4>
+            <Korean>카드결제를 할 수 없습니다.</Korean>
+            <English>Not accepted payment with card</English>
+            <Chinese>不可信用卡付款</Chinese>
+        </label4>
+        <label5>
+            <Korean>전자 상품권이 적용되어 있습니다.</Korean>
+            <English>Not accepted cancellation on e/coupon payment</English>
+            <Chinese>已使用了电子购物券付款</Chinese>
+        </label5>
+        <label6>
+            <Korean>취소가 불가하니 결제 후 환불해 주세요</Korean>
+            <English>Try refund after payment</English>
+            <Chinese>不可取消。请先结帐之后，进行退钱。</Chinese>
+        </label6>
+        <label7>
+            <Korean>OK CashBag이 적용되어 있습니다.</Korean>
+            <English>Not accepted cancellation on Cashbag payment</English>
+            <Chinese>已使用了OK Cashbag付款</Chinese>
+        </label7>
+        <label8>
+            <Korean>현금 : </Korean>
+            <English/>
+            <Chinese/>
+        </label8>
+        <label9>
+            <Korean>상품권 : </Korean>
+            <English/>
+            <Chinese/>
+        </label9>
+    </rmpos_payment>
+    <frequent_item>
+        <money>
+            <Korean>원</Korean>
+            <English>$</English>
+            <Chinese>元</Chinese>
+        </money>
+        <total>
+            <Korean>총</Korean>
+            <English>total</English>
+            <Chinese>总</Chinese>
+        </total>
+    </frequent_item>
+    <rmpos_refund>
+        <label1>
+            <Korean>카드 결제</Korean>
+            <English>Pay Card</English>
+            <Chinese>信用卡付款</Chinese>
+        </label1>
+        <label2>
+            <Korean>OK캐쉬백 지불</Korean>
+            <English>Pay Cashbag</English>
+            <Chinese>OK Cashbag付款</Chinese>
+        </label2>
+        <label3>
+            <Korean>현금영수증</Korean>
+            <English>Cash Receipt</English>
+            <Chinese>现金单据</Chinese>
+        </label3>
+        <label4>
+            <Korean>전자상품권</Korean>
+            <English>E-Voucher</English>
+            <Chinese>电子购物券</Chinese>
+        </label4>
+        <label5>
+            <Korean>이력이 있습니다.</Korean>
+            <English>Record Existing</English>
+            <Chinese>有履历</Chinese>
+        </label5>
+        <label6>
+            <Korean>환불하시겠습니까?</Korean>
+            <English>Refund?</English>
+            <Chinese>请确认进行退钱吗？</Chinese>
+        </label6>
+        <label7>
+            <Korean>현금영수증 승인 실패</Korean>
+            <English>Failed Cash receipt approval</English>
+            <Chinese>请求现金单据批准，批准失败</Chinese>
+        </label7>
+        <label8>
+            <Korean>카드 승인 실패</Korean>
+            <English>Failed Card approval</English>
+            <Chinese>请求信用卡批准，批准失败</Chinese>
+        </label8>
+        <label9>
+            <Korean>카드 취소</Korean>
+            <English>Cancel Card</English>
+            <Chinese>信用卡认可取消</Chinese>
+        </label9>
+        <label10>
+            <Korean>상품권</Korean>
+            <English>Voucher</English>
+            <Chinese>购物券</Chinese>
+        </label10>
+        <label11>
+            <Korean>상품권 취소</Korean>
+            <English>Cancel Voucher</English>
+            <Chinese>购物券认可取消</Chinese>
+        </label11>
+        <label12>
+            <Korean>포인트</Korean>
+            <English>Point</English>
+            <Chinese>Point</Chinese>
+        </label12>
+        <label13>
+            <Korean>포인트 취소</Korean>
+            <English>Point Voucher</English>
+            <Chinese>Point认可取消</Chinese>
+        </label13>
+        <label14>
+            <Korean>외상</Korean>
+            <English/>
+            <Chinese/>
+        </label14>
+        <label15>
+            <Korean>기타결제</Korean>
+            <English/>
+            <Chinese/>
+        </label15>
+    </rmpos_refund>
+    <rmpos_seeid>
+        <label1>
+            <Korean>전화관리</Korean>
+            <English>See ID</English>
+            <Chinese>接电话管理</Chinese>
+        </label1>
+    </rmpos_seeid>
+    <rmpos_sell>
+        <label1>
+            <Korean>총금액</Korean>
+            <English>Total amount</English>
+            <Chinese>总金额</Chinese>
+        </label1>
+        <label2>
+            <Korean>할인</Korean>
+            <English>Discount</English>
+            <Chinese>折扣</Chinese>
+        </label2>
+        <label3>
+            <Korean>총수량</Korean>
+            <English>Total quantity</English>
+            <Chinese>总数量</Chinese>
+        </label3>
+        <label4>
+            <Korean>일괄할인이 적용되어 있습니다.</Korean>
+            <English>Applied Discount</English>
+            <Chinese>已使用了整体折扣</Chinese>
+        </label4>
+        <label5>
+            <Korean>수량</Korean>
+            <English>quantity</English>
+            <Chinese>数量</Chinese>
+        </label5>
+        <label6>
+            <Korean>현재거래를 취소하시겠습니까?</Korean>
+            <English>Cancel payment?</English>
+            <Chinese>请确认取消目前交易吗？</Chinese>
+        </label6>
+        <label7>
+            <Korean>일괄할인</Korean>
+            <English>Discount all</English>
+            <Chinese>整体折扣</Chinese>
+        </label7>
+        <btn1>
+            <Korean>지정취소</Korean>
+            <English>Cancel one</English>
+            <Chinese>单个取消</Chinese>
+        </btn1>
+        <btn2>
+            <Korean>일괄취소</Korean>
+            <English>Cancel all</English>
+            <Chinese>整体取消</Chinese>
+        </btn2>
+        <btn3>
+            <Korean>배달취소</Korean>
+            <English>Cancel Delivery</English>
+            <Chinese>配送取消</Chinese>
+        </btn3>
+        <label8>
+            <Korean>주문완료</Korean>
+            <English/>
+            <Chinese/>
+        </label8>
+        <label9>
+            <Korean>주문취소</Korean>
+            <English/>
+            <Chinese/>
+        </label9>
+        <label10>
+            <Korean>보류</Korean>
+            <English/>
+            <Chinese/>
+        </label10>
+        <btn4>
+            <Korean>바코드입력</Korean>
+            <English/>
+            <Chinese/>
+        </btn4>
+        <label11>
+            <Korean>포장취소</Korean>
+            <English/>
+            <Chinese/>
+        </label11>
+    </rmpos_sell>
+    <rmpos_settlement>
+        <btn1>
+            <Korean>정산서 조회</Korean>
+            <English>Search Settlement</English>
+            <Chinese>查询结清单</Chinese>
+        </btn1>
+        <btn2>
+            <Korean>정산서 출력</Korean>
+            <English>Print Settlement</English>
+            <Chinese>结清单印刷</Chinese>
+        </btn2>
+        <btn3>
+            <Korean>등록시재 출력</Korean>
+            <English>Print Vault</English>
+            <Chinese>打印实有现金</Chinese>
+        </btn3>
+        <btn4>
+            <Korean>품목별 집계 출력</Korean>
+            <English>Print by Item</English>
+            <Chinese>每商品的统计印刷</Chinese>
+        </btn4>
+        <btn5>
+            <Korean>카드 매입 사별 집계 출력</Korean>
+            <English>Print Card</English>
+            <Chinese>每信用卡公司的统计印刷</Chinese>
+        </btn5>
+        <L1>
+            <Korean>총매출</Korean>
+            <English>gross proceeds</English>
+            <Chinese>总销售</Chinese>
+        </L1>
+        <L2>
+            <Korean>순매출</Korean>
+            <English>net sales</English>
+            <Chinese>纯销售</Chinese>
+        </L2>
+        <L3>
+            <Korean>순현금매출</Korean>
+            <English>cash sales</English>
+            <Chinese>纯现金销售</Chinese>
+        </L3>
+        <L4>
+            <Korean>현금외매출</Korean>
+            <English>etc. sales</English>
+            <Chinese>现金以外销售</Chinese>
+        </L4>
+        <L5>
+            <Korean>카드결제/취소</Korean>
+            <English>card pay/C</English>
+            <Chinese>信用卡付款/取消</Chinese>
+        </L5>
+        <L6>
+            <Korean>OK캐쉬백결제</Korean>
+            <English>Cashbag pay</English>
+            <Chinese>OK Cashbag付款</Chinese>
+        </L6>
+        <L7>
+            <Korean>포인트결제</Korean>
+            <English>point pay</English>
+            <Chinese>积分付款</Chinese>
+        </L7>
+        <L8>
+            <Korean>상품권결제</Korean>
+            <English>voucher pay</English>
+            <Chinese>购物券付款</Chinese>
+        </L8>
+        <L9>
+            <Korean>전자상품권결제</Korean>
+            <English>e/voucher pay</English>
+            <Chinese>电子购物券付款</Chinese>
+        </L9>
+        <L10>
+            <Korean>현금준비금</Korean>
+            <English>cash reserve</English>
+            <Chinese>实有现金</Chinese>
+        </L10>
+        <L11>
+            <Korean>상품권준비금</Korean>
+            <English>voucher reserve</English>
+            <Chinese>实有购物券</Chinese>
+        </L11>
+        <L12>
+            <Korean>현금출금</Korean>
+            <English>withdraw cash</English>
+            <Chinese>现金提取</Chinese>
+        </L12>
+        <L13>
+            <Korean>상품권출금</Korean>
+            <English>withdraw voucher</English>
+            <Chinese>购物券提取</Chinese>
+        </L13>
+        <L14>
+            <Korean>상품권받은금액</Korean>
+            <English>voucher amount</English>
+            <Chinese>购物券金额</Chinese>
+        </L14>
+        <L15>
+            <Korean>상품권현금잔돈</Korean>
+            <English>voucher-cash change</English>
+            <Chinese>购物券现金零钱</Chinese>
+        </L15>
+        <L16>
+            <Korean>상품권거스름돈</Korean>
+            <English>voucher change</English>
+            <Chinese>购物券零钱</Chinese>
+        </L16>
+        <L17>
+            <Korean>외상</Korean>
+            <English>credit</English>
+            <Chinese>赊账</Chinese>
+        </L17>
+        <L18>
+            <Korean>정산액</Korean>
+            <English>adjusted amount</English>
+            <Chinese>结算额</Chinese>
+        </L18>
+        <L19>
+            <Korean>입출금</Korean>
+            <English>deposit/withdraw</English>
+            <Chinese>存款提取</Chinese>
+        </L19>
+        <L20>
+            <Korean>카드결제/취소</Korean>
+            <English>card pay/C</English>
+            <Chinese>信用卡付款/取消</Chinese>
+        </L20>
+        <L21>
+            <Korean>현금재고</Korean>
+            <English>cash stock</English>
+            <Chinese>现金保有</Chinese>
+        </L21>
+        <L22>
+            <Korean>상품권재고</Korean>
+            <English>voucher stock</English>
+            <Chinese>购物券保有</Chinese>
+        </L22>
+        <L23>
+            <Korean>현금/상품권 합계</Korean>
+            <English>C/V total</English>
+            <Chinese>现金/购物券合计</Chinese>
+        </L23>
+        <L24>
+            <Korean>카드</Korean>
+            <English>card</English>
+            <Chinese>卡</Chinese>
+        </L24>
+        <L25>
+            <Korean>현금</Korean>
+            <English>cash</English>
+            <Chinese>现金</Chinese>
+        </L25>
+        <L26>
+            <Korean>상품권</Korean>
+            <English>voucher</English>
+            <Chinese>购物券</Chinese>
+        </L26>
+        <L27>
+            <Korean>현금/상품권 과부족</Korean>
+            <English>overs and shorts total</English>
+            <Chinese>现金/购物券过不足</Chinese>
+        </L27>
+        <L28>
+            <Korean>정산시재</Korean>
+            <English>vault</English>
+            <Chinese>结清后实有现金</Chinese>
+        </L28>
+        <L29>
+            <Korean>캐셔등록시재</Korean>
+            <English>cashier</English>
+            <Chinese>收银员所登录的实有现金</Chinese>
+        </L29>
+        <L30>
+            <Korean>과부족</Korean>
+            <English>overs and shorts</English>
+            <Chinese>过不足</Chinese>
+        </L30>
+        <L31>
+            <Korean>십원권</Korean>
+            <English>10won</English>
+            <Chinese>十元</Chinese>
+        </L31>
+        <L32>
+            <Korean>오십원권</Korean>
+            <English>50won</English>
+            <Chinese>五十元</Chinese>
+        </L32>
+        <L33>
+            <Korean>백원권</Korean>
+            <English>100won</English>
+            <Chinese>百元</Chinese>
+        </L33>
+        <L34>
+            <Korean>오백원권</Korean>
+            <English>500won</English>
+            <Chinese>五百元</Chinese>
+        </L34>
+        <L35>
+            <Korean>천원권</Korean>
+            <English>1000won</English>
+            <Chinese>千元</Chinese>
+        </L35>
+        <L36>
+            <Korean>오천원권</Korean>
+            <English>5000won</English>
+            <Chinese>五千元</Chinese>
+        </L36>
+        <L37>
+            <Korean>만원권</Korean>
+            <English>10000won</English>
+            <Chinese>万元</Chinese>
+        </L37>
+        <L38>
+            <Korean>오만원권</Korean>
+            <English>50000won</English>
+            <Chinese>五万元</Chinese>
+        </L38>
+        <L39>
+            <Korean>십만원권</Korean>
+            <English>10000</English>
+            <Chinese>十万元</Chinese>
+        </L39>
+        <L40>
+            <Korean>기타수표 수</Korean>
+            <English>number of check</English>
+            <Chinese>其它支票数</Chinese>
+        </L40>
+        <L41>
+            <Korean>기타수표 금액</Korean>
+            <English>price of check</English>
+            <Chinese>其它支票金额</Chinese>
+        </L41>
+        <L42>
+            <Korean>카드 전표</Korean>
+            <English>card statement</English>
+            <Chinese>信用卡单据</Chinese>
+        </L42>
+        <L43>
+            <Korean>상품권 수</Korean>
+            <English>number of voucher</English>
+            <Chinese>购物券数</Chinese>
+        </L43>
+        <L44>
+            <Korean>상품권 금액</Korean>
+            <English>price of voucher</English>
+            <Chinese>购物券金额</Chinese>
+        </L44>
+        <L45>
+            <Korean>종류</Korean>
+            <English>Won</English>
+            <Chinese>种类</Chinese>
+        </L45>
+        <L46>
+            <Korean>매수</Korean>
+            <English>Quantity</English>
+            <Chinese>张数</Chinese>
+        </L46>
+        <L47>
+            <Korean>금액</Korean>
+            <English>Price</English>
+            <Chinese>金额</Chinese>
+        </L47>
+        <L48>
+            <Korean>현금합계</Korean>
+            <English>Total Cash</English>
+            <Chinese>现金合计</Chinese>
+        </L48>
+        <L49>
+            <Korean>기타수표</Korean>
+            <English>Checks</English>
+            <Chinese>其它支票</Chinese>
+        </L49>
+        <L50>
+            <Korean>수표합계</Korean>
+            <English>Total Checks</English>
+            <Chinese>支票合计</Chinese>
+        </L50>
+        <L51>
+            <Korean>외상수금</Korean>
+            <English/>
+            <Chinese/>
+        </L51>
+        <L52>
+            <Korean>정산 돈통 오픈</Korean>
+            <English/>
+            <Chinese/>
+        </L52>
+    </rmpos_settlement>
+    <rmpos_transaction>
+        <L1>
+            <Korean>종류</Korean>
+            <English>trasaction type</English>
+            <Chinese>种类</Chinese>
+        </L1>
+        <L2>
+            <Korean>날짜</Korean>
+            <English>date</English>
+            <Chinese>日期</Chinese>
+        </L2>
+        <L3>
+            <Korean>고객</Korean>
+            <English>customers</English>
+            <Chinese>顾客</Chinese>
+        </L3>
+        <L4>
+            <Korean>정상</Korean>
+            <English>normal</English>
+            <Chinese>正常</Chinese>
+        </L4>
+        <L5>
+            <Korean>환불</Korean>
+            <English>refund</English>
+            <Chinese>退钱</Chinese>
+        </L5>
+        <L6>
+            <Korean>외상</Korean>
+            <English>credit</English>
+            <Chinese>赊账</Chinese>
+        </L6>
+        <L7>
+            <Korean>취소</Korean>
+            <English>cancel</English>
+            <Chinese>取消</Chinese>
+        </L7>
+        <L8>
+            <Korean>수금</Korean>
+            <English>collect</English>
+            <Chinese>收款</Chinese>
+        </L8>
+        <L9>
+            <Korean>전체</Korean>
+            <English>all</English>
+            <Chinese>整体</Chinese>
+        </L9>
+        <L10>
+            <Korean>모든 회원</Korean>
+            <English>all members</English>
+            <Chinese>所有的会员</Chinese>
+        </L10>
+        <L11>
+            <Korean>회원 검색</Korean>
+            <English>search member</English>
+            <Chinese>查询会员</Chinese>
+        </L11>
+        <L12>
+            <Korean>거래번호</Korean>
+            <English>Sell id</English>
+            <Chinese>交易号码</Chinese>
+        </L12>
+        <L13>
+            <Korean>해당 거래 내역이 없습니다.</Korean>
+            <English>No histroy found</English>
+            <Chinese>相关交易明细不存在</Chinese>
+        </L13>
+        <L14>
+            <Korean>보류</Korean>
+            <English>holding</English>
+            <Chinese>保留</Chinese>
+        </L14>
+        <L15>
+            <Korean>직접환불</Korean>
+            <English>direct refund</English>
+            <Chinese>手动退钱</Chinese>
+        </L15>
+        <L16>
+            <Korean>수금처리용</Korean>
+            <English>collecting</English>
+            <Chinese>收款处理用</Chinese>
+        </L16>
+        <L17>
+            <Korean>거래 내역을 불러오는데 실패 하였습니다.</Korean>
+            <English>failed at transaction information loading</English>
+            <Chinese>收款处理用</Chinese>
+        </L17>
+        <label1>
+            <Korean>::::: 거래정보 :::::</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>거래번호</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>판매자</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>총금액</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+        <label5>
+            <Korean>할인액</Korean>
+            <English/>
+            <Chinese/>
+        </label5>
+        <label6>
+            <Korean>상품수</Korean>
+            <English/>
+            <Chinese/>
+        </label6>
+        <label7>
+            <Korean>::::: 거래상세 :::::</Korean>
+            <English/>
+            <Chinese/>
+        </label7>
+        <label8>
+            <Korean>포인트 구매</Korean>
+            <English/>
+            <Chinese/>
+        </label8>
+        <label9>
+            <Korean>외상수금</Korean>
+            <English/>
+            <Chinese/>
+        </label9>
+        <label10>
+            <Korean>포인트 구매 취소</Korean>
+            <English/>
+            <Chinese/>
+        </label10>
+        <label11>
+            <Korean>포인트 구매 직접취소</Korean>
+            <English/>
+            <Chinese/>
+        </label11>
+        <label12>
+            <Korean>외상수금 취소</Korean>
+            <English/>
+            <Chinese/>
+        </label12>
+        <label13>
+            <Korean>외상수금 직접취소</Korean>
+            <English/>
+            <Chinese/>
+        </label13>
+    </rmpos_transaction>
+    <rmpos_user_list>
+        <L1>
+            <Korean>타이틀</Korean>
+            <English>title</English>
+            <Chinese>题目</Chinese>
+        </L1>
+        <L2>
+            <Korean>아이디 입력</Korean>
+            <English>enter id</English>
+            <Chinese>输入用户名</Chinese>
+        </L2>
+        <L3>
+            <Korean>이름 입력</Korean>
+            <English>enter name</English>
+            <Chinese>输入名字</Chinese>
+        </L3>
+        <L4>
+            <Korean>테스트</Korean>
+            <English>test</English>
+            <Chinese>测试用户</Chinese>
+        </L4>
+    </rmpos_user_list>
+    <userctrlsetting>
+        <L1>
+            <Korean>주문서 출력</Korean>
+            <English>Bill print</English>
+            <Chinese>订单印刷</Chinese>
+        </L1>
+        <L2>
+            <Korean>영수증 출력</Korean>
+            <English>Receipt print</English>
+            <Chinese>单据印刷</Chinese>
+        </L2>
+        <L3>
+            <Korean>입출금 내역 출력</Korean>
+            <English>Bankbook print</English>
+            <Chinese>存款提取明细印刷</Chinese>
+        </L3>
+        <L4>
+            <Korean>서명 패드</Korean>
+            <English>Sign pad</English>
+            <Chinese>签署板</Chinese>
+        </L4>
+        <L5>
+            <Korean>호출기</Korean>
+            <English>Beeper</English>
+            <Chinese>呼叫器</Chinese>
+        </L5>
+        <L6>
+            <Korean>OK캐쉬백</Korean>
+            <English>Cashbag</English>
+            <Chinese>OK Cashbag</Chinese>
+        </L6>
+        <L7>
+            <Korean>카테고리 루트</Korean>
+            <English>Category root</English>
+            <Chinese>根目录</Chinese>
+        </L7>
+        <L8>
+            <Korean>듀얼 디스플레이</Korean>
+            <English>Dual display</English>
+            <Chinese>双显示</Chinese>
+        </L8>
+        <L9>
+            <Korean>보류 영수증 출력</Korean>
+            <English>Hold receipt print</English>
+            <Chinese>保留票印刷</Chinese>
+        </L9>
+        <L10>
+            <Korean>거래 내역 업로드</Korean>
+            <English>Tradebook upload</English>
+            <Chinese>上传交易数据</Chinese>
+        </L10>
+        <L11>
+            <Korean>주문서 중복 출력</Korean>
+            <English>Bill reprint</English>
+            <Chinese>订单重复印刷</Chinese>
+        </L11>
+        <L12>
+            <Korean>회사코드</Korean>
+            <English>company code</English>
+            <Chinese>公司代码</Chinese>
+        </L12>
+        <L13>
+            <Korean>매장코드</Korean>
+            <English>store code</English>
+            <Chinese>店铺代码</Chinese>
+        </L13>
+        <L14>
+            <Korean>포스번호</Korean>
+            <English>pos number</English>
+            <Chinese>POS号码</Chinese>
+        </L14>
+        <L15>
+            <Korean>VAN번호</Korean>
+            <English>VAN number</English>
+            <Chinese>VAN号码</Chinese>
+        </L15>
+        <L16>
+            <Korean>VAN구분</Korean>
+            <English>VAN section</English>
+            <Chinese>VAN区分</Chinese>
+        </L16>
+        <L17>
+            <Korean>영업 시작시간</Korean>
+            <English>open time</English>
+            <Chinese>营业开始时刻</Chinese>
+        </L17>
+        <L18>
+            <Korean>영업 마감시간</Korean>
+            <English>closed time</English>
+            <Chinese>营业结束时刻</Chinese>
+        </L18>
+        <L19>
+            <Korean>판매 시작 분류 단계</Korean>
+            <English>start sales</English>
+            <Chinese>销售头分类</Chinese>
+        </L19>
+        <L20>
+            <Korean>판매 마지막 분류 단계</Korean>
+            <English>finish sales</English>
+            <Chinese>销售末分类</Chinese>
+        </L20>
+        <L21>
+            <Korean>판매 시작 카테고리</Korean>
+            <English>sales category</English>
+            <Chinese>销售头目录</Chinese>
+        </L21>
+        <L22>
+            <Korean>발주 시작 분류 단계</Korean>
+            <English>start orders</English>
+            <Chinese>发出订单头分类</Chinese>
+        </L22>
+        <L23>
+            <Korean>발주 마지막 분류 단계</Korean>
+            <English>finish orders</English>
+            <Chinese>发出订单末分类</Chinese>
+        </L23>
+        <L24>
+            <Korean>발주 시작 카테고리</Korean>
+            <English>order category</English>
+            <Chinese>发出订单头目录</Chinese>
+        </L24>
+        <L25>
+            <Korean>듀얼 디스플레이 해상도</Korean>
+            <English>dual display resolution</English>
+            <Chinese>双显示分辨率</Chinese>
+        </L25>
+        <L26>
+            <Korean>마스터 재 수신</Korean>
+            <English>Master reception</English>
+            <Chinese>Master再次受信</Chinese>
+        </L26>
+        <L27>
+            <Korean>기본정보 재 수신</Korean>
+            <English>Data reception</English>
+            <Chinese>基础信息再次受信</Chinese>
+        </L27>
+        <L28>
+            <Korean>매출 정보 동기화</Korean>
+            <English>Sale SYNC</English>
+            <Chinese>销售信息同步</Chinese>
+        </L28>
+        <L29>
+            <Korean>전체 마스터 재 수신</Korean>
+            <English>All master reception</English>
+            <Chinese>整体Master再次受信</Chinese>
+        </L29>
+        <L30>
+            <Korean>전체 상품 마스터 수신 중입니다...</Korean>
+            <English>receiving all product master...</English>
+            <Chinese>正在收整个商品Master。。。</Chinese>
+        </L30>
+        <L31>
+            <Korean>전체 상품마스터 수신이 실패하였습니다.</Korean>
+            <English>failed at receiving</English>
+            <Chinese>受信整个商品Master受信失败了。</Chinese>
+        </L31>
+        <L32>
+            <Korean>상품 마스터 수신 중입니다...</Korean>
+            <English>receiving product master...</English>
+            <Chinese>正在收商品Master。。。</Chinese>
+        </L32>
+        <L33>
+            <Korean>상품마스터 수신이 실패하였습니다.</Korean>
+            <English>failed at receiving</English>
+            <Chinese>受信商品Master受信失败了。</Chinese>
+        </L33>
+        <L34>
+            <Korean>기본 정보 수신 중입니다...</Korean>
+            <English>receving data information...</English>
+            <Chinese>正在收基础信息。。。</Chinese>
+        </L34>
+        <L35>
+            <Korean>매장정보 </Korean>
+            <English>store information</English>
+            <Chinese>店铺信息</Chinese>
+        </L35>
+        <L36>
+            <Korean>카테고리정보 </Korean>
+            <English>category information</English>
+            <Chinese>目录信息</Chinese>
+        </L36>
+        <L37>
+            <Korean>기초코드정보 </Korean>
+            <English>code information</English>
+            <Chinese>基础代码信息</Chinese>
+        </L37>
+        <L38>
+            <Korean>사용자정보 </Korean>
+            <English>user information</English>
+            <Chinese>用户信息</Chinese>
+        </L38>
+        <L39>
+            <Korean>수신이 실패하였습니다.</Korean>
+            <English>failed at receiving</English>
+            <Chinese>受信失败了</Chinese>
+        </L39>
+        <L40>
+            <Korean>매출 정보 수신 중입니다...</Korean>
+            <English>receving sales information...</English>
+            <Chinese>正在收销售信息。。。</Chinese>
+        </L40>
+        <L41>
+            <Korean>매출정보 수신이 실패하였습니다.</Korean>
+            <English>failed at receiving</English>
+            <Chinese>受信销售信息受信失败了。</Chinese>
+        </L41>
+        <L42>
+            <Korean>언어는 재시작 후 적용됩니다.</Korean>
+            <English>Please restart POS to apply new language selected.</English>
+            <Chinese>改语言后，程序需要重新启动。</Chinese>
+        </L42>
+        <L43>
+            <Korean>언어</Korean>
+            <English>Language</English>
+            <Chinese>语言</Chinese>
+        </L43>
+        <L44>
+            <Korean>금전출납기</Korean>
+            <English>cashdrawer</English>
+            <Chinese>cashdrawer</Chinese>
+        </L44>
+        <L45>
+            <Korean>상품권승인</Korean>
+            <English>Approval Voucher</English>
+            <Chinese>购物券认证</Chinese>
+        </L45>
+        <L46>
+            <Korean>운영모드</Korean>
+            <English/>
+            <Chinese/>
+        </L46>
+        <L47>
+            <Korean>통화단위</Korean>
+            <English/>
+            <Chinese/>
+        </L47>
+        <L48>
+            <Korean>발주 내역 표시</Korean>
+            <English/>
+            <Chinese/>
+        </L48>
+        <L49>
+            <Korean>선불제</Korean>
+            <English/>
+            <Chinese/>
+        </L49>
+        <L50>
+            <Korean>후불제</Korean>
+            <English/>
+            <Chinese/>
+        </L50>
+        <L51>
+            <Korean>현금결제시 포인트 적립율 :</Korean>
+            <English/>
+            <Chinese/>
+        </L51>
+        <L52>
+            <Korean>카드결제시 포인트 적립율 :</Korean>
+            <English/>
+            <Chinese/>
+        </L52>
+        <L53>
+            <Korean>선결제 포인트 사용시 할인율 :</Korean>
+            <English/>
+            <Chinese/>
+        </L53>
+        <L54>
+            <Korean>전체 상품마스터 수신에 성공하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </L54>
+        <L55>
+            <Korean>상품마스터 수신에 성공하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </L55>
+        <L56>
+            <Korean>기본정보 수신에 성공하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </L56>
+        <L57>
+            <Korean>동기화 날짜 간격이 너무 큽니다.</Korean>
+            <English/>
+            <Chinese/>
+        </L57>
+        <L58>
+            <Korean>날짜를 조정하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </L58>
+        <L59>
+            <Korean>매출정보 수신에 성공하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </L59>
+        <L60>
+            <Korean>원격지원 요청을 하시겠습니까?</Korean>
+            <English/>
+            <Chinese/>
+        </L60>
+        <L61>
+            <Korean>영수증 알림메시지 편집</Korean>
+            <English/>
+            <Chinese/>
+        </L61>
+    </userctrlsetting>
+    <linkwebservice>
+        <label1>
+            <Korean>미수금 조회</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+    </linkwebservice>
+    <enrollarea>
+        <label1>
+            <Korean>지역등록</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>지역명</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>테이블수</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>등록</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+        <label5>
+            <Korean>취소</Korean>
+            <English/>
+            <Chinese/>
+        </label5>
+    </enrollarea>
+    <modify_area>
+        <label1>
+            <Korean>지역수정</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>지역명</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>사용</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>사용안함</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+        <label5>
+            <Korean>등록</Korean>
+            <English/>
+            <Chinese/>
+        </label5>
+        <label6>
+            <Korean>취소</Korean>
+            <English/>
+            <Chinese/>
+        </label6>
+    </modify_area>
+    <modify_table>
+        <label1>
+            <Korean>지역명</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>테이블명</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>좌석수</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>사용</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+        <label5>
+            <Korean>사용안함</Korean>
+            <English/>
+            <Chinese/>
+        </label5>
+        <label6>
+            <Korean>등록</Korean>
+            <English/>
+            <Chinese/>
+        </label6>
+        <label7>
+            <Korean>취소</Korean>
+            <English/>
+            <Chinese/>
+        </label7>
+    </modify_table>
+    <modify_member_card>
+        <label1>
+            <Korean>카드번호 변경</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>이전카드번호</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>신규카드번호</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>등록</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+        <label5>
+            <Korean>취소</Korean>
+            <English/>
+            <Chinese/>
+        </label5>
+    </modify_member_card>
+    <useralert>
+        <label1>
+            <Korean>영업시간확인</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>알림</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>해당 거래는 외부 단말기 승인 내용입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>카드번호</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+        <label5>
+            <Korean>승인번호</Korean>
+            <English/>
+            <Chinese/>
+        </label5>
+        <label6>
+            <Korean>결제금액</Korean>
+            <English/>
+            <Chinese/>
+        </label6>
+        <label7>
+            <Korean>단말기에서 반드시 직접 승인 취소하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label7>
+        <label8>
+            <Korean>다음 카드 승인 거래를 환불 취소하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label8>
+        <label9>
+            <Korean>승인날짜</Korean>
+            <English/>
+            <Chinese/>
+        </label9>
+        <label10>
+            <Korean>해당거래는 반드시 카드사에 직접 취소하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label10>
+        <label11>
+            <Korean>사용자는 마감처리 되었습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label11>
+        <label12>
+            <Korean>반드시 로그아웃 하시고 다른 아이디로 로그인하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label12>
+        <label13>
+            <Korean>현재시간 </Korean>
+            <English/>
+            <Chinese/>
+        </label13>
+        <label14>
+            <Korean>경고</Korean>
+            <English/>
+            <Chinese/>
+        </label14>
+        <label15>
+            <Korean>입력된 카드로 금일</Korean>
+            <English/>
+            <Chinese/>
+        </label15>
+        <label16>
+            <Korean>회 카드승인이 확인되었습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label16>
+        <label17>
+            <Korean>*카드번호</Korean>
+            <English/>
+            <Chinese/>
+        </label17>
+        <label18>
+            <Korean>카드번호를 확인 후 결제를 진행하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label18>
+        <label19>
+            <Korean>고객님이 접속 하셨습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label19>
+        <label20>
+            <Korean>접속시간</Korean>
+            <English/>
+            <Chinese/>
+        </label20>
+        <label21>
+            <Korean>영업시간이 잘못된 경우 수정하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label21>
+    </useralert>
+    <sell_item>
+        <label1>
+            <Korean>전자상품권</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>증정</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>서비스</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>포장</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+    </sell_item>
+    <prepay_sub_menu>
+        <label1>
+            <Korean>증정</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>증정 취소</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+    </prepay_sub_menu>
+    <edit_notice>
+        <label1>
+            <Korean>적립사유</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>취소사유</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+    </edit_notice>
+    <new_item_sub_menu>
+        <label1>
+            <Korean>서비스</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>서비스 취소</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>포장</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>포장 취소</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+    </new_item_sub_menu>
+    <old_item_sub_menu>
+        <label1>
+            <Korean>서비스</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>서비스 취소</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>주문서출력</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>최근주문출력</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+    </old_item_sub_menu>
+    <print_ordlist>
+        <label1>
+            <Korean>지불</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>중간영수증 재인쇄</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+    </print_ordlist>
+    <save_point>
+        <label1>
+            <Korean>카드번호</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>이름</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>가용포인트</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>영수증번호</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+        <label5>
+            <Korean>거래금액</Korean>
+            <English/>
+            <Chinese/>
+        </label5>
+        <label6>
+            <Korean>거래일자</Korean>
+            <English/>
+            <Chinese/>
+        </label6>
+        <label7>
+            <Korean>적립포인트</Korean>
+            <English/>
+            <Chinese/>
+        </label7>
+    </save_point>
+    <g_time>
+        <label1>
+            <Korean>초 전</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>분 전</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+    </g_time>
+    <set_menu>
+        <label1>
+            <Korean>지정 항목</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+    </set_menu>
+    <table_edit>
+        <label1>
+            <Korean>지역명</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>테이블 추가</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>테이블 수정</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>지역 관리</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+        <label5>
+            <Korean>위로 이동</Korean>
+            <English/>
+            <Chinese/>
+        </label5>
+        <label6>
+            <Korean>아래로 이동</Korean>
+            <English/>
+            <Chinese/>
+        </label6>
+        <label7>
+            <Korean>지역추가</Korean>
+            <English/>
+            <Chinese/>
+        </label7>
+        <label8>
+            <Korean>지역수정</Korean>
+            <English/>
+            <Chinese/>
+        </label8>
+    </table_edit>
+    <table_sale>
+        <label1>
+            <Korean>배달거래</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>TAKEOUT</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>중간결제</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>더치페이</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+        <label5>
+            <Korean>선결제 포인트 적립</Korean>
+            <English/>
+            <Chinese/>
+        </label5>
+        <label6>
+            <Korean>TAKEOUT/보류</Korean>
+            <English/>
+            <Chinese/>
+        </label6>
+        <label7>
+            <Korean>테이블 관리</Korean>
+            <English/>
+            <Chinese/>
+        </label7>
+        <label8>
+            <Korean>거래모드</Korean>
+            <English/>
+            <Chinese/>
+        </label8>
+        <label9>
+            <Korean>중간정산</Korean>
+            <English/>
+            <Chinese/>
+        </label9>
+        <label10>
+            <Korean>중간영수증</Korean>
+            <English/>
+            <Chinese/>
+        </label10>
+        <label11>
+            <Korean>할인</Korean>
+            <English/>
+            <Chinese/>
+        </label11>
+        <label12>
+            <Korean>합계</Korean>
+            <English/>
+            <Chinese/>
+        </label12>
+        <label13>
+            <Korean>대상 테이블을 선택하여 \n주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label13>
+        <label14>
+            <Korean>대상 테이블 선택</Korean>
+            <English/>
+            <Chinese/>
+        </label14>
+        <label15>
+            <Korean>'완료' 버튼을 클릭/터치하여 \n주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label15>
+        <label16>
+            <Korean>'완료' 버튼 클릭</Korean>
+            <English/>
+            <Chinese/>
+        </label16>
+        <label17>
+            <Korean>TAKEOUT 보류 처리 모드 입니다. 위에 거래 항목을 선택하여 결제를 진행하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label17>
+        <label18>
+            <Korean>거래 테이블을 선택하여\n주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label18>
+        <label19>
+            <Korean>거래 테이블 선택</Korean>
+            <English/>
+            <Chinese/>
+        </label19>
+        <label20>
+            <Korean>테이블 관리 모드 입니다. 작업 완료 후 우측의 '완료' 또는 '취소' 버튼을 클릭하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label20>
+        <label21>
+            <Korean>취소</Korean>
+            <English/>
+            <Chinese/>
+        </label21>
+        <label22>
+            <Korean>중간정산 모드 입니다. 대상 테이블을 선택하시거나 오른쪽 '중간정산취소' 버튼을 클릭하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label22>
+        <label23>
+            <Korean>중간영수증 출력 모드 입니다. 대상 테이블을 선택하시거나 오른쪽의 '중간영수증취소' 버튼을 클릭하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label23>
+        <label24>
+            <Korean>더치페이 모드 입니다. 위에 거래 항목을 선택하여 결제를 진행하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label24>
+        <label25>
+            <Korean>더치페이</Korean>
+            <English/>
+            <Chinese/>
+        </label25>
+        <label26>
+            <Korean>더치페이 모드 입니다. 대상 테이블을 선택하시거나 오른쪽의 '더치페이취소' 버튼을 클릭하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label26>
+    </table_sale>
+    <pay_type>
+        <label1>
+            <Korean>현금</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>카드</Korean>
+            <English> </English>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>상품권</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>쿠폰</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+        <label5>
+            <Korean>포인트</Korean>
+            <English/>
+            <Chinese/>
+        </label5>
+        <label6>
+            <Korean>외상</Korean>
+            <English/>
+            <Chinese/>
+        </label6>
+        <label7>
+            <Korean>복합</Korean>
+            <English/>
+            <Chinese/>
+        </label7>
+    </pay_type>
+    <sign_ks>
+        <label1>
+            <Korean>서명데이터 획득에 실패하였습니다.\n다시 시도하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+    </sign_ks>
+    <sign_nice>
+        <label1>
+            <Korean>금액</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>원</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>서명패드로부터 데이터 수신에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>오류</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+    </sign_nice>
+    <rmpos_exception>
+        <label1>
+            <Korean>Unknown barcode</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>카드번호 변경 결과 수신에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>신규회원 등록 결과 수신에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>신규회원 등록-잔여포인트 등록에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+        <label5>
+            <Korean>지불정보 로드 실패</Korean>
+            <English/>
+            <Chinese/>
+        </label5>
+        <label6>
+            <Korean>환불 거래정보 등록 오류</Korean>
+            <English/>
+            <Chinese/>
+        </label6>
+        <label7>
+            <Korean>환불 거래 지불 등록 오류</Korean>
+            <English/>
+            <Chinese/>
+        </label7>
+        <label8>
+            <Korean>환불 거래 상품권 등록 오류</Korean>
+            <English/>
+            <Chinese/>
+        </label8>
+        <label9>
+            <Korean>환불 거래 전자상품권 등록 오류</Korean>
+            <English/>
+            <Chinese/>
+        </label9>
+        <label10>
+            <Korean>지불정보 조회에 실패하였습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label10>
+        <label11>
+            <Korean>적립할 포인트가 없습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label11>
+        <label12>
+            <Korean>The transaction is not setting</Korean>
+            <English/>
+            <Chinese/>
+        </label12>
+        <label13>
+            <Korean>Already RealMate Air Client POS System Run.</Korean>
+            <English/>
+            <Chinese/>
+        </label13>
+    </rmpos_exception>
+    <printhelper>
+        <label1>
+            <Korean>정산 내역이 존재하지 않습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>카드 결제 내역이 존재하지 않습니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>카드사별 집계입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+        <label4>
+            <Korean>포스번호</Korean>
+            <English/>
+            <Chinese/>
+        </label4>
+        <label5>
+            <Korean>카드사</Korean>
+            <English/>
+            <Chinese/>
+        </label5>
+        <label6>
+            <Korean>건수</Korean>
+            <English/>
+            <Chinese/>
+        </label6>
+        <label7>
+            <Korean>금액</Korean>
+            <English/>
+            <Chinese/>
+        </label7>
+        <label8>
+            <Korean>총합계</Korean>
+            <English/>
+            <Chinese/>
+        </label8>
+        <label9>
+            <Korean>품목별 집계입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label9>
+        <label10>
+            <Korean>상품명</Korean>
+            <English/>
+            <Chinese/>
+        </label10>
+        <label11>
+            <Korean>수량</Korean>
+            <English/>
+            <Chinese/>
+        </label11>
+        <label12>
+            <Korean>계산원</Korean>
+            <English/>
+            <Chinese/>
+        </label12>
+        <label13>
+            <Korean>직접등록</Korean>
+            <English/>
+            <Chinese/>
+        </label13>
+        <label14>
+            <Korean>주문서</Korean>
+            <English/>
+            <Chinese/>
+        </label14>
+        <label15>
+            <Korean>배달거래</Korean>
+            <English/>
+            <Chinese/>
+        </label15>
+        <label16>
+            <Korean>TAKEOUT(포장)</Korean>
+            <English/>
+            <Chinese/>
+        </label16>
+        <label17>
+            <Korean>주문시간</Korean>
+            <English/>
+            <Chinese/>
+        </label17>
+        <label18>
+            <Korean>영수증번호</Korean>
+            <English/>
+            <Chinese/>
+        </label18>
+        <label19>
+            <Korean>포장</Korean>
+            <English/>
+            <Chinese/>
+        </label19>
+        <label20>
+            <Korean>서비스</Korean>
+            <English/>
+            <Chinese/>
+        </label20>
+        <label21>
+            <Korean>취소</Korean>
+            <English/>
+            <Chinese/>
+        </label21>
+        <label22>
+            <Korean>주문번호</Korean>
+            <English/>
+            <Chinese/>
+        </label22>
+        <label23>
+            <Korean>테이블</Korean>
+            <English/>
+            <Chinese/>
+        </label23>
+        <label24>
+            <Korean>상품코드</Korean>
+            <English/>
+            <Chinese/>
+        </label24>
+        <label25>
+            <Korean>주문취소</Korean>
+            <English/>
+            <Chinese/>
+        </label25>
+        <label26>
+            <Korean>보류내역</Korean>
+            <English/>
+            <Chinese/>
+        </label26>
+        <label27>
+            <Korean>보류번호</Korean>
+            <English/>
+            <Chinese/>
+        </label27>
+        <label28>
+            <Korean>할인액</Korean>
+            <English/>
+            <Chinese/>
+        </label28>
+        <label29>
+            <Korean>외상금액</Korean>
+            <English/>
+            <Chinese/>
+        </label29>
+        <label30>
+            <Korean>결제 금액</Korean>
+            <English/>
+            <Chinese/>
+        </label30>
+        <label31>
+            <Korean>고객주문서</Korean>
+            <English/>
+            <Chinese/>
+        </label31>
+        <label32>
+            <Korean>최종주문내역</Korean>
+            <English/>
+            <Chinese/>
+        </label32>
+        <label33>
+            <Korean>* 표시는 비과세 상품입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label33>
+        <label34>
+            <Korean>주문로그</Korean>
+            <English/>
+            <Chinese/>
+        </label34>
+        <label35>
+            <Korean>지역</Korean>
+            <English/>
+            <Chinese/>
+        </label35>
+        <label36>
+            <Korean>거래번호</Korean>
+            <English/>
+            <Chinese/>
+        </label36>
+        <label37>
+            <Korean>상품권</Korean>
+            <English/>
+            <Chinese/>
+        </label37>
+        <label38>
+            <Korean>할인</Korean>
+            <English/>
+            <Chinese/>
+        </label38>
+        <label39>
+            <Korean>세트</Korean>
+            <English/>
+            <Chinese/>
+        </label39>
+        <label40>
+            <Korean>대표</Korean>
+            <English/>
+            <Chinese/>
+        </label40>
+        <label41>
+            <Korean>전화</Korean>
+            <English/>
+            <Chinese/>
+        </label41>
+        <label42>
+            <Korean>매장명</Korean>
+            <English/>
+            <Chinese/>
+        </label42>
+        <label43>
+            <Korean>추가주문</Korean>
+            <English/>
+            <Chinese/>
+        </label43>
+        <label44>
+            <Korean>지불</Korean>
+            <English/>
+            <Chinese/>
+        </label44>
+        <label45>
+            <Korean>주문내역</Korean>
+            <English/>
+            <Chinese/>
+        </label45>
+        <label46>
+            <Korean>영 수 증</Korean>
+            <English/>
+            <Chinese/>
+        </label46>
+        <label47>
+            <Korean>환불 거래</Korean>
+            <English/>
+            <Chinese/>
+        </label47>
+        <label48>
+            <Korean>정상 거래</Korean>
+            <English/>
+            <Chinese/>
+        </label48>
+        <label49>
+            <Korean>외상 취소</Korean>
+            <English/>
+            <Chinese/>
+        </label49>
+        <label50>
+            <Korean>외상 거래</Korean>
+            <English/>
+            <Chinese/>
+        </label50>
+        <label51>
+            <Korean>포인트구매</Korean>
+            <English/>
+            <Chinese/>
+        </label51>
+        <label52>
+            <Korean>포인트구매취소</Korean>
+            <English/>
+            <Chinese/>
+        </label52>
+        <label53>
+            <Korean>수금거래</Korean>
+            <English/>
+            <Chinese/>
+        </label53>
+        <label54>
+            <Korean>수금취소</Korean>
+            <English/>
+            <Chinese/>
+        </label54>
+        <label55>
+            <Korean>영수증 재출력</Korean>
+            <English/>
+            <Chinese/>
+        </label55>
+        <label56>
+            <Korean>상품권 결제</Korean>
+            <English/>
+            <Chinese/>
+        </label56>
+        <label57>
+            <Korean>상품권 결제 금액</Korean>
+            <English/>
+            <Chinese/>
+        </label57>
+        <label58>
+            <Korean>전자상품권 결제 금액</Korean>
+            <English/>
+            <Chinese/>
+        </label58>
+        <label59>
+            <Korean>포인트 결제 금액</Korean>
+            <English/>
+            <Chinese/>
+        </label59>
+        <label60>
+            <Korean>카드 결제 금액</Korean>
+            <English/>
+            <Chinese/>
+        </label60>
+        <label61>
+            <Korean>현금영수증취소(고객용)</Korean>
+            <English/>
+            <Chinese/>
+        </label61>
+        <label62>
+            <Korean>현금영수증(고객용)</Korean>
+            <English/>
+            <Chinese/>
+        </label62>
+        <label63>
+            <Korean>사업자 지출증빙</Korean>
+            <English/>
+            <Chinese/>
+        </label63>
+        <label64>
+            <Korean>현금(소득공제)</Korean>
+            <English/>
+            <Chinese/>
+        </label64>
+        <label65>
+            <Korean>거래자 구분</Korean>
+            <English/>
+            <Chinese/>
+        </label65>
+        <label66>
+            <Korean>승인금액</Korean>
+            <English/>
+            <Chinese/>
+        </label66>
+        <label67>
+            <Korean>취소금액</Korean>
+            <English/>
+            <Chinese/>
+        </label67>
+        <label68>
+            <Korean>거래자번호</Korean>
+            <English/>
+            <Chinese/>
+        </label68>
+        <label69>
+            <Korean>승인번호</Korean>
+            <English/>
+            <Chinese/>
+        </label69>
+        <label70>
+            <Korean>국세청문의 Tel: 126</Korean>
+            <English/>
+            <Chinese/>
+        </label70>
+        <label71>
+            <Korean>http://현금영수증.kr</Korean>
+            <English/>
+            <Chinese/>
+        </label71>
+        <label72>
+            <Korean>카드번호</Korean>
+            <English/>
+            <Chinese/>
+        </label72>
+        <label73>
+            <Korean>OK캐쉬 승인 번호</Korean>
+            <English/>
+            <Chinese/>
+        </label73>
+        <label74>
+            <Korean>적립 금액</Korean>
+            <English/>
+            <Chinese/>
+        </label74>
+        <label75>
+            <Korean>적립 취소</Korean>
+            <English/>
+            <Chinese/>
+        </label75>
+        <label76>
+            <Korean>사용 금액</Korean>
+            <English/>
+            <Chinese/>
+        </label76>
+        <label77>
+            <Korean>사용 취소 금액</Korean>
+            <English/>
+            <Chinese/>
+        </label77>
+        <label78>
+            <Korean>고객번호</Korean>
+            <English/>
+            <Chinese/>
+        </label78>
+        <label79>
+            <Korean>발생포인트</Korean>
+            <English/>
+            <Chinese/>
+        </label79>
+        <label80>
+            <Korean>가용포인트</Korean>
+            <English/>
+            <Chinese/>
+        </label80>
+        <label81>
+            <Korean>받은금액</Korean>
+            <English/>
+            <Chinese/>
+        </label81>
+        <label82>
+            <Korean>거스름돈</Korean>
+            <English/>
+            <Chinese/>
+        </label82>
+        <label83>
+            <Korean>환불금액</Korean>
+            <English/>
+            <Chinese/>
+        </label83>
+        <label84>
+            <Korean>외상정보</Korean>
+            <English/>
+            <Chinese/>
+        </label84>
+        <label85>
+            <Korean>주소</Korean>
+            <English/>
+            <Chinese/>
+        </label85>
+        <label86>
+            <Korean>전화번호</Korean>
+            <English/>
+            <Chinese/>
+        </label86>
+        <label87>
+            <Korean>배달정보</Korean>
+            <English/>
+            <Chinese/>
+        </label87>
+        <label88>
+            <Korean>공급가액</Korean>
+            <English/>
+            <Chinese/>
+        </label88>
+        <label89>
+            <Korean>부가세</Korean>
+            <English/>
+            <Chinese/>
+        </label89>
+        <label90>
+            <Korean>총금액</Korean>
+            <English/>
+            <Chinese/>
+        </label90>
+        <label91>
+            <Korean>외상수금</Korean>
+            <English/>
+            <Chinese/>
+        </label91>
+        <label92>
+            <Korean>미수잔액</Korean>
+            <English/>
+            <Chinese/>
+        </label92>
+        <label93>
+            <Korean>가맹점용</Korean>
+            <English/>
+            <Chinese/>
+        </label93>
+        <label94>
+            <Korean>서명</Korean>
+            <English/>
+            <Chinese/>
+        </label94>
+        <label95>
+            <Korean>카드사용</Korean>
+            <English/>
+            <Chinese/>
+        </label95>
+        <label96>
+            <Korean>카드회사</Korean>
+            <English/>
+            <Chinese/>
+        </label96>
+        <label97>
+            <Korean>할부개월</Korean>
+            <English/>
+            <Chinese/>
+        </label97>
+        <label98>
+            <Korean>현금 결제 금액</Korean>
+            <English/>
+            <Chinese/>
+        </label98>
+        <label99>
+            <Korean>선결제 포인트 할인액</Korean>
+            <English/>
+            <Chinese/>
+        </label99>
+        <label100>
+            <Korean>환불취소</Korean>
+            <English/>
+            <Chinese/>
+        </label100>
+        <label101>
+            <Korean>환불 승인 실패된 거래로 반드시 전화 취소하여 주십시오.</Korean>
+            <English/>
+            <Chinese/>
+        </label101>
+        <label102>
+            <Korean>포인트 구매 취소</Korean>
+            <English/>
+            <Chinese/>
+        </label102>
+        <label103>
+            <Korean>포인트 구매</Korean>
+            <English/>
+            <Chinese/>
+        </label103>
+        <label104>
+            <Korean>전자상품권</Korean>
+            <English/>
+            <Chinese/>
+        </label104>
+        <label105>
+            <Korean>사용금액</Korean>
+            <English/>
+            <Chinese/>
+        </label105>
+        <label106>
+            <Korean>잔여금액</Korean>
+            <English/>
+            <Chinese/>
+        </label106>
+        <label107>
+            <Korean>전자상품권번호</Korean>
+            <English/>
+            <Chinese/>
+        </label107>
+        <label108>
+            <Korean>유의사항:금액상품권 사용취소.잔액사용 사용취소 시 해당매장에 영수증 제시. 잔액의 경우 1회 사용가능.</Korean>
+            <English/>
+            <Chinese/>
+        </label108>
+        <label109>
+            <Korean>유의사항\n-모바일 금액 상품권 취소 시 사용 매장에 영수증 제시\n-모바일 금액 상품권 잔액은 유효기간 내에 사용 가능</Korean>
+            <English/>
+            <Chinese/>
+        </label109>
+        <label110>
+            <Korean>전체취소</Korean>
+            <English/>
+            <Chinese/>
+        </label110>
+        <label111>
+            <Korean>정산서시재 입니다.</Korean>
+            <English/>
+            <Chinese/>
+        </label111>
+        <label112>
+            <Korean>십만원권수표</Korean>
+            <English/>
+            <Chinese/>
+        </label112>
+        <label113>
+            <Korean>기타수표</Korean>
+            <English/>
+            <Chinese/>
+        </label113>
+        <label114>
+            <Korean>수표합계</Korean>
+            <English/>
+            <Chinese/>
+        </label114>
+        <label115>
+            <Korean>오만원권</Korean>
+            <English/>
+            <Chinese/>
+        </label115>
+        <label116>
+            <Korean>만원권</Korean>
+            <English/>
+            <Chinese/>
+        </label116>
+        <label117>
+            <Korean>오천원권</Korean>
+            <English/>
+            <Chinese/>
+        </label117>
+        <label118>
+            <Korean>천원권</Korean>
+            <English/>
+            <Chinese/>
+        </label118>
+        <label119>
+            <Korean>오백원</Korean>
+            <English/>
+            <Chinese/>
+        </label119>
+        <label120>
+            <Korean>백원</Korean>
+            <English/>
+            <Chinese/>
+        </label120>
+        <label121>
+            <Korean>오십원</Korean>
+            <English/>
+            <Chinese/>
+        </label121>
+        <label122>
+            <Korean>십원</Korean>
+            <English/>
+            <Chinese/>
+        </label122>
+        <label123>
+            <Korean>현금합계</Korean>
+            <English/>
+            <Chinese/>
+        </label123>
+        <label124>
+            <Korean>상품권합계</Korean>
+            <English/>
+            <Chinese/>
+        </label124>
+        <label125>
+            <Korean>카드일시매수</Korean>
+            <English/>
+            <Chinese/>
+        </label125>
+        <label126>
+            <Korean>마감정산서</Korean>
+            <English/>
+            <Chinese/>
+        </label126>
+        <label127>
+            <Korean>영업일자</Korean>
+            <English/>
+            <Chinese/>
+        </label127>
+        <label128>
+            <Korean>시작거래시간</Korean>
+            <English/>
+            <Chinese/>
+        </label128>
+        <label129>
+            <Korean>없음</Korean>
+            <English/>
+            <Chinese/>
+        </label129>
+        <label130>
+            <Korean>마감거래시간</Korean>
+            <English/>
+            <Chinese/>
+        </label130>
+        <label131>
+            <Korean>매/건수</Korean>
+            <English/>
+            <Chinese/>
+        </label131>
+        <label132>
+            <Korean>정산액</Korean>
+            <English/>
+            <Chinese/>
+        </label132>
+        <label133>
+            <Korean>총매출</Korean>
+            <English/>
+            <Chinese/>
+        </label133>
+        <label134>
+            <Korean>에누리</Korean>
+            <English/>
+            <Chinese/>
+        </label134>
+        <label135>
+            <Korean>순매출</Korean>
+            <English/>
+            <Chinese/>
+        </label135>
+        <label136>
+            <Korean>순현금매출</Korean>
+            <English/>
+            <Chinese/>
+        </label136>
+        <label137>
+            <Korean>현금외매출</Korean>
+            <English/>
+            <Chinese/>
+        </label137>
+        <label138>
+            <Korean>카드결제/취소</Korean>
+            <English/>
+            <Chinese/>
+        </label138>
+        <label139>
+            <Korean>자동승인</Korean>
+            <English/>
+            <Chinese/>
+        </label139>
+        <label140>
+            <Korean>수동승인</Korean>
+            <English/>
+            <Chinese/>
+        </label140>
+        <label141>
+            <Korean>상품권결제</Korean>
+            <English/>
+            <Chinese/>
+        </label141>
+        <label142>
+            <Korean>전자상품권결제</Korean>
+            <English/>
+            <Chinese/>
+        </label142>
+        <label143>
+            <Korean>OK캐쉬백결제</Korean>
+            <English/>
+            <Chinese/>
+        </label143>
+        <label144>
+            <Korean>포인트결제</Korean>
+            <English/>
+            <Chinese/>
+        </label144>
+        <label145>
+            <Korean>현금준비금</Korean>
+            <English/>
+            <Chinese/>
+        </label145>
+        <label146>
+            <Korean>상품권준비금</Korean>
+            <English/>
+            <Chinese/>
+        </label146>
+        <label147>
+            <Korean>현금출금</Korean>
+            <English/>
+            <Chinese/>
+        </label147>
+        <label148>
+            <Korean>상품권출금</Korean>
+            <English/>
+            <Chinese/>
+        </label148>
+        <label149>
+            <Korean>상품권받은금액</Korean>
+            <English/>
+            <Chinese/>
+        </label149>
+        <label150>
+            <Korean>현금거스름</Korean>
+            <English/>
+            <Chinese/>
+        </label150>
+        <label151>
+            <Korean>상품권거스름</Korean>
+            <English/>
+            <Chinese/>
+        </label151>
+        <label152>
+            <Korean>외상</Korean>
+            <English/>
+            <Chinese/>
+        </label152>
+        <label153>
+            <Korean>정산시재</Korean>
+            <English/>
+            <Chinese/>
+        </label153>
+        <label154>
+            <Korean>현금재고</Korean>
+            <English/>
+            <Chinese/>
+        </label154>
+        <label155>
+            <Korean>카드전표</Korean>
+            <English/>
+            <Chinese/>
+        </label155>
+        <label156>
+            <Korean>상품권재고</Korean>
+            <English/>
+            <Chinese/>
+        </label156>
+        <label157>
+            <Korean>현금/상품권 합계</Korean>
+            <English/>
+            <Chinese/>
+        </label157>
+        <label158>
+            <Korean>캐셔등록시재</Korean>
+            <English/>
+            <Chinese/>
+        </label158>
+        <label159>
+            <Korean>현금/상품권 과부족</Korean>
+            <English/>
+            <Chinese/>
+        </label159>
+        <label160>
+            <Korean>현금외상수금</Korean>
+            <English/>
+            <Chinese/>
+        </label160>
+        <label161>
+            <Korean>카드외상수금</Korean>
+            <English/>
+            <Chinese/>
+        </label161>
+        <label162>
+            <Korean>현금선결제포인트구매</Korean>
+            <English/>
+            <Chinese/>
+        </label162>
+        <label163>
+            <Korean>카드선결제포인트구매</Korean>
+            <English/>
+            <Chinese/>
+        </label163>
+        <label164>
+            <Korean>주문테이블</Korean>
+            <English/>
+            <Chinese/>
+        </label164>
+        <label165>
+            <Korean>출력시간</Korean>
+            <English/>
+            <Chinese/>
+        </label165>
+        <label166>
+            <Korean>날짜</Korean>
+            <English/>
+            <Chinese/>
+        </label166>
+        <label167>
+            <Korean>입출금내역번호</Korean>
+            <English/>
+            <Chinese/>
+        </label167>
+        <label168>
+            <Korean>입금 전표</Korean>
+            <English/>
+            <Chinese/>
+        </label168>
+        <label169>
+            <Korean>출금 전표</Korean>
+            <English/>
+            <Chinese/>
+        </label169>
+        <label170>
+            <Korean>입금 완료</Korean>
+            <English/>
+            <Chinese/>
+        </label170>
+        <label171>
+            <Korean>출금 완료</Korean>
+            <English/>
+            <Chinese/>
+        </label171>
+        <label172>
+            <Korean>입금 취소</Korean>
+            <English/>
+            <Chinese/>
+        </label172>
+        <label173>
+            <Korean>출금 취소</Korean>
+            <English/>
+            <Chinese/>
+        </label173>
+        <label174>
+            <Korean>현금</Korean>
+            <English/>
+            <Chinese/>
+        </label174>
+        <label175>
+            <Korean>총액</Korean>
+            <English/>
+            <Chinese/>
+        </label175>
+        <label176>
+            <Korean>님</Korean>
+            <English/>
+            <Chinese/>
+        </label176>
+    </printhelper>
+    <arealist>
+        <label1>
+            <Korean>지역선택</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+    </arealist>
+    <membershippoint>
+        <label1>
+            <Korean>이름</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>현재포인트</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+    </membershippoint>
+    <gurum_rejectreason>
+        <label1>
+            <Korean>상품매진</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>영업마감</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>배달불가</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+    </gurum_rejectreason>
+    <gurum_orderlist>
+        <label1>
+            <Korean>대기</Korean>
+            <English/>
+            <Chinese/>
+        </label1>
+        <label2>
+            <Korean>완료</Korean>
+            <English/>
+            <Chinese/>
+        </label2>
+        <label3>
+            <Korean>취소</Korean>
+            <English/>
+            <Chinese/>
+        </label3>
+    </gurum_orderlist>
+</Language>

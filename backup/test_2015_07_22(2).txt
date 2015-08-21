@@ -1,0 +1,1364 @@
+﻿start, start, , , 
+login, BTN_START, START, 시작, 开始
+login, BTN_EXIT, EXIT, 종료, 退出
+login, BTN_BASEINFO, BASE INFO, 매장정보설정, 店铺信息设置
+login, BTN_DEVSET, DEVICE SETTING, 장치세부설정, 设备详细设置
+login, L1, new updates are available.(, 새로운 업데이트 항목이 있습니다., 有可更新的内容
+login, L2, update now?, 업데이트 하시겠습니까?, 可以立刻更新吗？
+login, L3, device setting file not exists, 장치 설정 파일이 존재하지 않습니다., 设备环境设置文件不存在
+login, L4, please set up the device connectingl, 장치 연결 설정을 해주셔야 합니다., 请设置设备连接
+login, L5, invalid password, 비밀번호가 일치하지 않습니다., 密码不正确
+login, L6, , 아이디와 비밀번호를 입력해주세요., 请输入用户名和密码
+login, L7, , 아이디,用户名
+login, L8, , 이 름, 姓名
+login, L9, , 비밀번호, 密码
+button, BTN_ADD,  Add, 추가, 追加
+button, BTN_CANCEL, Cancel, 취소, 取消
+button, BTN_CLOSE, Close, 닫기, 关闭
+button, BTN_DELETE, Delete, 삭제, 删除
+button, BTN_ENTER, Enter, 입력, 输入
+button, BTN_NEW, New, 신규, 新加
+button, BTN_NEXT, Next, 다음, 下一步
+button, BTN_OK, Ok, 확인, 确认
+button, BTN_PREV, Prev, 이전, 上一步
+button, BTN_MOD, , 수정, 修改
+button, BTN_SAVE, Save, 저장, 保存
+button, BTN_SEARCH, Search, 검색, 检索
+button, BTN_SELECT, Select, 선택, 选择
+button, BTN_SELECT_ALL, SelectAll, 전체선택, 全选
+button, BTN_CONNECT, Connect, 연결, 连接
+button, BTN_OPEN, Open, 열기, 打开
+button, BTN_DISPLAY, DISPLAY, 화면출력, 画面显示
+button, BTN_PRINT, Print, 인쇄, 印刷
+button, BTN_REQUEST, Sign Request, 서명요청, 请求输入签署
+button, BTN_CONFIRM, Sign Confirm, 서명확인, 确认签名
+button, BTN_SEND, Send Order, 발주전송, 发出订单传送
+button, BTN_TOTAL, $, 원, 元
+button, BTN_SAVE_ORDER, Save Order, 발주저장, 保存订单
+button, BTN_CONFIRM_ORDER, Confirm Order, 발주확정, 确定订单
+button, BTN_HISTORY, Order History, 발주이력, 订单履历
+button, BTN_SEARCH_CODE, Search Code, 코드검색, 检索代码
+button, BTN_SORTING_HIGHPRICE, Sorting HighPrice, 높은 가격순, 高价序
+button, BTN_SORTING_LOWPRICE, Sorting LowPrice, 낮은 가격순, 低价序
+button, BTN_SORTING_HIGHNAME, Sorting Name, 높은 이름순,按字母向前
+button, BTN_SORTING_LOWNAME, Sorting Name, 낮은 이름순,按字母向后
+button, BTN_SORTING_USERDEFINE, , 사용자 정의,自定义
+button, BTN_HOLDING, Holding, 보류, 保留
+button, BTN_HOLDING_CALL, Call Holding, 보류호출, 保持呼叫
+button, BTN_DELIVERY, Delivery, 배달, 配送
+button, BTN_DELIVERY2, , 포장/배달,打包/配送
+button, BTN_DELIVERY_CANCEL, , 포장취소,打包取消
+button, BTN_PAYMENT, , 지불,付款
+button, BTN_PREV_TRANS, PrevTransaction, 직전거래, 前一步交易
+button, BTN_DIRECT_REFUND, DirectRefund, 직접등록환불, 手动退钱
+button, BTN_REFUND, Refund, 환불, 退钱
+button, BTN_REFUND_RELOAD, Reentrance, 환불 후 재등록, 退钱后继续结帐
+button, BTN_REPRINT, ReprintReceipt, 영수증 재출력, 重印收据
+button, BTN_PAYMENT_LIST, Payment List, 지불내역, 付款单
+button, BTN_PRODUCT_LIST, Product List, 상품내역, 商品明细
+button, BTN_MODIFY, Modify, 선택삭제, 修改
+button, BTN_ORDER, Order, 주문, 订购
+button, BTN_PERIOD, Settlement Date, 정산일자, 结清日期
+button, BTN_USER_TYPE, Cashier, 캐셔, 收银员
+button, BTN_RETRY, Retry, 재시도, 重试
+button, BTN_RECEIPT_PRINT, , 영수증 발행,开现金发票
+button, BTN_SEARCH_ITEM, , 상품검색, 
+button, label1, , 배달/TAKEOUT 선택, 
+devicemanager, label1, Device, 디바이스, 设备
+devicemanager, label2, Port, 포트, 端口
+devicemanager, label3, Transmission Speed, 전송속도, 传输速度
+devicemanager, label4, Address, 주소, 地址
+devicemanager, label5, saved device setting information, 디바이스 설정 정보가 저장되었습니다., 设备环境设置保存成功了
+devicemanager, label6, select connecting device, 연결 장치를 선택해주셔야합니다., 请选择设备
+devicemanager, label7, Image, 이미지, 图像
+devicemanager, devicemanagerform, Device Manager, 장치세부설정, 设备详细设置
+devicemanager, label8, , 더 이상 등록할 수 없습니다.,无法继续加入
+devicemanager, label9, , 확인,确认
+devicemanager, label10, , 동일한 PRINTER 아이디가 존재합니다.,同一个打印机名称已存在
+devicemanager, label11, , 동일한 PRINTER IP가 존재합니다.,同一个打印机IP已存在
+devicemanager, label12, , 동일한 PRINTER 포트가 존재합니다.,同一个打印机端口已存在
+devicemanager, label13, , <서브프린터(이더넷)>, 《副打印机（以太网）》
+devicemanager, label14, , <서브프린터(시리얼)>,《副打印机（串行）》
+devicemanager, label15, 고객번호입력, , 
+devicemanager, label16, , 사용자정보 요청, 
+devicemanager, label17, , 사용자정보 취소, 
+devicemanager, label18, , 금전등록기 테스트, 
+devicemanager, label19, , 프린터 ID, 
+devicemanager, label20, , 등록, 登录
+devicemanager, label21, , 제거, 
+popupcard, rdo_auto, Auto Approval, 자동승인,POS机结帐
+popupcard, rdo_manual, Manual Approval, 외부 단말 승인,信用卡终端机结帐
+popupcard, lbl_1, Card No., 카드번호, 卡号
+popupcard, lbl_2, Payment, 결제금액, 付款金额
+popupcard, lbl_3, Valid Date, 유효기간, 有效期间
+popupcard, lbl_4, Installment, 할부개월, 分期付款个月数
+popupcard, lbl_5, Approval No., 승인번호,认证号
+popupcard, lbl_6, Date of Payment, 원거래일자, 原始交易日期
+popupcard, L1, invalid information, 유효하지 않은 정보가 있습니다., 有无效信息。
+popupcard, L1_1, please check and retry, 확인 후 다시 시도하여 주시기 바랍니다., 请再确认后进行
+popupcard, L1_2, no card information, 카드정보가 없습니다., 信用卡信息不存在
+popupcard, L2, request card transaction..., 카드 거래 요청 중..., 正在请求信用卡交易中。。。
+popupcard, L2_1, request cash receipt..., 현금영수증 거래 요청중..., 正在请求现金单据交易中。。。
+popupcard, L3, ] failing transaction, ] 거래가 실패하였습니다., 交易失败了
+popupcard, L4, ] canceling transaction. please retry., ] 장애로 거래가 취소되었습니다. 다시 시도하여 주시기 바랍니다., 因障碍遭遇交易取消。请重试。
+popupcard, L5, ] failing transaction. please call to VAN or card company., ] 장애로 거래가 실패하였습니다. VAN 또는 카드사에 전화 바랍니다., 因障碍遭遇交易失败。请联系到VAN或者信用卡公司。
+popupcard, L6, sign data limit exceeded, 사인 데이터의 용량이 초과되었습니다., 签署数据超了限量
+popupcard, L7, failed at processing on network error, 네트워크 오류로 인하여 처리하지 못하였습니다., 因网络问题，遇到处理失败。
+popupcard, L8, canceling transaction, 거래가 취소되었습니다., 交易取消了
+popupcard, L9, failing log-file creation, 로그파일 생성 실패., 记录文件生成失败
+popupcard, L10, caused communication problems, 통신 중 에러발생., 通讯中发生错误
+popupcard, L11, error appears on finishing transaction, 거래완료 상황에서 장애 발생., 在交易完成的阶段中，发生障碍。
+popupcard, L12, failing transaction. please call to VAN or card company, 망 장애로 거래가 실패하였습니다. VAN 또는 카드사에 전화 바랍니다., 因网络障碍遇到交易失败。请联系到VAN或者信用卡公司。
+popupcard, L13, pay module not selected., 설정에서 결제모듈이 선택되지 않았습니다, 在环境设置里，未选了付款模块
+popupcard, L13_1, KISVAN 등) , 설정 후 다시 결제바랍니다. (예: KSNET,  please retry after setting
+popupcard, L14, failing transaction, 거래가 실패하였습니다., 交易失败了。
+popupcard, L15, inquire Cashbag..., OK 캐쉬백 조회 중..., 正在查询OK cashbag中。。。
+popupcard, L16, using cahsback, OK 캐쉬백 사용, 使用OK Cashbag
+popupcard, L17, saving Cashbag, OK 캐쉬백 적립, 积存OK Cashbag积分
+popupcard, L18, next, 넘어가기, 下一步
+popupcard, L19, using Cashbag transaction..., OK 캐쉬백 사용거래 중..., 正在请求OK Cashbag使用。。。
+popupcard, L20, saving Cashbag transaction..., OK 캐쉬백 적립거래 중..., 正在请求OK Cashbag积存。。。
+popupcard, L21, failed voucher confirmation, 상품권 인증이 실패하였습니다., 请求购物券批准。批准失败了。
+popupcard, L22, , 원승인번호, 原认证号
+popupcardreceipt, label1, Cash Payment, 현금결제금액, 现金付款金额
+popupcardreceipt, label2, $, 원, 元
+popupcardreceipt, label3, Phone NO., 연락처, 联络
+popupcardreceipt, label4, Card, 카드, 信用卡
+popupcardreceipt, rdo1, Receipt, 현금영수증, 现金单据
+popupcardreceipt, rdo2, Refer, 지출증빙, 支出证明
+popupcardreceipt, rdo3, Self, 자진발급,临时发票
+popupcardreceipt, rdo4, None, 넘어가기, 无需证明
+popupcashbag, label1, Card NO., 카드번호, 卡号
+popupcashbag, label2, Total Point, 가용포인트, 可用积分
+popupcashbag, label3, Use Point, 사용포인트, 使用积分
+popupcashbag, label4, Password, 비밀번호, 密码
+popupvoucher, label1, Voucher NO., 상품권번호, 购物券号码
+popupvoucher, label2, Voucher Name, 상품권명, 购物券名
+popupvoucher, label3, Voucher Amt., 상품권금액, 购物券金额
+popupvoucher, label4, Vaild Amt., 사용가능금액, 可使用的金额
+popupvoucher, label5, Used Amt., 사용금액, 使用的金额
+popupvoucher, label6, Voucher Exchange, 전자상품권 교환권, 购物券交换
+popupvoucher, label7, Voucher Price, 전자상품권 금액권, 购物券
+popupvoucher, BTN_TRADE, Exchange, 교환, 交换
+popupvoucher, label8, , 교환상품,交换商品
+popupmccoupon, label1, Voucher NO., 상품권번호, 购物券号码
+popupmccoupon, label2, Voucher Name, 상품권명, 购物券名
+popupmccoupon, label3, Voucher Amt., 상품권금액, 购物券面额
+popupmccoupon, label4, , 상품권사용액,购物券使用金额
+popupmccoupon, label5, , 상품권조회,购物券查询
+popuppoint, label1, , 카드번호,卡号
+popuppoint, label2, , 가용포인트,可用积分
+popuppoint, label3, , 사용포인트,扣除积分
+popuppoint, label4, , 비밀번호,密码
+rmpos_address, label1, Insert Address, 주소입력, 输入地址
+rmpos_baseinfo, label1, Co. Information Setting, 매장정보설정, 店铺信息设置
+rmpos_baseinfo, label2, Company Code, 회사코드, 公司代码
+rmpos_baseinfo, label3, Store Code, 매장코드, 店铺代码
+rmpos_baseinfo, label4, Pos Number, 포스번호, POS号
+rmpos_baseinfo, label5, Van Number, VAN번호, VAN号
+rmpos_baseinfo, label6, Van Service, VAN서비스, VAN服务
+rmpos_baseinfo, label7, *****, 운영타입,经营管理模式
+rmpos_baseinfo, label8, *****, 지원모드,支持模式
+rmpos_baseinfo, sales_type_prepay, *****, 선불제,预付费模式
+rmpos_baseinfo, sales_type_furpay, *****, 후불제,后付费模式
+rmpos_baseinfo, sales_supp_eatout, *****, 외식,外餐
+rmpos_baseinfo, sales_supp_circur, *****, 유통,流通
+rmpos_baseinfo, outmsg1, more information required, 입력되지 않은 정보가 있습니다., 未输入的信息还存在
+rmpos_baseinfo, outmsg2, *****, 암호를 입력하여 주십시오.,请输入密码
+rmpos_baseinfo, label9, , 카테고리 선택, 
+rmpos_baseinfo, label10, , 카테고리 펼침, 
+rmpos_baseinfo, label11, , 주문이력, 
+rmpos_baseinfo, label12, , 주문합산, 
+rmpos_beeper, label1, Beeper No., 호출기 번호, 呼叫器号
+rmpos_beeper, label2, Enter Beeper No., 호출기 번호입력, 输入呼叫器号
+rmpos_calendar, label1, Start Date, 시작일, 开始日
+rmpos_calendar, label2, year, 년, 年
+rmpos_calendar, label3, month, 월, 月
+rmpos_calendar, label4, date, 일, 日
+rmpos_calendar, label5, End Date, 종료일, 结束日
+rmpos_calendar, label6, year, 년, 年
+rmpos_calendar, label7, month, 월, 月
+rmpos_calendar, label8, date, 일, 日
+rmpos_calendar, label9, Select Date, 기간선택, 日
+rmpos_cashflow, label1, Search Date, 검색일자, 0年0月0日
+rmpos_cashflow, label2, Cash, 현금, 现金
+rmpos_cashflow, label3, $, 원, 元
+rmpos_cashflow, label4, Coupon, 상품권, 购物券
+rmpos_cashflow, label5, psc, 매, 张数
+rmpos_cashflow, label6, $, 원, 元
+rmpos_cashflow, label7, Total, 총액, 总额
+rmpos_cashflow, label8, $, 원, 元
+rmpos_cashflow, label9, no item selected to cancel, 취소할 항목이 선택되지 않았습니다., 还没选择了要取消的项目。
+rmpos_cashflow, label10, failed at canceling, 취소 항목은 취소 할 수 없습니다., 对于已取消的项目，不可再次取消。
+rmpos_cashflow, label11, Deposit and Withdraw, 입출금 등록,收支记录
+rmpos_cashflow, IN, Deposit, 입금, 存款
+rmpos_cashflow, OUT, Withdraw, 출금, 提取
+rmpos_cashflow, lbl1, Serial Number, 일련번호, 序列号
+rmpos_cashflow, lbl2, Enroll time, 등록시간, 注册时间
+rmpos_cashflow, lbl3, Cash, 현금, 现金
+rmpos_cashflow, lbl4, Voucher Amt., 상품권 금액, 购物券金额
+rmpos_cashflow, lbl5, Voucher Qt., 상품권 매수, 购物券张数
+rmpos_cashflow, lbl6, Section, 구분, 区分
+rmpos_cashflow, lbl7, Note, 비고, 备注
+rmpos_cashflow, key1, Cash, 현금, 现金
+rmpos_cashflow, key2, Voucher Qt., 상품권 수, 购物券数
+rmpos_cashflow, key3, Voucher Amount, 상품권 금액, 购物券金额
+rmpos_collection, label1, Order No., 주문수, 订购数
+rmpos_collection, label2, Date, 날짜, 日期
+rmpos_collection, label3, Customer, 고객, 顾客
+rmpos_collection, label4, Total Amt., 총금액, 总金额
+rmpos_collection, label5, 0ea., 0건, 0件
+rmpos_collection, label6, 0$, 0원, 0元
+rmpos_collection, label7, Members, 모든회원, 所有的会员
+rmpos_collection, label8, Search, 회원검색, 检索会员
+rmpos_collection, label9, collecting credit is allowing only once per a member, 외상수금인 1회 1회원만 가능합니다., 关于收款赊账，每个会员只允许一次。
+rmpos_collection, reset, Clear All, 선택 취소, 取消全选
+rmpos_collection, ON, Order No., 주문 번호, 订购号码
+rmpos_collection, CN, Cust. No., 회원 번호, 会员号码
+rmpos_collection, S, $, 원, 元
+rmpos_collection, T, Total, 총, 总
+rmpos_collection, E, ea., 개, 个
+rmpos_customer_class, label1, Customer Class, 객층 정보 선택, 会员等级
+rmpos_customer_class, label2, Sex, 성별, 性别
+rmpos_customer_class, label3, Ages, 연령, 年龄
+rmpos_customer_class, label4, Number, 인원, 人数
+rmpos_customer_class, label5, Type, 유형, 类型
+rmpos_customer_class, btn1, Member, 회원, 会员
+rmpos_customer_class, btn2, Male, 남성, 男性
+rmpos_customer_class, btn3, Female, 여성, 女性
+rmpos_customer_class, btn4, Teen, 10대, 10岁代
+rmpos_customer_class, btn5, Twenties, 20대, 20岁代
+rmpos_customer_class, btn6, Thirties, 30대, 30岁代
+rmpos_customer_class, btn7, Forties, 40대, 40岁代
+rmpos_customer_class, btn8, Fifties, 50대, 50岁代
+rmpos_customer_class, btn9, Sixties, 60대, 60岁代
+rmpos_customer_class, btn10, Alone, 혼자, 自己
+rmpos_customer_class, btn11, Friends, 친구, 朋友
+rmpos_customer_class, btn12, Couple, 연인, 情人
+rmpos_customer_class, btn13, Family, 가족, 家人
+rmpos_customer_class, btn14, Meeting, 모임, 聚会
+rmpos_customer_info, label1, Check Members, 회원 조회, 查询会员
+rmpos_customer_info, label2, Member, 회원, 会员
+rmpos_customer_info, label3, No., 회원번호, 会员号码
+rmpos_customer_info, label4, Name, 이름, 名字
+rmpos_customer_info, label5, Sex, 성별, 性别
+rmpos_customer_info, label6, D.of Birth, 생일, 生日
+rmpos_customer_info, label7, Phone, 고객번호, 电话
+rmpos_customer_info, label8, Card No., 카드번호, 卡号
+rmpos_customer_info, label9, Point, 포인트, 积分
+rmpos_customer_info, label10, Address, 주소, 地址
+rmpos_customer_info, label11, Telephone, 고객번호, 电话号码
+rmpos_customer_info, L1, failing on registering new member, 신규회원 등록에 실패하였습다., 新增会员新增失败了。
+rmpos_customer_info, L2, failing on registering address, 주소등록에 실패하였습니다., 注册地址注册失败了
+rmpos_customer_info, L3, select address to delete, 삭제할 주소를 선택하여 주십시오, 请选择要删除的地址。
+rmpos_customer_info, L4, failing on deleting address, 주소 삭제에 실패하였습니다., 删除地址删除失败了。
+rmpos_customer_info, L5, failing on registering phone No., 고객번호 등록에 실패하였습니다., 注册电话号注册失败了
+rmpos_customer_info, L6, select phone No. to delete, 삭제할 고객번호를 선택하여 주십시오, 请选择要注册的电话号。
+rmpos_customer_info, L7, failing on deleting phone No., 고객번호 삭제에 실패하였습니다., 删除电话号删除失败了
+rmpos_customer_info, L8, no member selected, 선택한 회원이 없습니다., 未选择了会员
+rmpos_customer_info, L9, phone digits must have more than 4 numbers, 고객번호는 4자리 이상 입력하여 주십시오, 请输入4位以上的电话号码。
+rmpos_customer_info, L10, phone No., 고객번호 , 电话号
+rmpos_customer_info, L11, cell phone, 핸드폰 , 手机号
+rmpos_customer_info, L12, male, 남성, 男性
+rmpos_customer_info, L13, female, 여성, 女性
+rmpos_customer_info, L14, unknown, 알수없음, 未知
+rmpos_customer_info, L15, , 카드번호변경, 
+rmpos_customer_info, L16, ,     추가, 
+rmpos_customer_info, L17, ,     삭제, 
+rmpos_customer_info, L18, , 포인트조정, 
+rmpos_customer_info, L19, , 구매이력조회, 
+rmpos_customer_info, L20, , 포인트 적립이력, 
+rmpos_customer_info, L21, , 영수증번호, 
+rmpos_customer_info, L22, , 구매날짜, 
+rmpos_customer_info, L23, , 상품명, 
+rmpos_customer_info, L24, , 수량, 
+rmpos_customer_info, L25, , 가격, 
+rmpos_customer_info, L26, , 상태, 
+rmpos_customer_info, L27, , 적립일자, 
+rmpos_customer_info, L28, , 구분, 
+rmpos_customer_info, L29, , 적용포인트, 
+rmpos_customer_info, L30, , 사유, 
+rmpos_customer_info, L31, , 포인트 적립/차감, 
+rmpos_customer_info, L32, , 현재 포인트, 
+rmpos_customer_info, L33, , 적립, 
+rmpos_customer_info, L34, , 차감, 
+rmpos_customer_info, L35, , 적립취소, 
+rmpos_customer_info, L36, , 기타, 
+rmpos_customer_info, L37, , 적용, 
+rmpos_customer_info, L38, , 적립사유, 
+rmpos_customer_info, L39, , 추가적립, 
+rmpos_customer_info, L40, , 포인트이관, 
+rmpos_customer_info, L41, , 이벤트적용, 
+rmpos_delivery_pay_method, label1, Payment Method, 지불 수단, 付款手段
+rmpos_delivery_pay_method, label2, Cash, 현금, 现金
+rmpos_delivery_pay_method, label3, Card, 카드, 卡
+devicecheck, network, checking network status, 네트워크 상태 확인, 检查网络状态
+devicecheck, configuration, checking pos configuration, 포스 환경 확인, 检查POS环境设定
+devicecheck, global_values, check global variables, 전역 변수 확인, 检查全局变量
+devicecheck, db_manager, checking connection to database, 데이터베이스 연결 상태 확인, 检查数据库连接状态
+devicecheck, time_syncronizing, syncronize time with server, 서버와 시간 동기화, 与服务器时间同步
+devicecheck, get_client_info, get clients information, 클라이언트 정보 수신, 收到客户端信息
+devicecheck, receive_product_info, get product information, 상품 정보 수신, 收到商品信息
+devicecheck, receive_shop_info, get shop information, 매장 정보 수신, 收到店铺信息
+devicecheck, receive_classification_info, get classification of goods, 상품 카테고리 수신, 收到商品目录
+devicecheck, receive_cashier_info, get cashier information, 판매자 정보 수신, 收到收银员信息
+devicecheck, check_device_connection, checking connection to devices, 디바이스 연결 상태 확인, 检查设备连接状态
+devicecheck, L1, check for network setting, 네트워크 설정을 확인하시기 바랍니다., 请检查网络环境设置
+devicecheck, L2, reset information, 환경 설정 파일이 존재하지 않아 정보를 초기화합니다., 环境设置文件不存在。进行初始化。
+devicecheck, L3, failed at connecting database, 데이터베이스 연결이 실패하였습니다., 连接数据库连接失败了
+devicecheck, L4, server not connected, 서버와 연결되지 않았습니다., 无法连接到服务器
+devicecheck, L5, failed at receiving product master, 상품마스터 수신이 실패하였습니다., 受信商品Master受信失败了。
+devicecheck, L6, failed at receiving store information, 매장 정보 수신이 실패하였습니다., 受信店铺信息受信失败了
+devicecheck, L7, failed at receiving category information, 카테고리 정보 수신이 실패하였습니다., 受信目录信息受信失败了
+devicecheck, L8, failed at receiving data information, 기초코드 정보 수신이 실패하였습니다., 受信基础代码信息受信失败了
+devicecheck, L9, failed at receiving user information, 사용자 정보 수신이 실패하였습니다., 受信用户信息受信失败了
+devicecheck, L10, connection failed. check for device setting, 연결이 실패 하였습니다. 장치 설정을 확인바랍니다., 连接失败了， 请确认设备环境设置。
+devicecheck, L11, device setting file not exists, 장치 설정 파일이 존재하지 않습니다., 设备环境设置文件不存在。
+devicecheck, system_checking, , 시스템 확인,检查系统
+devicecheck, L12, , 사용자 정보 수정,更新用户信息
+devicecheck, L13, , 테이블 거래 정보 정리,餐桌交易信息清理
+devicecheck, L14, , 카드거래 추가 정보 등록,记录信用卡交易数据
+devicecheck, L15, , 거래테이블 추가 정보 등록,记录所交易的餐桌信息
+devicecheck, L16, , 테이블 추가 정보 등록,记录餐桌信息
+devicecheck, L17, , 정산채번 데이터 정보 등록,结算生成号吗信息记录
+devicecheck, L18, , 후불제 선결제 확인 정보 등록,后付费预付费信息记录
+devicecheck, L19, , POS 프린터 리스트 정보 등록,POS打印机信息记录
+devicecheck, L20, , 선불포인트 할인 데이터 적용,预付积分打折内容更新
+devicecheck, L21, , 테이블 정보 수신,餐桌信息下载
+devicecheck, L22, , 거래 정리,交易信息清理
+devicecheck, L23, , 비정상 거래 취소처리, 非正常交易删除
+devicecheck, L24, , POS API DAEMON 서버 실행,运行 POS API DAEMON 服务
+devicecheck, L25, , RMPosLoader 갱신,RMPosLoader更新
+devicecheck, L26, , Log 정리,LOG清理
+devicecheck, L27, ,POS 기기 IP 정보,POS 机 IP 信息
+devicecheck, L28, ,테이블 거래 정보 정리,餐桌交易信息
+devicecheck, L29, , GURUM 서비스 연동 준비, 
+rmpos_dualdisplay, label1, Total :, 총 계 :, 总计 ：
+rmpos_dualdisplay, label2, Paid Out :, 지불금액 :, 付款金额
+rmpos_dualdisplay, label3, Unpaid :, 남은 금액 :, 余额
+rmpos_dualdisplay, label4, Name, 상품명, 商品名
+rmpos_dualdisplay, label5, Qt., 수량, 数量
+rmpos_dualdisplay, label6, Price, 가격, 价格
+rmpos_holding, label1, (Defer), (보류), 保留
+rmpos_holding, label2, $ , 원, 元
+rmpos_holding, label3, Cashier :, 캐셔 :, 收银员
+rmpos_holding, label4, Total , 총 , 总
+rmpos_holding, label5,  pcs, 개, 个
+rmpos_indicator, label1, Showing Information, 알림, 公告
+rmpos_indicator, label2, Warning, 경고, 警告
+rmpos_indicator, label3, Error, 에러, 错误
+rmpos_indicator, label4, Progressing, 처리중, 处理中
+rmpos_indicator, label5, Enter, 입력, 输入
+rmpos_indicator, label6, Information, 정보, 信息
+rmpos_indicator, label7, , <주소입력>, 《输入地址》
+rmpos_indicator, label8, , 회원 주소를 입력하여 주십시오.,请输入会员地址
+rmpos_indicator, label9, , 시스템 종료,系统关机
+rmpos_indicator, label10, , 시스템을 종료하시겠습니까?,确定要关机吗？
+rmpos_indicator, label11, , POS번호는 숫자만 입력 가능 합니다.,POS号只允许输入数字
+rmpos_indicator, label12, , POS번호는 1~99까지 입력 가능 합니다.,POS号只许1～99
+rmpos_indicator, label13, , POS기본 정보 등록에 실패하였습니다.,记录POS基础信息，记录失败
+rmpos_indicator, label14, , 관리자에게 문의하여 주십시오.,请联系到管理者
+rmpos_indicator, label15, , 날짜에 0을 입력할 수 없 습니다.,在日期不允许输入“0”。
+rmpos_indicator, label16, , 다시 입력하여 주십시오.,请再输入
+rmpos_indicator, label17, , 멤버쉽 검색 키워드를 입력해 주십시오.,请输入会员关键词
+rmpos_indicator, label18, , 입력하신 검색정보로 정보조회를 할 수 없습니다.,所输入的关键词，无法检索。
+rmpos_indicator, label19, , 입력하신 고객번호로 정보조회를 할 수 없습니다.,所输入的会员号吗，无法检索。
+rmpos_indicator, label20, , 선택된 회원 정보가 없습니다.,没有所选择的会员信息。
+rmpos_indicator, label21, , 먼저 수금 대상 회원을 조회하여 주십시오., 请先检索所收费的会员
+rmpos_indicator, label22, , 등록된 회원조회에 실패하였습니다.,检索会员，检索失败。
+rmpos_indicator, label23, , 다시 시도하여 주십시오., 请再试
+rmpos_indicator, label24, , 수금 금액을 입력하여 주십시오., 请输入要收费的金额
+rmpos_indicator, label25, , 외상 수금 정보 저장에 실패 하였습니다., 赊账收账信息保存失败
+rmpos_indicator, label26, , 선결제 포인트 구매 정보 등록에 실패하였습니다.,预付积分购买信息，登录失败。
+rmpos_indicator, label27, , 먼저 주소를 등록하여 주십시오., 请先登记地址
+rmpos_indicator, label28, , <전화번호입력>, <电话号码输入>
+rmpos_indicator, label29, , 전화번호를 입력하여 주십시오., 请您输入电话号
+rmpos_indicator, label30, , 회원정보를 변경하였습니다., 会员信息变更完毕
+rmpos_indicator, label31, , 회원정보 변경에 실패하였습니다., 会员信息变更失败
+rmpos_indicator, label32, , 먼저 신규등록을 진행하여 주십시오., 请您先加入
+rmpos_indicator, label33, , 고객번호를 다시 확인하시고 재시도 해주세요., 请确认会员号码并再试图
+rmpos_indicator, label34, , 데이터베이스 파일을 찾을 수 없습니다., 找不到数据库文件
+rmpos_indicator, label35, , 현재 시간 정보를 사용합니다.,将会使用目前的时间
+rmpos_indicator, label36, , 상품마스터 제품 표시 순서등록에 실패하였습니다., 商品排序信息下载失败
+rmpos_indicator, label37, , 마지막 판매일의 상품 마스터 정보를 사용합니다., 将会使用最近的商品信息
+rmpos_indicator, label38, , 카테고리 뷰 수정에 실패하였습니다., 范畴信息修改失败
+rmpos_indicator, label39, , 프로그램을 다시 실행하여 주십시오., 请重新启动程序
+rmpos_indicator, label40, , 마지막 판매일의 상품카테고리 정보를 사용합니다., 将会使用最近的商品范畴信息
+rmpos_indicator, label41, , 마지막 판매일의 매장 정보를 사용합니다., 将会使用最近的店铺信息
+rmpos_indicator, label42, , POS사용자 정보 편집에 실패하였습니다., POS用户信息变更失败
+rmpos_indicator, label43, , 마지막 판매일의 사용자 정보를 사용합니다., 将会使用最近的用户信息
+rmpos_indicator, label44, ,로컬 디비 업데이트에 실패하였습니다.,更新数据库更新失败
+rmpos_indicator, label45, , 거래데이터 테이블 추가정보 구성에 실패하였습니다., 所交易的餐桌信息组成失败
+rmpos_indicator, label46, , 테이블 추가정보 구성에 실패하였습니다., 餐桌信息组成失败
+rmpos_indicator, label47, , 거래번호 채번 구성에 실패하였습니다., 清单号生成失败
+rmpos_indicator, label48, , 배달카드결제 채번 구성에 실패하였습니다., 关于配送的信用卡结帐，生成号组成失败
+rmpos_indicator, label49, , BEEPER 채번 구성에 실패하였습니다., BEEPER 生成号组成失败
+rmpos_indicator, label50, , 임시거래번호 채번 구성에 실패하였습니다., 临时交易号生成失败
+rmpos_indicator, label51, , 정산 채번 구성에 실패하였습니다.,结清单生成号组成失败
+rmpos_indicator, label52, , 주문번호 채번 구성에 실패하였습니다., 预定号码生成失败
+rmpos_indicator, label53, , 임시거래 테이블 선결제정보 구성에 실패하였습니다., 临时交易的预付费信息组成失败
+rmpos_indicator, label54, , 거래 테이블 선결제정보 구성에 실패하였습니다.,该餐桌的预付费信息组成失败
+rmpos_indicator, label55, , 선결제 현금 수금 정보 구성에 실패하였습니다., 预付费的现金收费信息组成失败
+rmpos_indicator, label56, , 선결제 카드 수금 정보 구성에 실패하였습니다., 预付费的信用卡收费信息组成失败
+rmpos_indicator, label57, , 선불포인트 할인 데이터 정보 편집에 실패하였습니다., 预付积分的打折信息更新失败
+rmpos_indicator, label58, , 최신 상품 및 테이블 정보를 적용하려면 거래중인., 为了更新最新的信息，所交易的
+rmpos_indicator, label59, , 테이블을 모두 결제 후 프로그램을 재시작 해주세요., 餐桌都结完账后重新启动程序
+rmpos_indicator, label60, , 테이블마스터 수신에 실패하였습니다., 餐桌信息下载失败
+rmpos_indicator, label61, , 거래정보 등록에 실패하였습니다., 交易信息更新失败
+rmpos_indicator, label62, , <확인>, <确认>
+rmpos_indicator, label63, , 바코드 또는 상품명을 입력하여 주십시오., 请输入条形码或商品名
+rmpos_indicator, label64, , 상품 검색에 실패하였습니다., 商品检索失败
+rmpos_indicator, label65, , 영수증 알림 메세지를 입력하여 주십시오.,请输入发票通知短信
+rmpos_indicator, label66, , 잘못된 입력값입니다.,是错误值。
+rmpos_indicator, label67, , 0~100사이의 숫자를 입력하여 주십시오.,请输入自“0”至“100”数字
+rmpos_indicator, label68, , Token을 입력하여 주십시오., 请输入token 号
+rmpos_indicator, label69, , <지역등록>, <地区登录>
+rmpos_indicator, label70, , 지역명을 입력하여 주십시오., 请输入地区名
+rmpos_indicator, label71, , 테이블 수를 입력하여 주십시오., 请输入餐桌数量
+rmpos_indicator, label72, , 테이블 표시항목을 입력하여 주십시오., 请输入餐桌名称
+rmpos_indicator, label73, , 지역명은 10자 이상을 등록할 수 없습니다., 地区名不可超10个字
+rmpos_indicator, label74, , 사용자 배열은 별도의 에디터로 편집하여 주십시오., 通过另一个编辑工具，可以自定义设定餐桌。
+rmpos_indicator, label75, , 테이블 등록, 登录餐桌信息
+rmpos_indicator, label76, , 테이블명 또는 좌석수를 입력하여 주십시오., 请输入餐桌名称或坐席数量
+rmpos_indicator, label77, , 테이블명은 10자 이상 등록할 수 없습니다., 餐桌名称不可超10个字
+rmpos_indicator, label78, , 거래등록에 실패하였습니다., 保存信息失败
+rmpos_indicator, label79, , 거래취소에 실패하였습니다., 取消交易失败
+rmpos_indicator, label80, , 주문 정보 등록에 실패하였습니다., 加入商品失败
+rmpos_indicator, label81, , 상품 수량을 입력하여 주십시오., 请输入商品数量
+rmpos_indicator, label82, , 주문완료 상품은 수량을 증가할 수 없습니다., 所预订的商品无法加入
+rmpos_indicator, label83, , 상품을 추가 등록하여 주십시오., 请加入商品
+rmpos_indicator, label84, , 서비스된 상품은 지정할인 할 수 없습니다., 已赠送的商品不可打折
+rmpos_indicator, label85, , 이미 일괄할인이 반영되어 있습니다., 已经批量打折
+rmpos_indicator, label86, , 일괄할인을 '0'으로 변경하여 주십시오., 请取消批量打折
+rmpos_indicator, label87, , 정율할인이 반영되어 있습니다., 已经设定定率折扣
+rmpos_indicator, label88, , 할인 내용을 변경하시겠습니까?, 确定要变更折扣内容吗？
+rmpos_indicator, label89, , 이미 주문취소된 상품은 다시 취소할 수 없습니다., 已经取消的商品不可再取消。
+rmpos_indicator, label90, , 모든 거래를 취소하시겠습니까?, 确定要取消所有的商品吗？
+rmpos_indicator, label91, , 이미 주문변경 내용이 있습니다., 已经有变更的预订内容
+rmpos_indicator, label92, , 주문완료 처리하여 주십시오.," 请点击""预订完成""按钮"
+rmpos_indicator, label93, , 이미 지정취소된 상품 입니다.,是已经指定取消的商品的
+rmpos_indicator, label94, , 새로 상품을 등록하여 주십시오., 请重新加入商品。
+rmpos_indicator, label95, , 모든 상품을 지정취소 할 수 없습니다., 不可取消所有的商品
+rmpos_indicator, label96, , 일괄취소로 거래를 종료하여 주십시오., 以批量取消去结束此交易。
+rmpos_indicator, label97, , 이미 결제완료된 상품 입니다., 已经结帐完成的商品
+rmpos_indicator, label98, , 결제완료된 상품은 취소할 수 없습니다., 所结账完的商品不能取消
+rmpos_indicator, label99, , 발주전송, 发出订单传输
+rmpos_indicator, label100, , 거래번호를 입력하여 주십시오., 请输入收据序列号
+rmpos_indicator, label101, , 데이터베이스 업그레이드가 필요합니다., 需要更新数据库版本
+rmpos_indicator, label102, , POS 시스템이 다시 실행 됩니다., POS机的系统准备要重启
+rmpos_indicator, label103, , 암호를 입력하세요., 请输入密码
+rmpos_indicator, label104, , 관리자 인증에 실패하였습니다., 管理员的密码认证失败
+rmpos_indicator, label105, , 비밀번호를 확인하여 주십시오., 请确认密码
+rmpos_indicator, label106, , 교환권을 등록할 수 없습니다., 无法登录兑换券
+rmpos_indicator, label107, , 지불취소 후 등록하여 주십시오., 付款取消后重新登录
+rmpos_indicator, label108, , 대기모드에서만 출력가능 합니다., 只在待机模式可以打印
+rmpos_indicator, label109, , 거래를 주문완료 또는 지불처리하여 주십시오., 请把该交易做预订完毕或者进行结账
+rmpos_indicator, label110, , 거래가 존재하지 않습니다., 此交易无存在
+rmpos_indicator, label111, , 거래 내용을 확인하여 주십시오., 请确认交易内容
+rmpos_indicator, label112, , 2건 이상의 결제 수단이 존재합니다.,有多个付款方式。
+rmpos_indicator, label113, , 영수증을 분리하여 출력 하시겠습니까?,确定收据要分开打印吗？
+rmpos_indicator, label114, , 고객정보 조회에 실패하였습니다., 会员检索失败
+rmpos_indicator, label115, , 더이상 상품을 등록할 수 없습니다., 无法再加入商品
+rmpos_indicator, label116, , 고객정보를 확인하시고 재시도 해주세요., 确认会员信息后，请再试图
+rmpos_indicator, label117, , 조회된 회원을 선택하여 주십시오., 请选择所所检索的会员
+rmpos_indicator, label118, , <고객정보조회>, <会员信息检索>
+rmpos_indicator, label119, , 고객 정보를 조회하여 주십시오.,请查询会员信息
+rmpos_indicator, label120, , 포인트를 입력하여 주십시오., 请输入积分额
+rmpos_indicator, label121, , 카드번호 변경, 会员卡号变更
+rmpos_indicator, label122, , 신규 카드번호를 입력하여 주십시오., 请输入新的会员卡号
+rmpos_indicator, label123, , <카드번호변경>, <会员卡号变更>
+rmpos_indicator, label124, , 카드번호가, 会员卡号变更为
+rmpos_indicator, label125, , 로 변경되었습니다., 。
+rmpos_indicator, label126, , 테이블 상태 확인에 실패하였습니다., 餐桌状态检查失败
+rmpos_indicator, label127, , 거래중인 테이블은 수정할 수 없습니다., 在交易当中的餐桌不可修改
+rmpos_indicator, label128, , <회원명 입력>, <会员名输入>
+rmpos_indicator, label129, , 회원 이름을 입력하여 주십시오., 请输入会员名称
+rmpos_indicator, label130, , 회원 이름이 너무커서 입력할수 없습니다., 会员名称超长
+rmpos_indicator, label131, , <전화번호 입력>, <电话号码输入>
+rmpos_indicator, label132, , 전화번호를 올바르게 입력하여 주십시오., 请确认电话号码
+rmpos_indicator, label133, , 잔여포인트에 잘못된 값을 입력하였습니다., 在剩余积分栏所输入的数字不正确
+rmpos_indicator, label134, , 잔여포인트를 올바르게 입력하여 주십시오., 请再确认积分
+rmpos_indicator, label135, , 잘못된 생년월일 정보 입니다., 年月日不正确
+rmpos_indicator, label136, , 확인 후 다시 입력하여 주십시오., 请再确认
+rmpos_indicator, label137, , 신규회원 등록에 실패하였습니다., 新加入会员，加入失败
+rmpos_indicator, label138, , <포인트 적립 실패>, <积分积存失败>
+rmpos_indicator, label139, , <신규회원등록>, <新加入会员>
+rmpos_indicator, label140, 여신한도초과 입니다., 발주가능 시간이 아니거나, 不是可行发出订单的时间，就是超额度
+rmpos_indicator, label141, , 발주 확정 요청에 실패 하였습니다., 发出订单发出失败
+rmpos_indicator, label142, , 다시 시도하여 문의하여 주십시오., 请联系到顾客中心
+rmpos_indicator, label143, , 입력단위가 너무커서 표현할 수 없습니다., 输入值超长，无法显示
+rmpos_indicator, label144, , 발주리스트 수신에 실패하였습니다., 接收订单信息，接收失败
+rmpos_indicator, label145, , 삭제할 발주 항목이 없습니다., 没有可删除的商品
+rmpos_indicator, label146, , 발주상품 정보 수신에 실패하였습니다., 可行发出的商品，下载失败
+rmpos_indicator, label147, , <발주확인>, <确认发出订单>
+rmpos_indicator, label148, , 발주 불가능한 상품 입니다., 是不允许发出的商品
+rmpos_indicator, label149, , 외상 처리를 할 수 없습니다.,不可赊账
+rmpos_indicator, label150, , 현금 결제를 할 수 없습니다., 不能交现金付款
+rmpos_indicator, label151, , 처리할 수 없는 금액 입니다., 所输入的金额超大
+rmpos_indicator, label152, , 금액을 확인하여 주십시오., 请确认金额
+rmpos_indicator, label153, , 결제 금액에 마이너스를 입력할 수 없습니다., 在付款金额里不能加减号
+rmpos_indicator, label154, , 상품권 결제를 할 수 없습니다., 以代金券不可结账
+rmpos_indicator, label155, , 지불할 금액을 입력하여 주십시오., 请输入所要付款的金额
+rmpos_indicator, label156, , OK캐쉬백 결제를 할 수 없습니다., 以OK CASHBAG 不可结账
+rmpos_indicator, label157, , 포인트 결제 서비스를 지원하지 않습니다., 不支持积分结账方式
+rmpos_indicator, label158, , 설정 상태를 확인하여 주십시오., 请确认设定的状态
+rmpos_indicator, label159, , 이미 포인트 결제를 하였습니다., 已经以积分方式结完账
+rmpos_indicator, label160, , 포인트는 중복 결제할 수 없습니다., 以积分方式不能重复交钱
+rmpos_indicator, label161, , 포인트 결제를 할 수 없습니다., 以积分方式不可交钱
+rmpos_indicator, label162, , POINT 사용에 실패하였습니다., 扣除积分，扣除失败
+rmpos_indicator, label163, , 포인트 적립에 실패하였습니다., 积分积存失败
+rmpos_indicator, label164, , 미적립포인트 기능으로 적립하여 주십시오., 以积分后积存功能，进行积存
+rmpos_indicator, label165, , 지불정보 로드에 실패하였습니다., 取得付款信息， 取得失败
+rmpos_indicator, label166, , 거래번호를 이용하여 포인트를 적립하여 주십시오., 请使用收据序列号进行积存积分
+rmpos_indicator, label167, , 상품권 결제가 적용되어 있습니다.,已经使用代金券付款方式
+rmpos_indicator, label168, , 취소가 불가하니 결제 후 환불해 주십시오., 此交易无法取消。结完帐后，请退钱
+rmpos_indicator, label169, , 카드결제가 적용되어 있습니다., 已经使用信用卡付款方式
+rmpos_indicator, label170, , 포인트결제가 적용되어 있습니다., 已经使用积分付款方式
+rmpos_indicator, label171, , 외상 수금 취소 저장에 실패 하였습니다., 
+rmpos_indicator, label172, , 거래정보 복원에 실패하였습니다., 交易信息恢复失败
+rmpos_indicator, label173, , 결제취소, 结账取消
+rmpos_indicator, label174, , 결제 취소하시겠습니까?, 确定取消结账吗？
+rmpos_indicator, label175, , 상품검색 :,检索商品：
+rmpos_indicator, label176, , 해당 바코드 상품이 존재하지 않습니다.,该条码不存在
+rmpos_indicator, label177, , 서비스된 상품은 정율할인 할 수 없습니다.,已赠送的商品不能做定率折扣
+rmpos_indicator, label178, , 금액할인이 반영되어 있습니다.,已经处理了定额折扣。
+rmpos_indicator, label179, , 환불모드에서는 보류 기능을 사용할 수 없습니다.,在退钱模式，不可使用回溯功能。
+rmpos_indicator, label180, , 보류할 내용이 없습니다.,没有所回溯的商品。
+rmpos_indicator, label181, , 먼저 상품을 등록하여 주십시오.,请先加入商品
+rmpos_indicator, label182, , 호출할 보류 내용이 존재하지 않습니다.,所选择的回溯内容不存在
+rmpos_indicator, label183, , 직접등록환불 처리를 진행하시겠습니까?,请确定要手动退钱吗？
+rmpos_indicator, label184, , 이미 환불된 거래입니다.,是已经退钱的交易。
+rmpos_indicator, label185, , 환불거래를 다시 시도하여 주십시오.,请再试图退钱
+rmpos_indicator, label186, , 선결제 구매 포인트 환불을 할 수 없습니다.,所预付的积分不能退钱。
+rmpos_indicator, label187, , 포인트 사용취소에 실패하였습니다.,扣除积分，扣除失败
+rmpos_indicator, label188, , 포인트 적용 취소에 실패하였습니다.,积存积分，积存失败
+rmpos_indicator, label189, , 선결제 포인트 환불에 실패하였습니다.,预付积分退钱失败。
+rmpos_indicator, label190, , 포인트 환불 및 사용 취소에 실패하였습니다.,积分退钱或者扣除取消失败
+rmpos_indicator, label191, 카드만 지원합니다., 간이 영수증 출력은 현금,打印收据只支持现金和信用卡。
+rmpos_indicator, label192, , 서버와의 통신에 실패하였습니다.,与服务器通信失败。
+rmpos_indicator, label193, , 잠시 후 다시 시도하여 주십시오.,请稍后再试。
+rmpos_indicator, label194, , 현금영수증 승인 요청에 실패하였습니다.,请求现金发票认证，请求失败。
+rmpos_indicator, label195, , 정보확인 후 다시 시도하여 주십시오.,请确认信息后再试。
+rmpos_indicator, label196, , 현금영수증 승인정보 저장에 실패하였습니다.,保存现金发票认证信息，保存失败。
+rmpos_indicator, label197, , 현금영수증 승인처리에 성공하였습니다.,现金发票认证成功。
+rmpos_indicator, label198, , 영수증을 출력 하시겠습니까?,确定要打印吗？
+rmpos_indicator, label199, , 현금영수증 승인정보 서버 저장에 실패하였습니다.,将现金发票认证信息保存到服务器，保存失败。
+rmpos_indicator, label200, , 승인처리에 성공하였지만 서버 반영에 실패하였습니다.,认证成功，可是保存服务器失败。
+rmpos_indicator, label201, , 중간정산 주문 정보 등록에 실패하였습니다.,提前结账信息记录失败
+rmpos_indicator, label202, , 영수증 번호를 입력하여 주십시오.,请输入收据序列号
+rmpos_indicator, label203, , 해당 거래가 존재하지 않습니다.,此交易不存在
+rmpos_indicator, label204, , 거래번호를 확인하여 주십시오.,请确认收据序列号
+rmpos_indicator, label205, , 포인트 적립이 불가능한 거래입니다.,此交易不可积存积分。
+rmpos_indicator, label206, , 이미 포인트가 적립되었거나 환불된 거래 입니다.,此交易是已经积存完毕或者退钱完毕。
+rmpos_indicator, label207, , 님의 포인트 적립이 완료 되었습니다.,的积分积存完毕。
+rmpos_indicator, label208, , 가용포인트는,可用的积分为
+rmpos_indicator, label209, , pt 입니다.,分
+rmpos_indicator, label210, , 개의 상품을 검색하였습니다.,个的商品检索出来
+rmpos_indicator, label211, , 카드내역 출력에 실패하였습니다.,打印信用卡明细，打印失败
+rmpos_indicator, label212, , 판매자 :,收银员：
+rmpos_indicator, label213, , 마감정산을 진행하시겠습니까?,确定要结清算吗？
+rmpos_indicator, label214, , 정산 가능한 거래가 존재하지 않습니다.,没有可清算的数据。
+rmpos_indicator, label215, , 매출 또는 판매자 아이디를 확인하여 주십시오.,请确认收银员的用户名。
+rmpos_indicator, label216, , 해당 상품을 더이상 취소할 수 없습니다.,该商品无法再取消。
+rmpos_indicator, label217, , 더이상 등록할 수 없습니다.,无法登录
+rmpos_indicator, label218, , 동일한 그룹명이 존재합니다.,相同的组名称已经存在
+rmpos_indicator, label219, , 다른 그룹명을 입력하여 주십시오.,请输入不同的组名称。
+rmpos_indicator, label220, , <지역추가>,<添加地区>
+rmpos_indicator, label221, , 등록과 함께,一共有
+rmpos_indicator, label222, , 개의 테이블을,的餐桌
+rmpos_indicator, label223, , 등록하였습니다.,已经登录完毕
+rmpos_indicator, label224, , 그룹에 동일한 지역명이 존재합니다.,在同一个组，有相同的地区名称。
+rmpos_indicator, label225, , 다른 지역명을 입력하여 주십시오.,请输入不同的地区名称
+rmpos_indicator, label226, , 먼저 지역을 등록 또는 선택하여 주십시오.,请先选择地区或者新增地区。
+rmpos_indicator, label227, , 그룹에 동일한 테이블명이 존재합니다.,在同一个组， 有相同的餐桌名称。
+rmpos_indicator, label228, , 다른 테이블명을 입력하여 주십시오.,请选择不同的餐桌名称
+rmpos_indicator, label229, , 테이블 선택,选择餐桌
+rmpos_indicator, label230, , 먼저 수정할 테이블을 선택하여 주십시오.,请选择所要修改的餐桌。
+rmpos_indicator, label231, , 모든 테이블을 비활성화하시면 그룹이 삭제됩니다.,如果所有的餐桌成为非激活，导致自动删除此组
+rmpos_indicator, label232, , 해당 그룹을 삭제하시겠습니까?,确定要删除此组吗？
+rmpos_indicator, label233, , 먼저 테이블을 편집하여 주십시오.,请先编辑餐桌
+rmpos_indicator, label234, , 먼저 대상 테이블을 선택하여 주십시오.,请先选择对象的餐桌。
+rmpos_indicator, label235, , 거래중인 테이블이 아닙니다.\n주문 상태를 확인하여 주십시오.,不是所交易的餐桌。\n 请确认预订的状态
+rmpos_indicator, label236, , 거래중인 테이블이 존재하지 않습니다.,所交易的餐桌不存在
+rmpos_indicator, label237, , 다른 POS에서 이미 주문중 입니다.,在别的终端机已经进行了预订阶段。
+rmpos_indicator, label238, , 계속 진행 하시겠습니까?,确定要继续进行吗？
+rmpos_indicator, label239, , 거래중인 테이블이 아닙니다.,不是所交易的餐桌。
+rmpos_indicator, label240, , <테이블 관리>,<餐桌管理>
+rmpos_indicator, label241, , 대상 테이블을 선택하여 주십시오.,请选择对象的餐桌。
+rmpos_indicator, label242, , 테이블을 이동 하시겠습니까?,请确定要做移席吗？
+rmpos_indicator, label243, , 테이블을 합치기 하시겠습니까?,请确定合并餐桌吗？
+rmpos_indicator, label244, , 테이블 이동에 실패하였습니다.,移席失败。
+rmpos_indicator, label245, , 해당 테이블에 이미 거래가 존재합니다.,在此餐桌已经有订单
+rmpos_indicator, label246, , 테이블 합치기를 선택하였습니다.,已选择餐桌合并。
+rmpos_indicator, label247, , 일괄할인율이 초기화 됩니다.,批量折扣的信息被初始化。
+rmpos_indicator, label248, , 테이블 합치기에 실패하였습니다.,合并餐桌失败。
+rmpos_indicator, label249, , 선결제 포인트 구매 정보 등록에 실패하였습니다.,预付积分购买信息，登录失败。
+rmpos_indicator, label250, , 잘못된 카드번호 입니다.,是不正确的卡号。
+rmpos_indicator, label251, , 카드를 다시 읽혀 주십시오.,请再刷卡
+rmpos_indicator, label252, , 카드를 리더기에 읽혀 주십시오.,请在刷卡器刷卡
+rmpos_indicator, label253, , 신용카드 결제가 불가능한 금액 입니다.,信用卡付款超额。
+rmpos_indicator, label254, , 결제 금액을 확인하여 주십시오.,请确认收款金额。
+rmpos_indicator, label255, , 승인번호 입력이 누락 되었습니다.,没输入认证号
+rmpos_indicator, label256, , 승인번호 확인 후 다시 시도하여 주시기 바랍니다.,请再确认认证号
+rmpos_indicator, label257, , 거래날짜 입력이 누락 되었습니다.,交易的日期遗漏
+rmpos_indicator, label258, , 거래날짜 확인 후 다시 시도하여 주시기 바랍니다.,请确认交易的日期，并再试图
+rmpos_indicator, label259, , 카드환불을 취소 하시겠습니까?,请确定要信用卡退钱吗？
+rmpos_indicator, label260, , 확인을 누르시면 카드사에 전화취소 하셔야 합니다.,点击“确认”按钮之后， 请联系到银行卡收单，进行退钱。
+rmpos_indicator, label261, , 이미 사용된 상품권 입니다.,是已经使用过的代金券
+rmpos_indicator, label262, , 상품권이 존재하지 않습니다.,代金券号不存在
+rmpos_indicator, label263, , 상품권의 유효기간을 확인하여 주십시오.,请确认代金券的有效期间。
+rmpos_indicator, label264, , 서버로부터 응답을 받지 못했습니다.\n본사에 문의하여 주십시오.,与服务器没有回应。\n 请联系到总公司
+rmpos_indicator, label265, , <금액입력오류>,<输入金额错误>
+rmpos_indicator, label266, , 상품권 사용 금액을 입력하여 주십시오.,请输入代金券的金额。
+rmpos_indicator, label267, , <포인트입력오류>,<输入积分错误>
+rmpos_indicator, label268, , 사용할 포인트를 입력하여 주십시오.,请输入积分点数
+rmpos_indicator, label269, , 해당 상품권 상품은 이미 등록되었습니다.,该代金券已经结帐了。
+rmpos_indicator, label270, , 상품권을 확인하여 주십시오., 请确认代金券号
+rmpos_indicator, label271, , 전자상품권 금액권만 사용가능합니다., 只能使用电子代金券
+rmpos_indicator, label272, , 사용할 수 없는 상품입니다., 此代金券无可使用
+rmpos_indicator, label273, , 전자상품권 교환권만 사용가능합니다., 只能使用电子兑换券
+rmpos_indicator, label274, , 사용할 수 없는 상품이 있습니다.,此兑换券无可使用
+rmpos_indicator, label275, , 회원정보를 다시 확인하시고 재시도 해주세요.,请再确认会员信息后，再试图
+rmpos_indicator, label276, , 상품카테고리 제품 표시 순서등록에 실패하였습니다.,商品范畴排序信息下载失败
+rmpos_indicator, label277, , 마지막 판매일의 카테고리 정보를 사용 합니다.,使用最近的范畴信息
+rmpos_indicator, label278, , 발주번호 요청에 실패 하였습니다.,请求订单号请求失败
+rmpos_indicator, label279, , 마지막 판매일의 테이블 마스터 정보를 사용 합니다.,使用最近的餐桌信息
+rmpos_indicator, label280, , 처리 안된 항목이 존재 합니다.,未完成的数据还存在
+rmpos_indicator, label281, , 주문 내역을 확인하여 주십시오.,请确认预订的内容
+rmpos_indicator, label282, , 더치페이 주문 정보 등록에 실패하였습니다., 
+rmpos_indicator, label283, , 사용자는 이미 마감 되었습니다.,该收银员已经结清算
+rmpos_indicator, label284, , 다른 아이디로 로그인하여 주십시오.,请登录另外用户
+rmpos_indicator, label285, , 서버로부터 회원정보 조회에 실패하였습니다.,在服务器上，查询会员查询失败
+rmpos_indicator, label286, , 님의 가용포인트는 '0' 입니다.,"的可用积分为""0"""
+rmpos_indicator, label287, , 환불할 포인트 잔액이 부족 합니다.,可退的积分不足
+rmpos_indicator, label288, , 주문내용이 존재하지 않습니다.,订单内容无存在
+rmpos_indicator, label289, , <테이블 이동>,<餐桌移动>
+rmpos_indicator, label290, , 카드승인이 2건 이상 존재합니다.,目前信用卡结账有两件以上
+rmpos_indicator, label291, , 판매상품 품목별 집계내역을 출력 하시겠습니까?,要打印销售商品的每分类汇总明细吗？
+rmpos_main, btn1, Menu, 메뉴, 菜单
+rmpos_main, btn2,Registration, 판매, 销售
+rmpos_main, btn3,Config, 환경설정, 环境设置
+rmpos_main, btn4, D/W, 입출금,收支记录
+rmpos_main, btn5,Paid, 거래확인,查询收据
+rmpos_main, btn6, Order, 발주, 发出订单
+rmpos_main, btn7,Settle, 정산, 结算
+rmpos_main, btn8, Bill-collecting, 외상수금, 收款赊账
+rmpos_main, btn9, Buss. Info, 영업정보, 营业报表
+rmpos_main, btn10, Buss. Record, 영업일지, 留言板
+rmpos_main, btn11, Notice, 공지사항, 公告栏
+rmpos_main, btn12, Log Out, 로그아웃, 注销
+rmpos_main, btn13, E-Voucher, 전자상품권 교환권, 电子代金券
+rmpos_main, btn14, Drawer, 공타,钱箱
+rmpos_main, btn15, Members, 회원조회, 查询会员
+rmpos_main, btn16, Telephone, 전화관리,电话记录
+rmpos_main, btn17, Customer Info, 객층정보, 层次信息
+rmpos_main, btn18, Table Management, 테이블관리,设定餐桌信息
+rmpos_main, label1, Tran : , 발생 :, 发生件 ：
+rmpos_main, label2, Upload : , 송신 :, 传输件 ：
+rmpos_main, L1, sales waiting, 판매대기,可行销售
+rmpos_main, L2, open for sales, 판매,销售登录
+rmpos_main, L3, delivery sales, 배달등록, 配送登录
+rmpos_main, L4, refund sales, 환불, 退钱登录
+rmpos_main, L5, credit sales, 외상판매, 赊账登录
+rmpos_main, L6, direct refund, 직접환불, 手动退钱
+rmpos_main, L7, delivery pay, 배달지불, 配送结帐
+rmpos_main, L8, normal pay, 정상지불, 付款记录
+rmpos_main, L9, refund pay, 환불지불, 退钱记录
+rmpos_main, L10, check holding, 보류확인,回溯
+rmpos_main, L11, collect bill, 외상수금, 收款赊账
+rmpos_main, L12, search transaction, 거래검색,收据检索
+rmpos_main, L13, create order, 발주작성, 订货登录
+rmpos_main, L14, send order, 발주전송, 确定订单
+rmpos_main, L15, order history, 발주이력, 订单履历
+rmpos_main, L16, vault cash, 시재등록, 库存现金登录
+rmpos_main, L17, check settlement, 정산확인, 
+rmpos_main, L18, configuration, 환경설정, 环境设置
+rmpos_main, L19, D/W, 입출금,收支记录
+rmpos_main, L20, business info., 영업정보, 营业报表
+rmpos_main, L21, transaction is holding, 보류거래가 있습니다.,有个交易还没完成。
+rmpos_main, L22, settle account after holding transaction, 보류거래를 먼저 처리하고 정산하여 주십시오., 先处理此交易之后，请再进行结算
+rmpos_main, L23, not supporting BULLETIN, BULLETIN은 지원하지 않습니다.,不支持BULLETIN
+rmpos_main, L24, Notice, 공지사항,公告栏
+rmpos_main, L25, Bussiness Record, 영업일지,留言板
+rmpos_main, L26, Table Manage, 테이블관리,设定餐桌信息
+rmpos_main, L27, TAKEOUT, TAKEOUT, TAKEOUT
+rmpos_main, L28, DUTCHPAY, 더치페이,AA制
+rmpos_main, L29, PREPAY, 중간정산,提前结帐
+rmpos_main, btn19, , 확인,确认
+rmpos_main, btn20, , 미적립,未积存积分
+rmpos_main, btn21, , 포인트처리, 
+rmpos_main, L30, , 테이블,餐桌
+rmpos_main, L31, , 주문합계,预订总计
+rmpos_main, L32, , 신규주문,新增订单
+rmpos_main, L33, , 신규 주문 요청이 수신되었습니다.,订单收到
+rmpos_main, L34, , 이름,名称
+rmpos_main, L35, , 전화번호,电话号
+rmpos_main, L36, , 주소,地址
+rmpos_main, L37, Print Receipt, , 
+rmpos_main, L38, , 주문배달, 
+rmpos_main, L39, , 즐겨찾기 관리, 
+rmpos_mccoupon_exchange, label1, Voucher Change, 상품권 거스름돈,代金券零钱
+rmpos_mccoupon_exchange, label2, Cash, 현금, 现金
+rmpos_mccoupon_exchange, label3, Voucher, 상품권,代金券
+rmpos_new_customer, label1, New Member, 신규회원,加入会员
+rmpos_new_customer, label2, Name, 이름, 名字
+rmpos_new_customer, label3, D. of Birth, 생일, 生日
+rmpos_new_customer, label4, Y, 년, 年
+rmpos_new_customer, label5, M, 월, 月
+rmpos_new_customer, label6, D, 일, 日
+rmpos_new_customer, label7, Sex, 성별, 性别
+rmpos_new_customer, label8, Telephone, 전화번호, 电话号
+rmpos_new_customer, label9, Address, 주소, 地址
+rmpos_new_customer, label10, Card No., 카드번호, 卡号
+rmpos_new_customer, btn1, Male, 남성, 男性
+rmpos_new_customer, btn2, Female, 여성, 女性
+rmpos_new_customer, label11, , 잔여포인트, 
+rmpos_official_info, label1, Date of Sales, 판매일자, 销售日期
+rmpos_official_info, label2, Total Sales, 총매출, 总销售
+rmpos_official_info, label3, Sales Allowance, 에누리, 折扣
+rmpos_official_info, label4, Net Sales, 순매출, 纯销售
+rmpos_official_info, label5, Cash, 현금결제, 现金付款
+rmpos_official_info, label6, Card, 카드결제, 信用卡付款
+rmpos_official_info, label7, Point, 포인트결제, Cashbag付款
+rmpos_official_info, label8, Voucher, 상품권결제, 购物券付款
+rmpos_official_info, label9, E/Voucher, 전자상품권결제, 电子购物券付款
+rmpos_official_info, label10, Section, 구분, 区分
+rmpos_official_info, label11, Total, 합계, 合计
+rmpos_official_info, label12, Refund, 환불, 退钱
+rmpos_official_info, label13, Sale, 정상, 正常
+rmpos_official_info, label14, Select User, 사용자 선택, 选择用户
+rmpos_official_info, label15, , 외상결제, 赊账结账
+rmpos_order_info, label1, Order Quantity, 발주 수량, 订购数量
+rmpos_order_info, label2, Product Name, 상품명, 商品名
+rmpos_order_info, label3, Category, 분류, 分类
+rmpos_order_info, label4, Recent Order, 최근 발주, 最近订单
+rmpos_order_info, label5, Stock, 재고, 库存
+rmpos_order_info, label6, Capacity, 용량, 容量
+rmpos_order_info, label7, Size, 규격, 规格
+rmpos_order_info, label8, Measure, 발주단위, 最小单位
+rmpos_order_info, label9, Unit, 단위입수, 订购单位
+rmpos_order_info, label10, Price, 가격, 价格
+rmpos_order_info, label11, Quantity, 수량, 数量
+rmpos_order_info, label12, Total, 합계, 合计
+keypad, label1, Telephone, 전화번호, 电话号
+keypad, label2, , 카드번호, 信用卡号
+keypad, label3, , 외상수금, 赊账收费
+keypad, label4, , 현금결제시 포인트 적립율, 现金收费时积分积存率
+keypad, label5, , 카드결제시 포인트 적립율,信用卡收费时积分积存率
+keypad, label6, , 선입금 포인트 사용시 할인율,扣除积分时折扣率
+keypad, label7, , 테이블수,餐桌数量
+keypad, label8, , 테이블 표시항목, 
+keypad, label9, , 좌석수,座席数量
+keypad, label10, , 서비스 수량입력,输入赠送的数量
+keypad, label11, , 취소 수량입력,输入取消的数量
+keypad, label12, , 적용포인트, 
+keypad, label13, , 금액할인,定额打折
+keypad, label14, , 정율할인,定率打折
+keypad, label15, , 증정 수량입력,输入赠送的数量
+keypad, label16, , 거래번호,收据序列号
+keypad, label17, , barcode,条形码
+keypad, label18, , 선결제 적립 포인트,预付费积存的积分
+keypad, label19, , 사용포인트,扣除积分
+keypad, label20, , 더치페이 인원수,AA制的人口数
+keypad, label21, , 지정할인,指定打折
+keypadtitle, label1, Quantity, 수량, 数量
+keypadtitle, label2, Pay Cash, 현금결제, 现金付款
+keypadtitle, label3, Pay Voucher, 상품권결제, 购物券付款
+keypadtitle, label4, Pay Card, 카드결제, 信用卡付款
+keypadtitle, label5, Pay E/Voucher, 전자상품권 결제, 电子购物券付款
+keypadtitle, label6, Cash Change, 거스름돈 현금, 现金零钱
+keypadtitle, label7, Voucher Confirm, 상품권 조회, 购物券查询
+keypadtitle, label8, , 포인트결제,积分付费
+keypadtitle, label9, , 외상결제,赊账结账
+keypadtitle, outcash, Out Cash, 출금, 提取
+category_item, label1, Select Menu, 하위선택, 可选的菜单
+category_item, label2, Order List, 발주내역,发出订单明细
+category_item, label3, Holding List, 보류내역,回溯明细
+rmpos_payment, btn1, Total, 총금액,总额
+rmpos_payment, btn2, Paid, 지불금액,已收费
+rmpos_payment, btn3, Remaining, 남은돈,应收费
+rmpos_payment, btn4, Credit, 외상, 赊账
+rmpos_payment, btn5, Cash, 현금, 现金
+rmpos_payment, btn6, Voucher, 상품권,代金券
+rmpos_payment, btn7, Cash bag, OK 캐쉬백, OK Cashbag
+rmpos_payment, btn8, Card, 카드,信用卡
+rmpos_payment, btn9, E/Voucher, 전자상품권 금액권, 电子代金券
+rmpos_payment, btn10, Change, 거스름돈, 零钱
+rmpos_payment, btn11, , 고객포인트,会员积分
+rmpos_payment, label1, Not accepted payment with credit, 지불 내역이 있어 외상 할 수 없습니다., 有付款内容，所以不可使用赊账。
+rmpos_payment, label2, Try again after payment cancellation or refund, 거래 취소 또는 환불 후 다시 진행하여 주세요, 交易取消或者退钱之后，请再次进行
+rmpos_payment, label3, No Change, 남은 금액이 없습니다., 没有余额
+rmpos_payment, label4, Not accepted payment with card, 카드결제를 할 수 없습니다., 不可信用卡付款
+rmpos_payment, label5, Not accepted cancellation on e/coupon payment, 전자 상품권이 적용되어 있습니다., 已使用了电子购物券付款
+rmpos_payment, label6, Try refund after payment, 취소가 불가하니 결제 후 환불해 주세요, 不可取消。请先结帐之后，进行退钱。
+rmpos_payment, label7, Not accepted cancellation on Cashbag payment, OK CashBag이 적용되어 있습니다., 已使用了OK Cashbag付款
+rmpos_payment, label8, , 현금 : ,现金：
+rmpos_payment, label9, , 상품권 : ,代金券：
+frequent_item, money, $, 원, 元
+frequent_item, total, total, 총, 总
+rmpos_refund, label1, Pay Card, 카드 결제, 信用卡付款
+rmpos_refund, label2, Pay Cashbag, OK캐쉬백 지불, OK Cashbag付款
+rmpos_refund, label3, Cash Receipt, 현금영수증, 现金单据
+rmpos_refund, label4, E-Voucher, 전자상품권, 电子购物券
+rmpos_refund, label5, Record Existing, 이력이 있습니다., 有履历
+rmpos_refund, label6, Refund?, 환불하시겠습니까?, 请确认进行退钱吗？
+rmpos_refund, label7, Failed Cash receipt approval, 현금영수증 승인 실패, 请求现金单据认证，批准失败
+rmpos_refund, label8, Failed Card approval, 카드 승인 실패, 请求信用卡认证，批准失败
+rmpos_refund, label9, Cancel Card, 카드 취소, 信用卡认可取消
+rmpos_refund, label10, Voucher, 상품권, 购物券
+rmpos_refund, label11, Cancel Voucher, 상품권 취소, 购物券认可取消
+rmpos_refund, label12, Point, 포인트, Point
+rmpos_refund, label13, Point Voucher, 포인트 취소, Point认可取消
+rmpos_refund, label14, , 외상,赊账结账
+rmpos_refund, label15, , 기타결제,其他付费方式
+rmpos_refund, label16, , 현금영수증 발행, 
+rmpos_seeid, label1, See ID, 전화관리, 接电话管理
+rmpos_sell, label1, Total amount, 총금액, 总金额
+rmpos_sell, label2, Discount, 할인, 折扣
+rmpos_sell, label3, Total quantity, 총수량, 总数量
+rmpos_sell, label4, Applied Discount, 일괄할인이 적용되어 있습니다., 已使用了整体折扣
+rmpos_sell, label5, quantity, 수량, 数量
+rmpos_sell, label6, Cancel payment?, 현재거래를 취소하시겠습니까?, 请确认取消目前交易吗？
+rmpos_sell, label7, Discount all, 일괄할인, 整体折扣
+rmpos_sell, btn1, Cancel one, 지정취소, 单个取消
+rmpos_sell, btn2, Cancel all, 일괄취소, 整体取消
+rmpos_sell, btn3, Cancel Delivery, 배달취소, 配送取消
+rmpos_sell, btn4, , 바코드입력,输入条码
+rmpos_sell, label8, , 주문완료,预订完毕
+rmpos_sell, label9, , 주문취소,预订取消
+rmpos_sell, label10, , 보류,回溯明细
+rmpos_sell, label11, , 포장취소,打包取消
+rmpos_settlement, btn1, Search Settlement, 정산서 조회, 查询结清单
+rmpos_settlement, btn2, Print Settlement, 정산서 출력, 结清单印刷
+rmpos_settlement, btn3, Print Vault, 등록시재 출력, 打印库存现金
+rmpos_settlement, btn4, Print by Item, 품목별 집계 출력, 每商品的统计印刷
+rmpos_settlement, btn5, Print Card, 카드 매입 사별 집계 출력, 每信用卡公司的统计印刷
+rmpos_settlement, L1, gross proceeds, 총매출, 总销售
+rmpos_settlement, L2, net sales, 순매출, 纯销售
+rmpos_settlement, L3, cash sales, 순현금매출, 纯现金销售
+rmpos_settlement, L4, etc. sales, 현금외매출, 现金以外销售
+rmpos_settlement, L5, card pay/C, 카드결제/취소, 信用卡付款/取消
+rmpos_settlement, L6, Cashbag pay, OK캐쉬백결제, OK Cashbag付款
+rmpos_settlement, L7, point pay, 포인트결제, 积分付款
+rmpos_settlement, L8, voucher pay, 상품권결제, 购物券付款
+rmpos_settlement, L9, e/voucher pay, 전자상품권결제, 电子购物券付款
+rmpos_settlement, L10, cash reserve, 현금준비금, 实有现金
+rmpos_settlement, L11, voucher reserve, 상품권준비금, 实有购物券
+rmpos_settlement, L12, withdraw cash, 현금출금, 现金提取
+rmpos_settlement, L13, withdraw voucher, 상품권출금, 购物券提取
+rmpos_settlement, L14, voucher amount, 상품권받은금액, 购物券金额
+rmpos_settlement, L15, voucher-cash change, 상품권현금잔돈, 购物券现金零钱
+rmpos_settlement, L16, voucher change, 상품권거스름돈, 购物券零钱
+rmpos_settlement, L17, credit, 외상, 赊账
+rmpos_settlement, L18, adjusted amount, 정산액, 结算额
+rmpos_settlement, L19, deposit/withdraw, 입출금, 存款提取
+rmpos_settlement, L20, card pay/C, 카드결제/취소, 信用卡付款/取消
+rmpos_settlement, L21, cash stock, 현금재고, 现金保有
+rmpos_settlement, L22, voucher stock, 상품권재고, 购物券保有
+rmpos_settlement, L23, C/V total, 현금/상품권 합계, 现金/购物券合计
+rmpos_settlement, L24, card, 카드, 卡
+rmpos_settlement, L25, cash, 현금, 现金
+rmpos_settlement, L26, voucher, 상품권, 购物券
+rmpos_settlement, L27, overs and shorts total, 현금/상품권 과부족, 现金/购物券过不足
+rmpos_settlement, L28, vault, 정산시재, 结清后库存现金
+rmpos_settlement, L29, cashier, 캐셔등록시재, 收银员所登录的库存现金
+rmpos_settlement, L30, overs and shorts, 과부족, 过不足
+rmpos_settlement, L31, 10won, 십원권, 十元
+rmpos_settlement, L32, 50won, 오십원권, 五十元
+rmpos_settlement, L33, 100won, 백원권, 百元
+rmpos_settlement, L34, 500won, 오백원권, 五百元
+rmpos_settlement, L35, 1000won, 천원권, 千元
+rmpos_settlement, L36, 5000won, 오천원권, 五千元
+rmpos_settlement, L37, 10000won, 만원권, 万元
+rmpos_settlement, L38, 50000won, 오만원권, 五万元
+rmpos_settlement, L39,10000, 십만원권, 十万元
+rmpos_settlement, L40, number of check, 기타수표 수, 其它支票数
+rmpos_settlement, L41, price of check, 기타수표 금액, 其它支票金额
+rmpos_settlement, L42, card statement, 카드 전표, 信用卡单据
+rmpos_settlement, L43, number of voucher, 상품권 수, 购物券数
+rmpos_settlement, L44, price of voucher, 상품권 금액, 购物券金额
+rmpos_settlement, L45, Won, 종류, 种类
+rmpos_settlement, L46, Quantity, 매수, 张数
+rmpos_settlement, L47, Price, 금액, 金额
+rmpos_settlement, L48, Total Cash, 현금합계, 现金合计
+rmpos_settlement, L49, Checks, 기타수표, 其它支票
+rmpos_settlement, L50, Total Checks, 수표합계, 支票合计
+rmpos_settlement, L51, , 외상수금,赊账收费
+rmpos_settlement, L52, , 정산 돈통 오픈,开钱箱
+rmpos_transaction, L1, trasaction type, 종류, 种类
+rmpos_transaction, L2, date, 날짜, 日期
+rmpos_transaction, L3, customers, 고객, 顾客
+rmpos_transaction, L4, normal, 정상, 正常
+rmpos_transaction, L5, refund, 환불, 退钱
+rmpos_transaction, L6, credit, 외상, 赊账
+rmpos_transaction, L7, cancel, 취소, 取消
+rmpos_transaction, L8, collect, 수금, 收款
+rmpos_transaction, L9, all, 전체, 整体
+rmpos_transaction, L10, all members, 모든 회원, 所有的会员
+rmpos_transaction, L11, search member, 회원 검색, 查询会员
+rmpos_transaction, L12, Sell id, 거래번호, 交易号码
+rmpos_transaction, L13, No histroy found, 해당 거래 내역이 없습니다., 相关交易明细不存在
+rmpos_transaction, L14, holding, 보류, 保留
+rmpos_transaction, L15, direct refund, 직접환불, 手动退钱
+rmpos_transaction, L16, collecting, 수금처리용, 收款处理用
+rmpos_transaction, L17, failed at transaction information loading, 거래 내역을 불러오는데 실패 하였습니다., 收款处理用
+rmpos_transaction, label1, , ::::: 거래정보 :::::, ::::: 交易信息 :::::
+rmpos_transaction, label2, , 거래번호 :,收据序列号：
+rmpos_transaction, label3, , 판매자:,收银员：
+rmpos_transaction, label4, , 총금액 :,总额：
+rmpos_transaction, label5, , 할인액 :,折扣额：
+rmpos_transaction, label6, , 상품수 :,商品数：
+rmpos_transaction, label7, , ::::: 거래상세 :::::, ::::: 交易详细 :::::
+rmpos_transaction, label8, , 포인트 구매,以积分购买
+rmpos_transaction, label9, , 외상수금,赊账收费
+rmpos_transaction, label10, , 포인트 구매 취소,以积分购买取消
+rmpos_transaction, label11, , 포인트 구매 직접취소,积分购买手动取消
+rmpos_transaction, label12, , 외상수금 취소,赊账收费取消
+rmpos_transaction, label13, , 외상수금 직접취소,赊账收费手动取消
+rmpos_user_list, L1, title, 타이틀, 题目
+rmpos_user_list, L2, enter id, 아이디 입력, 输入用户名
+rmpos_user_list, L3, enter name, 이름 입력, 输入名字
+rmpos_user_list, L4, test, 테스트, 测试用户
+userctrlsetting, L1, Bill print, 주문서 출력, 订单印刷
+userctrlsetting, L2, Receipt print, 영수증 출력, 单据印刷
+userctrlsetting, L3, Bankbook print, 입출금 내역 출력, 存款提取明细印刷
+userctrlsetting, L4, Sign pad, 서명 패드, 签署板
+userctrlsetting, L5, Beeper, 호출기, 呼叫器
+userctrlsetting, L6, Cashbag, OK캐쉬백, OK Cashbag
+userctrlsetting, L7, Category root, 카테고리 루트, 根目录
+userctrlsetting, L8, Dual display, 듀얼 디스플레이, 双显示
+userctrlsetting, L9, Hold receipt print, 보류 영수증 출력, 保留票印刷
+userctrlsetting, L10, Tradebook upload, 거래 내역 업로드, 上传交易数据
+userctrlsetting, L11, Bill reprint, 주문서 중복 출력, 订单重复印刷
+userctrlsetting, L12, company code, 회사코드, 公司代码
+userctrlsetting, L13, store code, 매장코드, 店铺代码
+userctrlsetting, L14, pos number, 포스번호, POS号码
+userctrlsetting, L15, VAN number, VAN번호, VAN号码
+userctrlsetting, L16, VAN section, VAN구분, VAN区分
+userctrlsetting, L17, open time, 영업 시작시간, 营业开始时刻
+userctrlsetting, L18, closed time, 영업 마감시간, 营业结束时刻
+userctrlsetting, L19, start sales, 판매 시작 분류 단계, 销售头分类
+userctrlsetting, L20, finish sales, 판매 마지막 분류 단계, 销售末分类
+userctrlsetting, L21, sales category, 판매 시작 카테고리, 销售头目录
+userctrlsetting, L22, start orders, 발주 시작 분류 단계, 发出订单头分类
+userctrlsetting, L23, finish orders, 발주 마지막 분류 단계, 发出订单末分类
+userctrlsetting, L24, order category, 발주 시작 카테고리, 发出订单头目录
+userctrlsetting, L25, dual display resolution, 듀얼 디스플레이 해상도, 双显示分辨率
+userctrlsetting, L26, Master reception, 마스터 재 수신, Master再次受信
+userctrlsetting, L27, Data reception, 기본정보 재 수신, 基础信息再次受信
+userctrlsetting, L28, Sale SYNC, 매출 정보 동기화, 销售信息同步
+userctrlsetting, L29, All master reception, 전체 마스터 재 수신, 整体Master再次受信
+userctrlsetting, L30, receiving all product master..., 전체 상품 마스터 수신 중입니다..., 正在收整个商品Master。。。
+userctrlsetting, L31, failed at receiving, 전체 상품마스터 수신이 실패하였습니다., 受信整个商品Master受信失败了。
+userctrlsetting, L32, receiving product master..., 상품 마스터 수신 중입니다..., 正在收商品Master。。。
+userctrlsetting, L33, failed at receiving, 상품마스터 수신이 실패하였습니다., 受信商品Master受信失败了。
+userctrlsetting, L34, receving data information..., 기본 정보 수신 중입니다..., 正在收基础信息。。。
+userctrlsetting, L35, store information, 매장정보 , 店铺信息
+userctrlsetting, L36, category information, 카테고리정보 , 目录信息
+userctrlsetting, L37, code information, 기초코드정보 , 基础代码信息
+userctrlsetting, L38, user information, 사용자정보 , 用户信息
+userctrlsetting, L39, failed at receiving, 수신이 실패하였습니다., 受信失败了
+userctrlsetting, L40, receving sales information..., 매출 정보 수신 중입니다..., 正在收销售信息。。。
+userctrlsetting, L41, failed at receiving, 매출정보 수신이 실패하였습니다., 受信销售信息受信失败了。
+userctrlsetting, L42, Please restart POS to apply new language selected., 언어는 재시작 후 적용됩니다., 改语言后，程序需要重新启动。
+userctrlsetting, L43, Language, 언어, 语言
+userctrlsetting, L44, cashdrawer, 금전출납기, cashdrawer
+userctrlsetting, L45, Approval Voucher, 상품권승인, 购物券认证
+userctrlsetting, L46, , 운영모드,营业模式
+userctrlsetting, L47, , 통화단위,通货单位
+userctrlsetting, L48, , 발주 내역 표시,发出订单明细显示
+userctrlsetting, L49, , 선불제,预付费模式
+userctrlsetting, L50, , 후불제,后付费模式
+userctrlsetting, L51, , 현금결제시 포인트 적립율 :,现金付费时积分积存率：
+userctrlsetting, L52, , 카드결제시 포인트 적립율 :,信用卡付费时积分积存率：
+userctrlsetting, L53, , 선결제 포인트 사용시 할인율 :,积分付费时积分积存率：
+userctrlsetting, L54, , 전체 상품마스터 수신에 성공하였습니다.,所有的商品目录下载成功。
+userctrlsetting, L55, , 상품마스터 수신에 성공하였습니다.,商品目录更新成功。
+userctrlsetting, L56, , 기본정보 수신에 성공하였습니다.,店铺信息更新成功。
+userctrlsetting, L57, , 동기화 날짜 간격이 너무 큽니다.,同步时间隔超长
+userctrlsetting, L58, , 날짜를 조정하여 주십시오.,请调整日期
+userctrlsetting, L59, , 매출정보 수신에 성공하였습니다.,收据数据下载成功
+userctrlsetting, L60, , 원격지원 요청을 하시겠습니까?,确定要做远程服务吗？
+userctrlsetting, L61, , 영수증 알림메시지 편집,收据提示短信编辑
+userctrlsetting, L62, , 정산기준, 
+userctrlsetting, L63, , 즐겨찾기 기본사용, 
+userctrlsetting, L64, , 상품 메뉴 구성, 
+userctrlsetting, L65, , 영수증 공지알림, 
+userctrlsetting, L66, , 금액할인 적용타입, 
+userctrlsetting, L67, , 멤버쉽 포인트 지원, 
+userctrlsetting, L68, , 버전정보, 
+userctrlsetting, L69, , 원격지원요청, 
+userctrlsetting, L70, , 영업일매출, 
+userctrlsetting, L71, , 최근정산이후매출, 
+userctrlsetting, L72, , 없음, 
+userctrlsetting, L73, , 시, 
+userctrlsetting, L74, , 대, 
+userctrlsetting, L75, , 중, 
+userctrlsetting, L76, , 소, 
+userctrlsetting, L77, , 사용안함, 
+userctrlsetting, L78, , 사용, 
+userctrlsetting, L79, , 아니오, 
+userctrlsetting, L80, , 예, 
+userctrlsetting, L81, , 상품(할인*수량), 
+userctrlsetting, L82, , 입력금액, 
+userctrlsetting, L83, , 상품별 적립처리, 
+userctrlsetting, L84, , 결제 금액별 적립처리, 
+userctrlsetting, L85, , 선결제 적립처리, 
+userctrlsetting, L86, , 상품명, 
+userctrlsetting, L87, , 공급가, 
+userctrlsetting, L88, , 입력순, 
+linkwebservice, label1, , 미수금 조회,查询未收费的名单
+enrollarea, label1, , 지역등록,地区登录
+enrollarea, label2, , 지역명,地区名
+enrollarea, label3, , 테이블수,餐桌数
+enrollarea, label4, , 등록,登录
+enrollarea, label5, , 취소,取消
+enrollarea, label6, , 바둑판 배열, 
+enrollarea, label7, , 사용자 배열, 
+modify_area, label1, , 지역수정,地区修改
+modify_area, label2, , 지역명,地区名
+modify_area, label3, , 사용,使用
+modify_area, label4, , 사용안함,未使用
+modify_area, label5, , 등록,注册
+modify_area, label6, , 취소,取消
+modify_table, label1, , 지역명,地区名
+modify_table, label2, , 테이블명,餐桌名
+modify_table, label3, , 좌석수,席子数
+modify_table, label4, , 사용,座位数
+modify_table, label5, , 사용안함,未使用
+modify_table, label6, , 등록,登录
+modify_table, label7, , 취소,取消
+modify_table, label8, , 테이블 등록, 
+modify_table, label9, , 테이블 수정, 
+modify_member_card, label1, , 카드번호 변경,卡号变更
+modify_member_card, label2, , 이전카드번호,前卡号
+modify_member_card, label3, , 신규카드번호,新卡号
+modify_member_card, label4, , 등록,登录
+modify_member_card, label5, , 취소,取消
+useralert, label1, , 영업시간확인,营业时间确认
+useralert, label2, , 알림,提示
+useralert, label3, , 해당 거래는 외부 단말기 승인 내용입니다.,此交易是在信用卡终端机结帐的。
+useralert, label4, , 카드번호 :,卡号：
+useralert, label5, , 승인번호 :,认证号吗：
+useralert, label6, , 결제금액 :,付费金额：
+useralert, label7, , 단말기에서 반드시 직접 승인 취소하여 주십시오.,请到信用卡终端机进行退款
+useralert, label8, , 다음 카드 승인 거래를 환불 취소하였습니다.,以后 信用卡交易已经处理退款了。
+useralert, label9, , 승인날짜 :,认证日期：
+useralert, label10, , 해당거래는 반드시 카드사에 직접 취소하여 주십시오.,此收据必须联系到银行卡收单，进行退钱。
+useralert, label11, , 사용자는 마감처리 되었습니다.,收银员已经结清算
+useralert, label12, , 반드시 로그아웃 하시고 다른 아이디로 로그인하여 주십시오.,请必须注销后，登录另外的用户
+useralert, label13, , 현재시간 : ,目前时间：
+useralert, label14, , 경고,警告
+useralert, label15, , 입력된 카드로 금일,对于所输入的信用卡， 今天
+useralert, label16, , 회 카드승인이 확인되었습니다., 次 信用卡刷卡了
+useralert, label17, , *카드번호 :,* 信用卡号：
+useralert, label18, , 카드번호를 확인 후 결제를 진행하여 주십시오.,请确认信用卡号，再进行付费。
+useralert, label19, , 고객님이 접속 하셨습니다.,收银员登录了
+useralert, label20, , 접속시간,登录时间
+useralert, label21, , 영업시간이 잘못된 경우 수정하여 주십시오.,如果营业时间不正确的话， 请修正系统时间。
+sell_item, label1, , (전자상품권) ,(电子代金券)
+sell_item, label2, , (증정),(赠送)
+sell_item, label3, , (서비스),(赠送)
+sell_item, label4, , (포장),(包装)
+prepay_sub_menu, label1, , 증정,赠送
+prepay_sub_menu, label2, , 증정 취소,赠送取消
+edit_notice, label1, , 적립사유,积存积分的理由
+edit_notice, label2, , 취소사유,取消的理由
+new_item_sub_menu, label1, , 서비스,赠送
+new_item_sub_menu, label2, , 서비스 취소,赠送取消
+new_item_sub_menu, label3, , 포장,包装
+new_item_sub_menu, label4, , 포장 취소,包装取消
+new_item_sub_menu, label5, , 지정할인, 
+old_item_sub_menu, label1, , 서비스,赠送
+old_item_sub_menu, label2, , 서비스 취소,赠送取消
+old_item_sub_menu, label3, , 주문서출력,打印订单
+old_item_sub_menu, label4, , 최근주문출력,打印最近订单
+print_ordlist, label1, , (지불),(支付)
+print_ordlist, label2, , 중간영수증 재인쇄,重新打印收据预览目录
+save_point, label1, , 카드번호,卡号
+save_point, label2, , 이름,名称
+save_point, label3, , 가용포인트,可用的积分
+save_point, label4, , 영수증번호,收据序列号
+save_point, label5, , 거래금액,收费金额
+save_point, label6, , 거래일자,收费日期
+save_point, label7, , 적립포인트,积存积分
+g_time, label1, , 초 전,秒前
+g_time, label2, , 분 전,分前
+set_menu, label1, , 지정 항목,指定项目
+table_edit, label1, , 지역명,地区名
+table_edit, label2, , 테이블 추가,添加餐桌
+table_edit, label3, , 테이블 수정,修改餐桌
+table_edit, label4, , 지역 관리,地区管理
+table_edit, label5, , 위로 이동,向上挪动
+table_edit, label6, , 아래로 이동,向下挪动
+table_edit, label7, , 지역추가,新增地区
+table_edit, label8, , 지역수정,地区修改
+table_sale, label1, , (배달거래), （配送交易）
+table_sale, label2, , (TAKEOUT), （takeout）
+table_sale, label3, , (중간결제), （提前结帐）
+table_sale, label4, , (더치페이), （AA制）
+table_sale, label5, , 선결제\n포인트 적립,充值
+table_sale, label6, , TAKEOUT/보류, （takeout/回溯）
+table_sale, label7, , 테이블 관리,设定餐桌信息
+table_sale, label8, , 거래모드, 
+table_sale, label9, , 중간정산,提前结帐
+table_sale, label10, , 중간영수증,收据预览
+table_sale, label11, , 할인 : ,折扣：
+table_sale, label12, , 합계 : ,总计：
+table_sale, label13, , 대상 테이블을 선택하여 \n주십시오.,请选择餐桌
+table_sale, label14, , 대상 테이블 선택,选择餐桌
+table_sale, label15, , '완료' 버튼을 클릭/터치하여 \n주십시오.,请单击“完成”按钮。
+table_sale, label16, , '완료' 버튼 클릭,单击“完成”按钮
+table_sale, label17, , TAKEOUT 보류 처리 모드 입니다. 위에 거래 항목을 선택하여 결제를 진행하여 주십시오.,目前画面是takeout名单。可以选择进行结帐。
+table_sale, label18, , 거래 테이블을 선택하여\n주십시오.,请选择餐桌
+table_sale, label19, , 거래 테이블 선택,选择餐桌
+table_sale, label20, , 테이블 관리 모드 입니다. 작업 완료 후 우측의 '완료' 또는 '취소' 버튼을 클릭하여 주십시오.,在目前画面，可以合并及移席。选择完成后，请点击“完成”按钮。
+table_sale, label21, , 취소,取消
+table_sale, label22, , 중간정산 모드 입니다. 대상 테이블을 선택하시거나 오른쪽 '중간정산취소' 버튼을 클릭하여 주십시오.,提前结帐模式。 请选择所要结账的餐桌。
+table_sale, label23, , 중간영수증 출력 모드 입니다. 대상 테이블을 선택하시거나 오른쪽의 '중간영수증취소' 버튼을 클릭하여 주십시오.,预览收据的打印模式。请选择餐桌。
+table_sale, label24, , 더치페이 모드 입니다. 위에 거래 항목을 선택하여 결제를 진행하여 주십시오., 
+table_sale, label25, , 더치페이, 
+table_sale, label26, , 더치페이 모드 입니다. 대상 테이블을 선택하시거나 오른쪽의 '더치페이취소' 버튼을 클릭하여 주십시오., 
+table_sale, label27, , 완료, 完毕
+pay_type, label1, , 현금,现金
+pay_type, label2, , 카드,信用卡
+pay_type, label3, , 상품권,代金券
+pay_type, label4, , 쿠폰,兑换券
+pay_type, label5, , 포인트,积分
+pay_type, label6, , 외상,赊账
+pay_type, label7, , 복합,多个付费方式
+sign_ks, label1, , 서명데이터 획득에 실패하였습니다.\n다시 시도하여 주십시오.,签署数据获得失败 \n 请再试图
+sign_nice, label1, , 금액,金额
+sign_nice, label2, , 원,元
+sign_nice, label3, , 서명패드로부터 데이터 수신에 실패하였습니다.,在签署终端机取得数据，取得失败。
+sign_nice, label4, , 오류,错误
+rmpos_exception, label1, , Unknown barcode,条码无识
+rmpos_exception, label2, , 카드번호 변경 결과 수신에 실패하였습니다.,变更信用卡号，接收结果失败
+rmpos_exception, label3, , 신규회원 등록 결과 수신에 실패하였습니다.,新增会员，接收结果失败。
+rmpos_exception, label4, , 신규회원 등록-잔여포인트 등록에 실패하였습니다.,新增会员以及积存积分失败
+rmpos_exception, label5, , 지불정보 로드 실패 :,支付信息下载失败：
+rmpos_exception, label6, , 환불 거래정보 등록 오류,退钱交易信息，登录失败
+rmpos_exception, label7, , 환불 거래 지불 등록 오류,退钱交易的支付信息， 登录失败
+rmpos_exception, label8, , 환불 거래 상품권 등록 오류,退钱交易的代金券，登录失败
+rmpos_exception, label9, , 환불 거래 전자상품권 등록 오류,退钱交易的电子代金券， 登录失败
+rmpos_exception, label10, , 지불정보 조회에 실패하였습니다.,支付信息查询失败。
+rmpos_exception, label11, , 적립할 포인트가 없습니다.,没有可积存的积分。
+rmpos_exception, label12, , The transaction is not setting,事务还未设定。
+rmpos_exception, label13, , Already RealMate Air Client POS System Run.,Realmate程序已启动了
+printhelper,label1, , 정산 내역이 존재하지 않습니다.,结清算数据不存在
+printhelper,label2, , 카드 결제 내역이 존재하지 않습니다.,信用卡结帐数据不存在
+printhelper,label3, , 카드사별 집계입니다.,是按信用卡收单的汇总。
+printhelper,label4, , 포스번호: ,POS号：
+printhelper,label5, , 카드사,信用卡收单
+printhelper,label6, , 건수,件数
+printhelper,label7, , 금액,金额
+printhelper,label8, , 총합계,总额：
+printhelper,label9, , 품목별 집계입니다.,是每分类的汇总
+printhelper,label10, , 상품명,商品名
+printhelper,label11, , 수량,数量
+printhelper,label12, , 계산원,收银员：
+printhelper,label13, , 직접등록,手动登录
+printhelper,label14, , 주문서,订单
+printhelper,label15, , 배달거래,配送
+printhelper,label16, , TAKEOUT(포장), takeout（包装）
+printhelper,label17, , 주문시간,预订时间
+printhelper,label18, , 영수증번호,收据序列号
+printhelper,label19, , 포장,打包
+printhelper,label20, , 서비스,赠送
+printhelper,label21, , 취소,取消
+printhelper,label22, , 주문번호,预订号
+printhelper,label23, , 테이블,餐桌
+printhelper,label24, , 상품코드,商品代码
+printhelper,label25, , 주문취소,预订取消
+printhelper,label26, , 보류내역,回溯明细
+printhelper,label27, , 보류번호,回溯号吗
+printhelper,label28, , 할인액,折扣额
+printhelper,label29, , 외상금액: ,赊账金额：
+printhelper,label30, , 결제 금액: ,付款金额：
+printhelper,label31, , 고객주문서,顾客订单号
+printhelper,label32, , 최종주문내역,最后订单明细
+printhelper,label33, , * 표시는 비과세 상품입니다., * 标识是非课税的商品。
+printhelper,label34, , 주문로그,预订记录
+printhelper,label35, , 지역,地区
+printhelper,label36, , 거래번호,收据序列号
+printhelper,label37, , 상품권,代金券
+printhelper,label38, , 할인,打折
+printhelper,label39, , 세트,套餐
+printhelper,label40, , 대표,代表
+printhelper,label41, , 전화,电话
+printhelper,label42, , 매장명,店铺名
+printhelper,label43, , 추가주문,加入商品
+printhelper,label44, , 지불,支付
+printhelper,label45, , 주문내역,订单内容
+printhelper,label46, , 영 수 증,收据
+printhelper,label47, , 환불 거래,退钱交易
+printhelper,label48, , 정상 거래,正常交易
+printhelper,label49, , 외상 취소,赊账取消
+printhelper,label50, , 외상 거래,赊账交易
+printhelper,label51, , 포인트구매,积分购买手动取消
+printhelper,label52, , 포인트구매취소,积分购买取消
+printhelper,label53, , 수금거래,收账交易
+printhelper,label54, , 수금취소,收账取消
+printhelper,label55, , 영수증 재출력,重新打印收据
+printhelper,label56, , 상품권 결제,代金券付款
+printhelper,label57, , 상품권 결제 금액,代金券付款金额
+printhelper,label58, , 전자상품권 결제 금액,电子代金券付费金额
+printhelper,label59, , 포인트 결제 금액,积分付款金额
+printhelper,label60, , 카드 결제 금액,信用卡付款金额
+printhelper,label61, , 현금영수증취소(고객용),现金发票取消（顾客用）
+printhelper,label62, , 현금영수증(고객용),现金发票（顾客用）
+printhelper,label63, , 사업자 지출증빙,单位发票
+printhelper,label64, , 현금(소득공제),现金（所得抵扣)
+printhelper,label65, , 거래자 구분: ,区分：
+printhelper,label66, , 승인금액:, 认证金额：
+printhelper,label67, , 취소금액:,取消金额：
+printhelper,label68, , 거래자번호:,序列号：
+printhelper,label69, , 승인번호:, 认证号吗：
+printhelper,label70, , 국세청문의 Tel: 126,国税厅咨询 Tel:126
+printhelper,label71, , http://현금영수증.kr, http://현금영수증.kr
+printhelper,label72, , 카드번호,卡号
+printhelper,label73, , OK캐쉬 승인 번호, OK CASHBAG 认证号吗
+printhelper,label74, , 적립 금액,积存金额
+printhelper,label75, , 적립 취소,积存取消
+printhelper,label76, , 사용 금액:,扣除金额：
+printhelper,label77, , 사용 취소 금액:,扣除取消金额：
+printhelper,label78, , 고객번호 :,顾客号：
+printhelper,label79, , 발생포인트:,发生积分：
+printhelper,label80, , 가용포인트,可用积分：
+printhelper,label81, , 받은금액:,应收金额：
+printhelper,label82, , 거스름돈:,零钱：
+printhelper,label83, , 환불금액:,退钱金额：
+printhelper,label84, , 외상정보,赊账信息：
+printhelper,label85, , 주소,地址
+printhelper,label86, , 전화번호,电话号
+printhelper,label87, , 배달정보,配送信息
+printhelper,label88, , 공급가액,供应价
+printhelper,label89, , 부가세,附加税
+printhelper,label90, , 총금액,总额：
+printhelper,label91, , 외상수금,赊账收费
+printhelper,label92, , 미수잔액,未收费额
+printhelper,label93, , 가맹점용,加盟店用
+printhelper,label94, , 서명,签署
+printhelper,label95, , 카드사용,信用卡使用
+printhelper,label96, , 카드회사,信用卡收单
+printhelper,label97, , 할부개월,分期付款
+printhelper,label98, , 현금 결제 금액,现金付款金额
+printhelper,label99, , 선결제 포인트 할인액,预付费积分折扣额
+printhelper,label100, , 환불취소,退钱取消
+printhelper,label101, , 환불 승인 실패된 거래로 반드시 전화 취소하여 주십시오.,退款未完成，请到客户中心联系。
+printhelper,label102, , 포인트 구매 취소,积分购买取消
+printhelper,label103, , 포인트 구매,积分购买
+printhelper,label104, , 전자상품권,电子代金券
+printhelper,label105, , 사용금액,使用金额
+printhelper,label106, , 잔여금액,余额
+printhelper,label107, , 전자상품권번호,电子代金券号吗
+printhelper,label108, , 유의사항:금액상품권 사용취소.잔액사용 사용취소 시 해당매장에 영수증 제시. 잔액의 경우 1회 사용가능.,注意：在代金券退钱或余额退钱时候，必带收据。
+printhelper,label109, , 유의사항\n-모바일 금액 상품권 취소 시 사용 매장에 영수증 제시\n-모바일 금액 상품권 잔액은 유효기간 내에 사용 가능,注意：移动代金券退钱时， 在有效期间内必带收据。
+printhelper,label110, ,전체취소,全部取消
+printhelper,label111, ,정산서시재 입니다.,是结清算的库存现金
+printhelper,label112, ,십만원권수표,十万元券
+printhelper,label113, ,기타수표,其他券
+printhelper,label114, ,수표합계,券合计
+printhelper,label115, ,오만원권,五万元券
+printhelper,label116, ,만원권,一万元券
+printhelper,label117, ,오천원권,五千元券
+printhelper,label118, ,천원권,一千元券
+printhelper,label119, ,오백원,五百元
+printhelper,label120, ,백원,一百元
+printhelper,label121, ,오십원,五十元
+printhelper,label122, ,십원,一十元
+printhelper,label123, ,현금합계,现金合计
+printhelper,label124, ,상품권합계,代金券合计
+printhelper,label125, ,카드일시매수,信用卡票数
+printhelper,label126, ,마감정산서,结清算单子
+printhelper,label127, ,영업일자,营业日期
+printhelper,label128, ,시작거래시간,开始时间
+printhelper,label129, ,없음,无
+printhelper,label130, ,마감거래시간,结束时间
+printhelper,label131, ,매/건수,张/件数
+printhelper,label132, ,정산액,清算额
+printhelper,label133, ,총매출,总收入
+printhelper,label134, ,에누리,折扣
+printhelper,label135, ,순매출,纯收入
+printhelper,label136, ,순현금매출,纯现金收入
+printhelper,label137, ,현금외매출,现金外收入
+printhelper,label138, ,카드결제/취소,信用卡付款/取消
+printhelper,label139, ,자동승인,终端机结账
+printhelper,label140, ,수동승인,信用卡终端机结账
+printhelper,label141, ,상품권결제,代金券结账
+printhelper,label142, ,전자상품권결제,电子代金券结账
+printhelper,label143, ,OK캐쉬백결제,OK CASHBAG 结账
+printhelper,label144, ,포인트결제,积分结账
+printhelper,label145, ,현금준비금,现金支付准备金
+printhelper,label146, ,상품권준비금,代金券支付准备金
+printhelper,label147, ,현금출금,现金提取
+printhelper,label148, ,상품권출금,代金券提取
+printhelper,label149, ,상품권받은금액,收代金券金额
+printhelper,label150, ,현금거스름,现金零钱
+printhelper,label151, ,상품권거스름,代金券零钱
+printhelper,label152, ,외상,赊账
+printhelper,label153, ,정산시재,结清算库存现金
+printhelper,label154, ,현금재고,现金库存
+printhelper,label155, ,카드전표,信用卡票
+printhelper,label156, ,상품권재고,代金券库存
+printhelper,label157, ,현금/상품권 합계,现金/代金券合计
+printhelper,label158, ,캐셔등록시재,收银员库存现金
+printhelper,label159, ,현금/상품권 과부족,现金/代金券过不足
+printhelper,label160, ,현금외상수금,现金赊账收费
+printhelper,label161, ,카드외상수금,信用卡赊账收费
+printhelper,label162, ,현금선결제포인트구매,现金预付费积分购买
+printhelper,label163, ,카드선결제포인트구매,信用卡预付费积分购买
+printhelper,label164, ,주문테이블,预订餐桌
+printhelper,label165, ,출력시간,输出时间
+printhelper,label166, ,날짜,日期
+printhelper,label167, ,입출금내역번호,收支履历号吗
+printhelper,label168, ,입금 전표,收款单子
+printhelper,label169, ,출금 전표,支出单子
+printhelper,label170, ,입금 완료,收款完毕
+printhelper,label171, ,출금 완료,支出完毕
+printhelper,label172, ,입금 취소,收款取消
+printhelper,label173, ,출금 취소,支出取消
+printhelper,label174, ,현금,现金
+printhelper,label175, ,총액,总额
+printhelper,label176, ,님,贵
+arealist,label1, ,지역선택,地区选择
+membershippoint,label1, ,이름,名称
+membershippoint,label2, ,현재포인트,目前积分
+gurum_rejectreason,label1, ,상품매진,商品售完
+gurum_rejectreason,label2, ,영업마감,营业结束
+gurum_rejectreason,label3, ,배달불가,不可配送
+gurum_orderlist,label1, ,대기,待机
+gurum_orderlist,label2, ,완료,完毕
+gurum_orderlist,label3, ,취소,取消
+gurum_orderlist,label4, , 배달/TAKEOUT 주문내역, 
+gurum_orderlist,label5, , 주문시간,  
+gurum_orderlist,label6, , 주문자, 
+gurum_orderlist,label7, , 전화번호, 
+gurum_orderlist,label8, , 상태, 
+search_item, label1, , 상품명/바코드, 
+input_sell_id, label1, search transaction, 거래검색, 收据检索
+input_sell_id, label2, , 영수증번호, 收据序列号
+creditcollect, label1, , 현재 미수잔액, 
+creditcollect, label2, , 미수금 상세조회, 
+creditcollect, label3, , 외상수금, 
+editfavor_gmaster, label1, , 즐겨찾기편집, 
+editfavor_gmaster, label2, , 상품명/바코드, 
+editfavor_gmaster, label3, , 위로, 
+editfavor_gmaster, label4, , 아래로, 
+editfavor_gmaster, label5, , 추가, 
+editfavor_gmaster, label6, , 제거, 
+editfavor_gmaster, label7, , 즐겨찾기 리스트, 
+rmpos_salesettle, label1, , 결제, 
+rmpos_salesettle, label2, , 총 금액, 
+rmpos_printordlist, label1, , 중간영수증 출력, 
+rmpos_printordlist, label2, , 주문이력 출력, 
+rmpos_printordlist, label3, , 합계 금액, 
+rmpos_printordlist, label4, , 할인 금액, 
+rmpos_printordlist, label5, , 결제 금액, 
+rmpos_appexit, label1, , POS 종료, 
+rmpos_appexit, label2, , POS 종료, 
+rmpos_appexit, label3, , POS 재시작, 
+rmpos_appexit, label4, , 시스템 종료, 
+rmpos_adminauth, label1, , 비밀번호 확인, 
+rmpos_adminauth, label2, , 비밀번호를 입력하여 주십시오., 
+end, end, , , 
